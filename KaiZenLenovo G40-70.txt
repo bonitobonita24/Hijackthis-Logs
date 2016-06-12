@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 3:35:21 PM, on 6/12/2016
+Scan saved at 3:36:34 PM, on 6/12/2016
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.10586.0020)
 
@@ -31,6 +31,8 @@ O2 - BHO: Java(tm) Plug-In 2 SSV Helper - {DBC80044-A445-435b-BC74-9C25C1C588A9}
 O2 - BHO: SmartSelect - {F4971EE7-DAA0-4053-9964-665D8EE6A077} - C:\Program Files (x86)\Common Files\Adobe\Acrobat\WCIEActiveX\2015\AcroIEFavStub.dll
 O3 - Toolbar: Adobe Acrobat Create PDF Toolbar - {47833539-D0C5-4125-9FA8-0819E2EAAC93} - C:\Program Files (x86)\Common Files\Adobe\Acrobat\WCIEActiveX\2015\AcroIEFavStub.dll
 O4 - HKLM\..\Run: [StartCCC] "C:\Program Files (x86)\AMD\ATI.ACE\Core-Static\amd64\CLIStart.exe" MSRun
+O4 - HKUS\S-1-5-19\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'LOCAL SERVICE')
+O4 - HKUS\S-1-5-20\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'NETWORK SERVICE')
 O8 - Extra context menu item: Download all links with IDM - C:\Program Files (x86)\Internet Download Manager\IEGetAll.htm
 O8 - Extra context menu item: Download with IDM - C:\Program Files (x86)\Internet Download Manager\IEExt.htm
 O8 - Extra context menu item: E&xport to Microsoft Excel - res://C:\PROGRA~2\MICROS~1\Office15\EXCEL.EXE/3000
@@ -118,4 +120,4 @@ O23 - Service: @%Systemroot%\system32\wbem\wmiapsrv.exe,-110 (wmiApSrv) - Unknow
 O23 - Service: @%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe,-101 (WMPNetworkSvc) - Unknown owner - C:\Program Files (x86)\Windows Media Player\wmpnetwk.exe (file missing)
 
 --
-End of file - 13788 bytes
+End of file - 14028 bytes
