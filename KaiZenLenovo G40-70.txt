@@ -1,13 +1,12 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 11:04:13 PM, on 6/19/2016
+Scan saved at 9:44:41 AM, on 7/6/2016
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.10586.0020)
 
-FIREFOX: 47.0 (x86 en-US)
+FIREFOX: 47.0.1 (x86 en-US)
 Boot mode: Normal
 
 Running processes:
-C:\Windows\SysWOW64\rundll32.exe
 C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe
 D:\ProgramFiles\HijackThis.exe
 
@@ -25,15 +24,13 @@ R1 - HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings,ProxyOverr
 R0 - HKCU\Software\Microsoft\Internet Explorer\Toolbar,LinksFolderName = 
 F2 - REG:system.ini: UserInit=
 O2 - BHO: IDM Helper - {0055C089-8582-441B-A0BF-17B458C2A3A8} - C:\Program Files (x86)\Internet Download Manager\IDMIECC.dll
-O2 - BHO: Java(tm) Plug-In SSV Helper - {761497BB-D6F0-462C-B6EB-D4DAF1D92D43} - C:\Program Files (x86)\Java\jre1.8.0_77\bin\ssv.dll
+O2 - BHO: Java(tm) Plug-In SSV Helper - {761497BB-D6F0-462C-B6EB-D4DAF1D92D43} - C:\Program Files (x86)\Java\jre1.8.0_91\bin\ssv.dll
 O2 - BHO: Adobe Acrobat Create PDF Helper - {AE7CD045-E861-484f-8273-0445EE161910} - C:\Program Files (x86)\Common Files\Adobe\Acrobat\WCIEActiveX\2015\AcroIEFavStub.dll
 O2 - BHO: Microsoft Web Test Recorder 14.0 Helper - {b924f0b4-0b3c-49c0-bab2-213fb9ebd1d3} - D:\ProgramFiles\VisualStudio2015\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.RecorderBarBHO100.dll
-O2 - BHO: Java(tm) Plug-In 2 SSV Helper - {DBC80044-A445-435b-BC74-9C25C1C588A9} - C:\Program Files (x86)\Java\jre1.8.0_77\bin\jp2ssv.dll
+O2 - BHO: Java(tm) Plug-In 2 SSV Helper - {DBC80044-A445-435b-BC74-9C25C1C588A9} - C:\Program Files (x86)\Java\jre1.8.0_91\bin\jp2ssv.dll
 O2 - BHO: SmartSelect - {F4971EE7-DAA0-4053-9964-665D8EE6A077} - C:\Program Files (x86)\Common Files\Adobe\Acrobat\WCIEActiveX\2015\AcroIEFavStub.dll
 O3 - Toolbar: Adobe Acrobat Create PDF Toolbar - {47833539-D0C5-4125-9FA8-0819E2EAAC93} - C:\Program Files (x86)\Common Files\Adobe\Acrobat\WCIEActiveX\2015\AcroIEFavStub.dll
 O4 - HKLM\..\Run: [StartCCC] "C:\Program Files (x86)\AMD\ATI.ACE\Core-Static\amd64\CLIStart.exe" MSRun
-O4 - HKUS\S-1-5-19\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'LOCAL SERVICE')
-O4 - HKUS\S-1-5-20\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'NETWORK SERVICE')
 O8 - Extra context menu item: Download all links with IDM - C:\Program Files (x86)\Internet Download Manager\IEGetAll.htm
 O8 - Extra context menu item: Download with IDM - C:\Program Files (x86)\Internet Download Manager\IEExt.htm
 O8 - Extra context menu item: E&xport to Microsoft Excel - res://C:\PROGRA~2\MICROS~1\Office15\EXCEL.EXE/3000
@@ -92,6 +89,7 @@ O23 - Service: Nalpeiron Licensing Service (nlsX86cc) - Nalpeiron Ltd. - C:\Wind
 O23 - Service: PDAgent - Raxco Software, Inc. - C:\Program Files\Raxco\PerfectDisk\PDAgent.exe
 O23 - Service: PDEngine - Raxco Software, Inc. - C:\Program Files\Common Files\Raxco\Shared\PDEngine.exe
 O23 - Service: Cyberlink RichVideo64 Service(CRVS) (RichVideo64) - CyberLink - C:\Program Files\CyberLink\Shared files\RichVideo64.exe
+O23 - Service: Remote Packet Capture Protocol v.0 (experimental) (rpcapd) - Riverbed Technology, Inc. - C:\Program Files (x86)\WinPcap\rpcapd.exe
 O23 - Service: @%systemroot%\system32\Locator.exe,-2 (RpcLocator) - Unknown owner - C:\Windows\system32\locator.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\samsrv.dll,-1 (SamSs) - Unknown owner - C:\Windows\system32\lsass.exe (file missing)
 O23 - Service: Conexant SmartAudio service (SAService) - Conexant Systems, Inc. - C:\Windows\system32\SAsrv.exe
@@ -121,4 +119,4 @@ O23 - Service: @%Systemroot%\system32\wbem\wmiapsrv.exe,-110 (wmiApSrv) - Unknow
 O23 - Service: @%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe,-101 (WMPNetworkSvc) - Unknown owner - C:\Program Files (x86)\Windows Media Player\wmpnetwk.exe (file missing)
 
 --
-End of file - 14063 bytes
+End of file - 13936 bytes
