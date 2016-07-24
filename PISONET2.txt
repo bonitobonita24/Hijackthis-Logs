@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 10:36:50 AM, on 7/20/2016
+Scan saved at 10:37:21 AM, on 7/20/2016
 Platform: Windows 7 SP1 (WinNT 6.00.3505)
 MSIE: Internet Explorer v8.00 (8.00.7601.17514)
 
