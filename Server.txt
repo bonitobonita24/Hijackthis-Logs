@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 12:39:48 PM, on 8/3/2016
+Scan saved at 12:40:12 PM, on 8/3/2016
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.9600.17037)
 
@@ -10,6 +10,7 @@ Running processes:
 C:\Program Files (x86)\TeamViewer\TeamViewer.exe
 C:\Program Files (x86)\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe
 C:\Program Files (x86)\Launch Manager\LManager.exe
+C:\Program Files (x86)\Launch Manager\LMworker.exe
 D:\Documents\Downloads\HijackThis.exe
 
 R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
@@ -82,4 +83,4 @@ O23 - Service: @%Systemroot%\system32\wbem\wmiapsrv.exe,-110 (wmiApSrv) - Unknow
 O23 - Service: @%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe,-101 (WMPNetworkSvc) - Unknown owner - C:\Program Files (x86)\Windows Media Player\wmpnetwk.exe (file missing)
 
 --
-End of file - 8794 bytes
+End of file - 8846 bytes
