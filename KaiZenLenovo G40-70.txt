@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 8:54:48 PM, on 7/12/2016
+Scan saved at 10:55:30 PM, on 8/3/2016
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.10586.0020)
 
@@ -7,7 +7,6 @@ FIREFOX: 47.0.1 (x86 en-US)
 Boot mode: Normal
 
 Running processes:
-C:\Windows\SysWOW64\rundll32.exe
 C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe
 D:\ProgramFiles\HijackThis.exe
 
@@ -32,8 +31,6 @@ O2 - BHO: Java(tm) Plug-In 2 SSV Helper - {DBC80044-A445-435b-BC74-9C25C1C588A9}
 O2 - BHO: SmartSelect - {F4971EE7-DAA0-4053-9964-665D8EE6A077} - C:\Program Files (x86)\Common Files\Adobe\Acrobat\WCIEActiveX\2015\AcroIEFavStub.dll
 O3 - Toolbar: Adobe Acrobat Create PDF Toolbar - {47833539-D0C5-4125-9FA8-0819E2EAAC93} - C:\Program Files (x86)\Common Files\Adobe\Acrobat\WCIEActiveX\2015\AcroIEFavStub.dll
 O4 - HKLM\..\Run: [StartCCC] "C:\Program Files (x86)\AMD\ATI.ACE\Core-Static\amd64\CLIStart.exe" MSRun
-O4 - HKUS\S-1-5-19\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'LOCAL SERVICE')
-O4 - HKUS\S-1-5-20\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'NETWORK SERVICE')
 O8 - Extra context menu item: Download all links with IDM - C:\Program Files (x86)\Internet Download Manager\IEGetAll.htm
 O8 - Extra context menu item: Download with IDM - C:\Program Files (x86)\Internet Download Manager\IEExt.htm
 O8 - Extra context menu item: E&xport to Microsoft Excel - res://C:\PROGRA~2\MICROS~1\Office15\EXCEL.EXE/3000
@@ -53,8 +50,10 @@ O18 - Protocol: osf - {D924BDC6-C83A-4BD5-90D0-095128A113D1} - C:\Program Files 
 O18 - Protocol: tbauth - {14654CA6-5711-491D-B89A-58E571679951} - C:\Windows\SysWOW64\tbauth.dll
 O18 - Protocol: windows.tbauth - {14654CA6-5711-491D-B89A-58E571679951} - C:\Windows\SysWOW64\tbauth.dll
 O18 - Filter hijack: text/xml - {807583E5-5146-11D5-A672-00B0D022E945} - C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\MSOXMLMF.DLL
+O23 - Service: Acronis Scheduler2 Service (AcrSch2Svc) - Unknown owner - C:\Program Files (x86)\Common Files\Acronis\Schedule2\schedul2.exe
 O23 - Service: Adobe Active File Monitor V14 (AdobeActiveFileMonitor14.0) - Adobe Systems Incorporated - D:\ProgramFiles\Adobe\Elements 14 Organizer\PhotoshopElementsFileAgent.exe
 O23 - Service: Adobe Acrobat Update Service (AdobeARMservice) - Adobe Systems Incorporated - C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe
+O23 - Service: Acronis Nonstop Backup Service (afcdpsrv) - Unknown owner - C:\Program Files (x86)\Common Files\Acronis\CDP\afcdpsrv.exe
 O23 - Service: Adobe Genuine Software Integrity Service (AGSService) - Adobe Systems, Incorporated - C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\AGSService.exe
 O23 - Service: @%SystemRoot%\system32\Alg.exe,-112 (ALG) - Unknown owner - C:\Windows\System32\alg.exe (file missing)
 O23 - Service: AMD External Events Utility - Unknown owner - C:\Windows\system32\atiesrxx.exe (file missing)
@@ -99,10 +98,12 @@ O23 - Service: Conexant SmartAudio service (SAService) - Conexant Systems, Inc. 
 O23 - Service: @%SystemRoot%\system32\SensorDataService.exe,-101 (SensorDataService) - Unknown owner - C:\Windows\System32\SensorDataService.exe (file missing)
 O23 - Service: Service KMSELDI - @ByELDI - C:\Program Files\KMSpico\Service_KMS.exe
 O23 - Service: SoftEther VPN Client (SEVPNCLIENT) - SoftEther VPN Project at University of Tsukuba, Japan. - D:\ProgramFiles\SoftEther VPN Client\vpnclient_x64.exe
+O23 - Service: ShareItSvc - SHAREit Technologies Co.Ltd - C:\Program Files (x86)\Lenovo\SHAREit\Shareit.Service.exe
 O23 - Service: Skype Updater (SkypeUpdate) - Skype Technologies - C:\Program Files (x86)\Skype\Updater\Updater.exe
 O23 - Service: @%SystemRoot%\system32\snmptrap.exe,-3 (SNMPTRAP) - Unknown owner - C:\Windows\System32\snmptrap.exe (file missing)
 O23 - Service: @%systemroot%\system32\spoolsv.exe,-1 (Spooler) - Unknown owner - C:\Windows\System32\spoolsv.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\sppsvc.exe,-101 (sppsvc) - Unknown owner - C:\Windows\system32\sppsvc.exe (file missing)
+O23 - Service: Acronis Sync Agent Service (syncagentsrv) - Unknown owner - C:\Program Files (x86)\Common Files\Acronis\SyncAgent\syncagentsrv.exe
 O23 - Service: TeamViewer 11 (TeamViewer) - TeamViewer GmbH - D:\ProgramFiles\TeamViewer\TeamViewer_Service.exe
 O23 - Service: @%SystemRoot%\system32\TieringEngineService.exe,-702 (TieringEngineService) - Unknown owner - C:\Windows\system32\TieringEngineService.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\ui0detect.exe,-101 (UI0Detect) - Unknown owner - C:\Windows\system32\UI0Detect.exe (file missing)
@@ -122,4 +123,4 @@ O23 - Service: @%Systemroot%\system32\wbem\wmiapsrv.exe,-110 (wmiApSrv) - Unknow
 O23 - Service: @%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe,-101 (WMPNetworkSvc) - Unknown owner - C:\Program Files (x86)\Windows Media Player\wmpnetwk.exe (file missing)
 
 --
-End of file - 14211 bytes
+End of file - 14479 bytes
