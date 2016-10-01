@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 7:23:10 AM, on 9/30/2016
+Scan saved at 8:52:53 AM, on 10/1/2016
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.9600.18123)
 
@@ -21,14 +21,27 @@ R0 - HKLM\Software\Microsoft\Internet Explorer\Search,CustomizeSearch =
 R0 - HKLM\Software\Microsoft\Internet Explorer\Main,Local Page = C:\Windows\SysWOW64\blank.htm
 R0 - HKCU\Software\Microsoft\Internet Explorer\Toolbar,LinksFolderName = 
 F2 - REG:system.ini: UserInit=userinit.exe
+O2 - BHO: IDM Helper - {0055C089-8582-441B-A0BF-17B458C2A3A8} - C:\Program Files (x86)\Internet Download Manager\IDMIECC.dll
+O2 - BHO: URLRedirectionBHO - {B4F3A835-0E21-4959-BA22-42B3008E02FF} - C:\PROGRA~2\MICROS~1\Office15\URLREDIR.DLL
 O4 - HKLM\..\Run: [StartCCC] "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\amd64\CLIStart.exe" MSRun
 O4 - HKLM\..\Policies\Explorer\Run: [BtvStack] "C:\Program Files (x86)\Bluetooth Suite\BtvStack.exe"
+O8 - Extra context menu item: Download all links with IDM - C:\Program Files (x86)\Internet Download Manager\IEGetAll.htm
+O8 - Extra context menu item: Download with IDM - C:\Program Files (x86)\Internet Download Manager\IEExt.htm
+O8 - Extra context menu item: E&xport to Microsoft Excel - res://C:\PROGRA~2\MICROS~1\Office15\EXCEL.EXE/3000
+O8 - Extra context menu item: Se&nd to OneNote - res://C:\PROGRA~2\MICROS~1\Office15\ONBttnIE.dll/105
+O9 - Extra button: Send to OneNote - {2670000A-7350-4f3c-8081-5663EE0C6C49} - C:\Program Files (x86)\Microsoft Office\Office15\ONBttnIE.dll
+O9 - Extra 'Tools' menuitem: Se&nd to OneNote - {2670000A-7350-4f3c-8081-5663EE0C6C49} - C:\Program Files (x86)\Microsoft Office\Office15\ONBttnIE.dll
+O9 - Extra button: OneNote Lin&ked Notes - {789FE86F-6FC4-46A1-9849-EDE0DB0C95CA} - C:\Program Files (x86)\Microsoft Office\Office15\ONBttnIELinkedNotes.dll
+O9 - Extra 'Tools' menuitem: OneNote Lin&ked Notes - {789FE86F-6FC4-46A1-9849-EDE0DB0C95CA} - C:\Program Files (x86)\Microsoft Office\Office15\ONBttnIELinkedNotes.dll
 O10 - Unknown file in Winsock LSP: c:\windows\system32\vsocklib.dll
 O10 - Unknown file in Winsock LSP: c:\windows\system32\vsocklib.dll
 O11 - Options group: [ACCELERATED_GRAPHICS] Accelerated graphics
 O15 - Trusted Zone: http://help.eset.com (HKLM)
 O15 - ESC Trusted Zone: http://help.eset.com (HKLM)
 O17 - HKLM\System\CCS\Services\Tcpip\..\{DAEBEFE0-3C2A-4A6D-8865-DC40D7D94725}: NameServer = 8.8.8.8,8.8.4.4
+O18 - Protocol: osf - {D924BDC6-C83A-4BD5-90D0-095128A113D1} - C:\Program Files (x86)\Microsoft Office\Office15\MSOSB.DLL
+O18 - Filter hijack: text/xml - {807583E5-5146-11D5-A672-00B0D022E945} - C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\MSOXMLMF.DLL
+O23 - Service: Adobe Active File Monitor V14 (AdobeActiveFileMonitor14.0) - Adobe Systems Incorporated - C:\Program Files\Adobe\Elements 14 Organizer\PhotoshopElementsFileAgent.exe
 O23 - Service: Adobe Acrobat Update Service (AdobeARMservice) - Adobe Systems Incorporated - C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe
 O23 - Service: @%SystemRoot%\system32\Alg.exe,-112 (ALG) - Unknown owner - C:\Windows\System32\alg.exe (file missing)
 O23 - Service: AMD External Events Utility - Unknown owner - C:\Windows\system32\atiesrxx.exe (file missing)
@@ -61,6 +74,8 @@ O23 - Service: @%SystemRoot%\system32\samsrv.dll,-1 (SamSs) - Unknown owner - C:
 O23 - Service: Conexant SmartAudio service (SAService) - Conexant Systems, Inc. - C:\Windows\system32\SAsrv.exe
 O23 - Service: Service KMSELDI - @ByELDI - C:\Program Files\KMSpico\Service_KMS.exe
 O23 - Service: SoftEther VPN Client (SEVPNCLIENT) - SoftEther VPN Project at University of Tsukuba, Japan. - C:\Program Files\SoftEther VPN Client\vpnclient_x64.exe
+O23 - Service: ShareItSvc - SHAREit Technologies Co.Ltd - C:\Program Files (x86)\SHAREit\SHAREit\Shareit.Service.exe
+O23 - Service: Skype Updater (SkypeUpdate) - Skype Technologies - C:\Program Files (x86)\Skype\Updater\Updater.exe
 O23 - Service: @%SystemRoot%\system32\snmptrap.exe,-3 (SNMPTRAP) - Unknown owner - C:\Windows\System32\snmptrap.exe (file missing)
 O23 - Service: @%systemroot%\system32\spoolsv.exe,-1 (Spooler) - Unknown owner - C:\Windows\System32\spoolsv.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\sppsvc.exe,-101 (sppsvc) - Unknown owner - C:\Windows\system32\sppsvc.exe (file missing)
@@ -80,4 +95,4 @@ O23 - Service: @%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe,-101 (WMPNetwor
 O23 - Service: ZAtheros Bt and Wlan Coex Agent - Atheros - C:\Program Files (x86)\Bluetooth Suite\Ath_CoexAgent.exe
 
 --
-End of file - 8555 bytes
+End of file - 10550 bytes
