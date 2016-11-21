@@ -1,9 +1,9 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 9:20:46 AM, on 10/1/2016
+Scan saved at 2:18:39 PM, on 11/21/2016
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.9600.18123)
 
-FIREFOX: 49.0.1 (x86 en-US)
+FIREFOX: 49.0.2 (x86 en-US)
 Boot mode: Normal
 
 Running processes:
@@ -45,6 +45,7 @@ O23 - Service: Adobe Active File Monitor V14 (AdobeActiveFileMonitor14.0) - Adob
 O23 - Service: Adobe Acrobat Update Service (AdobeARMservice) - Adobe Systems Incorporated - C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe
 O23 - Service: @%SystemRoot%\system32\Alg.exe,-112 (ALG) - Unknown owner - C:\Windows\System32\alg.exe (file missing)
 O23 - Service: AMD External Events Utility - Unknown owner - C:\Windows\system32\atiesrxx.exe (file missing)
+O23 - Service: AndServMgr - American Megatrends Inc. - C:\Program Files\AMI\DuOS\AndServMgr.exe
 O23 - Service: AtherosSvc - Windows (R) Win 7 DDK provider - C:\Program Files (x86)\Bluetooth Suite\adminservice.exe
 O23 - Service: Intel(R) Content Protection HECI Service (cphs) - Intel Corporation - C:\Windows\SysWow64\IntelCpHeciSvc.exe
 O23 - Service: @C:\Windows\system32\CxAudMsg64.exe,-100 (CxAudMsg) - Unknown owner - C:\Windows\system32\CxAudMsg64.exe (file missing)
@@ -66,9 +67,11 @@ O23 - Service: Intel(R) Management and Security Application Local Management Ser
 O23 - Service: Lenovo Solution Center System Service (LSC.Services.SystemService) - Lenovo - C:\Program Files\Lenovo\Lenovo Solution Center\App\LSC.Services.SystemService.exe
 O23 - Service: @comres.dll,-2797 (MSDTC) - Unknown owner - C:\Windows\System32\msdtc.exe (file missing)
 O23 - Service: @%SystemRoot%\System32\netlogon.dll,-102 (Netlogon) - Unknown owner - C:\Windows\system32\lsass.exe (file missing)
+O23 - Service: NitroPDFDriverCreatorReadSpool10 (NitroDriverReadSpool10) - Nitro PDF Software - C:\Program Files\Nitro\Pro 10\NitroPDFDriverService10x64.exe
+O23 - Service: NitroUpdateService - Unknown owner - C:\Program Files\Nitro\Pro 10\Nitro_UpdateService.exe
+O23 - Service: Nalpeiron Licensing Service (nlsX86cc) - Nalpeiron Ltd. - C:\Windows\SysWOW64\NLSSRV32.EXE
 O23 - Service: PDAgent - Raxco Software, Inc. - C:\Program Files\Raxco\PerfectDisk\PDAgent.exe
 O23 - Service: PDEngine - Raxco Software, Inc. - C:\Program Files\Common Files\Raxco\Shared\PDEngine.exe
-O23 - Service: Plays.tv Update Service (PlaysService) - Plays.tv, LLC - C:\Program Files (x86)\Raptr Inc\PlaysTV\plays_service.exe
 O23 - Service: @%systemroot%\system32\Locator.exe,-2 (RpcLocator) - Unknown owner - C:\Windows\system32\locator.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\samsrv.dll,-1 (SamSs) - Unknown owner - C:\Windows\system32\lsass.exe (file missing)
 O23 - Service: Conexant SmartAudio service (SAService) - Conexant Systems, Inc. - C:\Windows\system32\SAsrv.exe
@@ -79,6 +82,8 @@ O23 - Service: Skype Updater (SkypeUpdate) - Skype Technologies - C:\Program Fil
 O23 - Service: @%SystemRoot%\system32\snmptrap.exe,-3 (SNMPTRAP) - Unknown owner - C:\Windows\System32\snmptrap.exe (file missing)
 O23 - Service: @%systemroot%\system32\spoolsv.exe,-1 (Spooler) - Unknown owner - C:\Windows\System32\spoolsv.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\sppsvc.exe,-101 (sppsvc) - Unknown owner - C:\Windows\system32\sppsvc.exe (file missing)
+O23 - Service: Steam Client Service - Valve Corporation - C:\Program Files (x86)\Common Files\Steam\SteamService.exe
+O23 - Service: TeamViewer 11 (TeamViewer) - TeamViewer GmbH - C:\Program Files (x86)\TeamViewer\TeamViewer_Service.exe
 O23 - Service: @%SystemRoot%\system32\ui0detect.exe,-101 (UI0Detect) - Unknown owner - C:\Windows\system32\UI0Detect.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\vaultsvc.dll,-1003 (VaultSvc) - Unknown owner - C:\Windows\system32\lsass.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\vds.exe,-100 (vds) - Unknown owner - C:\Windows\System32\vds.exe (file missing)
@@ -95,4 +100,4 @@ O23 - Service: @%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe,-101 (WMPNetwor
 O23 - Service: ZAtheros Bt and Wlan Coex Agent - Atheros - C:\Program Files (x86)\Bluetooth Suite\Ath_CoexAgent.exe
 
 --
-End of file - 10550 bytes
+End of file - 11126 bytes
