@@ -1,9 +1,9 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 2:19:32 PM, on 11/21/2016
+Scan saved at 9:55:50 PM, on 12/17/2016
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.9600.18123)
 
-FIREFOX: 49.0.2 (x86 en-US)
+FIREFOX: 50.0.2 (x86 en-US)
 Boot mode: Normal
 
 Running processes:
@@ -22,6 +22,7 @@ R0 - HKLM\Software\Microsoft\Internet Explorer\Main,Local Page = C:\Windows\SysW
 R0 - HKCU\Software\Microsoft\Internet Explorer\Toolbar,LinksFolderName = 
 F2 - REG:system.ini: UserInit=userinit.exe
 O2 - BHO: IDM Helper - {0055C089-8582-441B-A0BF-17B458C2A3A8} - C:\Program Files (x86)\Internet Download Manager\IDMIECC.dll
+O2 - BHO: Lync Click to Call BHO - {31D09BA0-12F5-4CCE-BE8A-2923E76605DA} - C:\Program Files (x86)\Microsoft Office\Office15\OCHelper.dll
 O2 - BHO: URLRedirectionBHO - {B4F3A835-0E21-4959-BA22-42B3008E02FF} - C:\PROGRA~2\MICROS~1\Office15\URLREDIR.DLL
 O4 - HKLM\..\Run: [StartCCC] "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\amd64\CLIStart.exe" MSRun
 O4 - HKLM\..\Policies\Explorer\Run: [BtvStack] "C:\Program Files (x86)\Bluetooth Suite\BtvStack.exe"
@@ -31,6 +32,8 @@ O8 - Extra context menu item: E&xport to Microsoft Excel - res://C:\PROGRA~2\MIC
 O8 - Extra context menu item: Se&nd to OneNote - res://C:\PROGRA~2\MICROS~1\Office15\ONBttnIE.dll/105
 O9 - Extra button: Send to OneNote - {2670000A-7350-4f3c-8081-5663EE0C6C49} - C:\Program Files (x86)\Microsoft Office\Office15\ONBttnIE.dll
 O9 - Extra 'Tools' menuitem: Se&nd to OneNote - {2670000A-7350-4f3c-8081-5663EE0C6C49} - C:\Program Files (x86)\Microsoft Office\Office15\ONBttnIE.dll
+O9 - Extra button: Lync Click to Call - {31D09BA0-12F5-4CCE-BE8A-2923E76605DA} - C:\Program Files (x86)\Microsoft Office\Office15\OCHelper.dll
+O9 - Extra 'Tools' menuitem: Lync Click to Call - {31D09BA0-12F5-4CCE-BE8A-2923E76605DA} - C:\Program Files (x86)\Microsoft Office\Office15\OCHelper.dll
 O9 - Extra button: OneNote Lin&ked Notes - {789FE86F-6FC4-46A1-9849-EDE0DB0C95CA} - C:\Program Files (x86)\Microsoft Office\Office15\ONBttnIELinkedNotes.dll
 O9 - Extra 'Tools' menuitem: OneNote Lin&ked Notes - {789FE86F-6FC4-46A1-9849-EDE0DB0C95CA} - C:\Program Files (x86)\Microsoft Office\Office15\ONBttnIELinkedNotes.dll
 O10 - Unknown file in Winsock LSP: c:\windows\system32\vsocklib.dll
@@ -72,6 +75,7 @@ O23 - Service: NitroUpdateService - Unknown owner - C:\Program Files\Nitro\Pro 1
 O23 - Service: Nalpeiron Licensing Service (nlsX86cc) - Nalpeiron Ltd. - C:\Windows\SysWOW64\NLSSRV32.EXE
 O23 - Service: PDAgent - Raxco Software, Inc. - C:\Program Files\Raxco\PerfectDisk\PDAgent.exe
 O23 - Service: PDEngine - Raxco Software, Inc. - C:\Program Files\Common Files\Raxco\Shared\PDEngine.exe
+O23 - Service: Cyberlink RichVideo64 Service(CRVS) (RichVideo64) - CyberLink - C:\Program Files\CyberLink\Shared files\RichVideo64.exe
 O23 - Service: @%systemroot%\system32\Locator.exe,-2 (RpcLocator) - Unknown owner - C:\Windows\system32\locator.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\samsrv.dll,-1 (SamSs) - Unknown owner - C:\Windows\system32\lsass.exe (file missing)
 O23 - Service: Conexant SmartAudio service (SAService) - Conexant Systems, Inc. - C:\Windows\system32\SAsrv.exe
@@ -100,4 +104,4 @@ O23 - Service: @%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe,-101 (WMPNetwor
 O23 - Service: ZAtheros Bt and Wlan Coex Agent - Atheros - C:\Program Files (x86)\Bluetooth Suite\Ath_CoexAgent.exe
 
 --
-End of file - 11126 bytes
+End of file - 11699 bytes
