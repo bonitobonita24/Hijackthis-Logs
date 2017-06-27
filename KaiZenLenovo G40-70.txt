@@ -1,12 +1,13 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 12:40:40 PM, on 12/22/2016
+Scan saved at 8:18:44 AM, on 6/27/2017
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.9600.18123)
 
-FIREFOX: 50.0.2 (x86 en-US)
+
 Boot mode: Normal
 
 Running processes:
+C:\Program Files (x86)\TeamViewer\TeamViewer.exe
 C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe
 D:\ProgramFiles\HijackThis.exe
 
@@ -21,34 +22,29 @@ R0 - HKLM\Software\Microsoft\Internet Explorer\Search,CustomizeSearch =
 R0 - HKLM\Software\Microsoft\Internet Explorer\Main,Local Page = C:\Windows\SysWOW64\blank.htm
 R0 - HKCU\Software\Microsoft\Internet Explorer\Toolbar,LinksFolderName = 
 F2 - REG:system.ini: UserInit=userinit.exe
-O2 - BHO: IDM Helper - {0055C089-8582-441B-A0BF-17B458C2A3A8} - C:\Program Files (x86)\Internet Download Manager\IDMIECC.dll
-O2 - BHO: Lync Click to Call BHO - {31D09BA0-12F5-4CCE-BE8A-2923E76605DA} - C:\Program Files (x86)\Microsoft Office\Office15\OCHelper.dll
-O2 - BHO: URLRedirectionBHO - {B4F3A835-0E21-4959-BA22-42B3008E02FF} - C:\PROGRA~2\MICROS~1\Office15\URLREDIR.DLL
+O2 - BHO: Skype for Business Click to Call BHO - {31D09BA0-12F5-4CCE-BE8A-2923E76605DA} - C:\Program Files (x86)\Microsoft Office\Office15\OCHelper.dll
+O2 - BHO: Java(tm) Plug-In SSV Helper - {761497BB-D6F0-462C-B6EB-D4DAF1D92D43} - C:\Program Files (x86)\Java\jre1.8.0_131\bin\ssv.dll
+O2 - BHO: Java(tm) Plug-In 2 SSV Helper - {DBC80044-A445-435b-BC74-9C25C1C588A9} - C:\Program Files (x86)\Java\jre1.8.0_131\bin\jp2ssv.dll
 O4 - HKLM\..\Run: [StartCCC] "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\amd64\CLIStart.exe" MSRun
+O4 - HKCU\..\Run: [EPLTarget\P0000000000000000] C:\Windows\system32\spool\DRIVERS\x64\3\E_YATII3E.EXE /EPT "EPLTarget\P0000000000000000" /M "L110 Series" /EF "HKCU"
 O4 - HKLM\..\Policies\Explorer\Run: [BtvStack] "C:\Program Files (x86)\Bluetooth Suite\BtvStack.exe"
-O8 - Extra context menu item: Download all links with IDM - C:\Program Files (x86)\Internet Download Manager\IEGetAll.htm
-O8 - Extra context menu item: Download with IDM - C:\Program Files (x86)\Internet Download Manager\IEExt.htm
 O8 - Extra context menu item: E&xport to Microsoft Excel - res://C:\PROGRA~2\MICROS~1\Office15\EXCEL.EXE/3000
 O8 - Extra context menu item: Se&nd to OneNote - res://C:\PROGRA~2\MICROS~1\Office15\ONBttnIE.dll/105
 O9 - Extra button: Send to OneNote - {2670000A-7350-4f3c-8081-5663EE0C6C49} - C:\Program Files (x86)\Microsoft Office\Office15\ONBttnIE.dll
 O9 - Extra 'Tools' menuitem: Se&nd to OneNote - {2670000A-7350-4f3c-8081-5663EE0C6C49} - C:\Program Files (x86)\Microsoft Office\Office15\ONBttnIE.dll
-O9 - Extra button: Lync Click to Call - {31D09BA0-12F5-4CCE-BE8A-2923E76605DA} - C:\Program Files (x86)\Microsoft Office\Office15\OCHelper.dll
-O9 - Extra 'Tools' menuitem: Lync Click to Call - {31D09BA0-12F5-4CCE-BE8A-2923E76605DA} - C:\Program Files (x86)\Microsoft Office\Office15\OCHelper.dll
+O9 - Extra button: Skype for Business Click to Call - {31D09BA0-12F5-4CCE-BE8A-2923E76605DA} - C:\Program Files (x86)\Microsoft Office\Office15\OCHelper.dll
+O9 - Extra 'Tools' menuitem: Skype for Business Click to Call - {31D09BA0-12F5-4CCE-BE8A-2923E76605DA} - C:\Program Files (x86)\Microsoft Office\Office15\OCHelper.dll
 O9 - Extra button: OneNote Lin&ked Notes - {789FE86F-6FC4-46A1-9849-EDE0DB0C95CA} - C:\Program Files (x86)\Microsoft Office\Office15\ONBttnIELinkedNotes.dll
 O9 - Extra 'Tools' menuitem: OneNote Lin&ked Notes - {789FE86F-6FC4-46A1-9849-EDE0DB0C95CA} - C:\Program Files (x86)\Microsoft Office\Office15\ONBttnIELinkedNotes.dll
-O10 - Unknown file in Winsock LSP: c:\windows\system32\vsocklib.dll
-O10 - Unknown file in Winsock LSP: c:\windows\system32\vsocklib.dll
 O11 - Options group: [ACCELERATED_GRAPHICS] Accelerated graphics
 O15 - Trusted Zone: http://help.eset.com (HKLM)
 O15 - ESC Trusted Zone: http://help.eset.com (HKLM)
-O17 - HKLM\System\CCS\Services\Tcpip\..\{DAEBEFE0-3C2A-4A6D-8865-DC40D7D94725}: NameServer = 8.8.8.8,8.8.4.4
+O17 - HKLM\System\CCS\Services\Tcpip\..\{C9923004-85D1-4A88-AFF9-584D9760D4C2}: NameServer = 8.8.8.8,8.8.4.4
 O18 - Protocol: osf - {D924BDC6-C83A-4BD5-90D0-095128A113D1} - C:\Program Files (x86)\Microsoft Office\Office15\MSOSB.DLL
 O18 - Filter hijack: text/xml - {807583E5-5146-11D5-A672-00B0D022E945} - C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\MSOXMLMF.DLL
-O23 - Service: Adobe Active File Monitor V14 (AdobeActiveFileMonitor14.0) - Adobe Systems Incorporated - C:\Program Files\Adobe\Elements 14 Organizer\PhotoshopElementsFileAgent.exe
 O23 - Service: Adobe Acrobat Update Service (AdobeARMservice) - Adobe Systems Incorporated - C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe
 O23 - Service: @%SystemRoot%\system32\Alg.exe,-112 (ALG) - Unknown owner - C:\Windows\System32\alg.exe (file missing)
 O23 - Service: AMD External Events Utility - Unknown owner - C:\Windows\system32\atiesrxx.exe (file missing)
-O23 - Service: AndServMgr - American Megatrends Inc. - C:\Program Files\AMI\DuOS\AndServMgr.exe
 O23 - Service: AtherosSvc - Windows (R) Win 7 DDK provider - C:\Program Files (x86)\Bluetooth Suite\adminservice.exe
 O23 - Service: Intel(R) Content Protection HECI Service (cphs) - Intel Corporation - C:\Windows\SysWow64\IntelCpHeciSvc.exe
 O23 - Service: @C:\Windows\system32\CxAudMsg64.exe,-100 (CxAudMsg) - Unknown owner - C:\Windows\system32\CxAudMsg64.exe (file missing)
@@ -70,31 +66,22 @@ O23 - Service: Intel(R) Management and Security Application Local Management Ser
 O23 - Service: Lenovo Solution Center System Service (LSC.Services.SystemService) - Lenovo - C:\Program Files\Lenovo\Lenovo Solution Center\App\LSC.Services.SystemService.exe
 O23 - Service: @comres.dll,-2797 (MSDTC) - Unknown owner - C:\Windows\System32\msdtc.exe (file missing)
 O23 - Service: @%SystemRoot%\System32\netlogon.dll,-102 (Netlogon) - Unknown owner - C:\Windows\system32\lsass.exe (file missing)
-O23 - Service: NitroPDFDriverCreatorReadSpool10 (NitroDriverReadSpool10) - Nitro PDF Software - C:\Program Files\Nitro\Pro 10\NitroPDFDriverService10x64.exe
-O23 - Service: NitroUpdateService - Unknown owner - C:\Program Files\Nitro\Pro 10\Nitro_UpdateService.exe
+O23 - Service: NitroPDFDriverCreatorReadSpool10 (NitroDriverReadSpool10) - Nitro PDF Software - D:\ProgramFiles\NtiroPro\NitroPDFDriverService10x64.exe
+O23 - Service: NitroUpdateService - Unknown owner - D:\ProgramFiles\NtiroPro\Nitro_UpdateService.exe
 O23 - Service: Nalpeiron Licensing Service (nlsX86cc) - Nalpeiron Ltd. - C:\Windows\SysWOW64\NLSSRV32.EXE
 O23 - Service: PDAgent - Raxco Software, Inc. - C:\Program Files\Raxco\PerfectDisk\PDAgent.exe
 O23 - Service: PDEngine - Raxco Software, Inc. - C:\Program Files\Common Files\Raxco\Shared\PDEngine.exe
-O23 - Service: Cyberlink RichVideo64 Service(CRVS) (RichVideo64) - CyberLink - C:\Program Files\CyberLink\Shared files\RichVideo64.exe
 O23 - Service: @%systemroot%\system32\Locator.exe,-2 (RpcLocator) - Unknown owner - C:\Windows\system32\locator.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\samsrv.dll,-1 (SamSs) - Unknown owner - C:\Windows\system32\lsass.exe (file missing)
 O23 - Service: Conexant SmartAudio service (SAService) - Conexant Systems, Inc. - C:\Windows\system32\SAsrv.exe
 O23 - Service: Service KMSELDI - @ByELDI - C:\Program Files\KMSpico\Service_KMS.exe
-O23 - Service: SoftEther VPN Client (SEVPNCLIENT) - SoftEther VPN Project at University of Tsukuba, Japan. - C:\Program Files\SoftEther VPN Client\vpnclient_x64.exe
-O23 - Service: ShareItSvc - SHAREit Technologies Co.Ltd - C:\Program Files (x86)\SHAREit\SHAREit\Shareit.Service.exe
-O23 - Service: Skype Updater (SkypeUpdate) - Skype Technologies - C:\Program Files (x86)\Skype\Updater\Updater.exe
 O23 - Service: @%SystemRoot%\system32\snmptrap.exe,-3 (SNMPTRAP) - Unknown owner - C:\Windows\System32\snmptrap.exe (file missing)
 O23 - Service: @%systemroot%\system32\spoolsv.exe,-1 (Spooler) - Unknown owner - C:\Windows\System32\spoolsv.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\sppsvc.exe,-101 (sppsvc) - Unknown owner - C:\Windows\system32\sppsvc.exe (file missing)
-O23 - Service: Steam Client Service - Valve Corporation - C:\Program Files (x86)\Common Files\Steam\SteamService.exe
-O23 - Service: TeamViewer 11 (TeamViewer) - TeamViewer GmbH - C:\Program Files (x86)\TeamViewer\TeamViewer_Service.exe
+O23 - Service: TeamViewer 12 (TeamViewer) - TeamViewer GmbH - C:\Program Files (x86)\TeamViewer\TeamViewer_Service.exe
 O23 - Service: @%SystemRoot%\system32\ui0detect.exe,-101 (UI0Detect) - Unknown owner - C:\Windows\system32\UI0Detect.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\vaultsvc.dll,-1003 (VaultSvc) - Unknown owner - C:\Windows\system32\lsass.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\vds.exe,-100 (vds) - Unknown owner - C:\Windows\System32\vds.exe (file missing)
-O23 - Service: VMware Authorization Service (VMAuthdService) - VMware, Inc. - D:\ProgramFiles\VMwareWorkstation\vmware-authd.exe
-O23 - Service: VMware DHCP Service (VMnetDHCP) - VMware, Inc. - C:\Windows\SysWOW64\vmnetdhcp.exe
-O23 - Service: VMware USB Arbitration Service (VMUSBArbService) - VMware, Inc. - C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe
-O23 - Service: VMware NAT Service - VMware, Inc. - C:\Windows\SysWOW64\vmnat.exe
 O23 - Service: @%systemroot%\system32\vssvc.exe,-102 (VSS) - Unknown owner - C:\Windows\system32\vssvc.exe (file missing)
 O23 - Service: @%systemroot%\system32\wbengine.exe,-104 (wbengine) - Unknown owner - C:\Windows\system32\wbengine.exe (file missing)
 O23 - Service: @%ProgramFiles%\Windows Defender\MpAsDesc.dll,-320 (WdNisSvc) - Unknown owner - C:\Program Files (x86)\Windows Defender\NisSrv.exe (file missing)
@@ -104,4 +91,4 @@ O23 - Service: @%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe,-101 (WMPNetwor
 O23 - Service: ZAtheros Bt and Wlan Coex Agent - Atheros - C:\Program Files (x86)\Bluetooth Suite\Ath_CoexAgent.exe
 
 --
-End of file - 11700 bytes
+End of file - 10182 bytes
