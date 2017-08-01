@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 9:53:15 PM, on 7/10/2017
+Scan saved at 10:02:47 AM, on 8/1/2017
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.9600.18123)
 
@@ -9,9 +9,8 @@ Boot mode: Normal
 Running processes:
 C:\Program Files (x86)\TeamViewer\TeamViewer.exe
 C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe
-C:\Users\KaiZen\AppData\Local\SourceTree\app-2.1.2.5\tools\putty\pageant.exe
-C:\Windows\SysWOW64\DllHost.exe
 D:\ProgramFiles\HijackThis.exe
+C:\Windows\SysWOW64\DllHost.exe
 
 R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
 R0 - HKCU\Software\Microsoft\Internet Explorer\Main,Start Page = https://www.google.com/
@@ -56,7 +55,9 @@ O11 - Options group: [ACCELERATED_GRAPHICS] Accelerated graphics
 O15 - Trusted Zone: http://help.eset.com (HKLM)
 O15 - ESC Trusted Zone: http://help.eset.com (HKLM)
 O17 - HKLM\System\CCS\Services\Tcpip\..\{C9923004-85D1-4A88-AFF9-584D9760D4C2}: NameServer = 8.8.8.8,8.8.4.4
+O18 - Protocol: intu-help-qb9 - {C1252096-0E63-4C06-A38B-03DF9A16AA12} - D:\ProgramFiles\Intuit\QuickBooks 2016\HelpAsyncPluggableProtocol.dll
 O18 - Protocol: osf - {D924BDC6-C83A-4BD5-90D0-095128A113D1} - C:\Program Files (x86)\Microsoft Office\Office15\MSOSB.DLL
+O18 - Protocol: qbwc - {FC598A64-626C-4447-85B8-53150405FD57} - mscoree.dll (file missing)
 O18 - Filter hijack: text/xml - {807583E5-5146-11D5-A672-00B0D022E945} - C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\MSOXMLMF.DLL
 O23 - Service: Acronis Scheduler2 Service (AcrSch2Svc) - Unknown owner - C:\Program Files (x86)\Common Files\Acronis\Schedule2\schedul2.exe
 O23 - Service: Adobe Active File Monitor V14 (AdobeActiveFileMonitor14.0) - Adobe Systems Incorporated - C:\Program Files\Adobe\Elements 14 Organizer\PhotoshopElementsFileAgent.exe
@@ -93,6 +94,9 @@ O23 - Service: NitroUpdateService - Unknown owner - D:\ProgramFiles\NtiroPro\Nit
 O23 - Service: Nalpeiron Licensing Service (nlsX86cc) - Nalpeiron Ltd. - C:\Windows\SysWOW64\NLSSRV32.EXE
 O23 - Service: PDAgent - Raxco Software, Inc. - C:\Program Files\Raxco\PerfectDisk\PDAgent.exe
 O23 - Service: PDEngine - Raxco Software, Inc. - C:\Program Files\Common Files\Raxco\Shared\PDEngine.exe
+O23 - Service: QBCFMonitorService - Intuit - C:\Program Files (x86)\Common Files\Intuit\QuickBooks\QBCFMonitorService.exe
+O23 - Service: Intuit QuickBooks FCS (QBFCService) - Intuit Inc. - C:\Program Files (x86)\Common Files\Intuit\QuickBooks\FCS\Intuit.QuickBooks.FCS.exe
+O23 - Service: QBIDPService (QBVSS) - Intuit Inc. - C:\Program Files (x86)\Common Files\Intuit\DataProtect\QBIDPService.exe
 O23 - Service: @%systemroot%\system32\Locator.exe,-2 (RpcLocator) - Unknown owner - C:\Windows\system32\locator.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\samsrv.dll,-1 (SamSs) - Unknown owner - C:\Windows\system32\lsass.exe (file missing)
 O23 - Service: Conexant SmartAudio service (SAService) - Conexant Systems, Inc. - C:\Windows\system32\SAsrv.exe
@@ -100,6 +104,7 @@ O23 - Service: Service KMSELDI - @ByELDI - C:\Program Files\KMSpico\Service_KMS.
 O23 - Service: @%SystemRoot%\system32\snmptrap.exe,-3 (SNMPTRAP) - Unknown owner - C:\Windows\System32\snmptrap.exe (file missing)
 O23 - Service: @%systemroot%\system32\spoolsv.exe,-1 (Spooler) - Unknown owner - C:\Windows\System32\spoolsv.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\sppsvc.exe,-101 (sppsvc) - Unknown owner - C:\Windows\system32\sppsvc.exe (file missing)
+O23 - Service: Steam Client Service - Valve Corporation - C:\Program Files (x86)\Common Files\Steam\SteamService.exe
 O23 - Service: Acronis Sync Agent Service (syncagentsrv) - Unknown owner - C:\Program Files (x86)\Common Files\Acronis\SyncAgent\syncagentsrv.exe
 O23 - Service: TeamViewer 12 (TeamViewer) - TeamViewer GmbH - C:\Program Files (x86)\TeamViewer\TeamViewer_Service.exe
 O23 - Service: @%SystemRoot%\system32\ui0detect.exe,-101 (UI0Detect) - Unknown owner - C:\Windows\system32\UI0Detect.exe (file missing)
@@ -120,4 +125,4 @@ O23 - Service: @%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe,-101 (WMPNetwor
 O23 - Service: ZAtheros Bt and Wlan Coex Agent - Atheros - C:\Program Files (x86)\Bluetooth Suite\Ath_CoexAgent.exe
 
 --
-End of file - 13840 bytes
+End of file - 14516 bytes
