@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 10:02:47 AM, on 8/1/2017
+Scan saved at 10:03:07 AM, on 8/1/2017
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.9600.18123)
 
@@ -9,8 +9,8 @@ Boot mode: Normal
 Running processes:
 C:\Program Files (x86)\TeamViewer\TeamViewer.exe
 C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe
-D:\ProgramFiles\HijackThis.exe
 C:\Windows\SysWOW64\DllHost.exe
+D:\ProgramFiles\HijackThis.exe
 
 R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
 R0 - HKCU\Software\Microsoft\Internet Explorer\Main,Start Page = https://www.google.com/
