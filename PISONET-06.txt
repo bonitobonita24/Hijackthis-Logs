@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 1:28:59 PM, on 8/5/2017
+Scan saved at 1:29:23 PM, on 8/5/2017
 Platform: Windows 7 SP1 (WinNT 6.00.3505)
 MSIE: Internet Explorer v8.00 (8.00.7601.17514)
 
@@ -9,6 +9,7 @@ Boot mode: Normal
 Running processes:
 C:\Program Files (x86)\Intel\Intel(R) USB 3.0 3.1 eXtensible Host Controller Driver\Application\iusb3mon.exe
 C:\Program Files (x86)\TeamViewer\TeamViewer.exe
+C:\Windows\SysWOW64\DllHost.exe
 C:\Program Files (x86)\HijackThis.exe
 
 R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
@@ -96,4 +97,4 @@ O23 - Service: @%systemroot%\system32\wbengine.exe,-104 (wbengine) - Unknown own
 O23 - Service: @%Systemroot%\system32\wbem\wmiapsrv.exe,-110 (wmiApSrv) - Unknown owner - C:\Windows\system32\wbem\WmiApSrv.exe (file missing)
 
 --
-End of file - 10322 bytes
+End of file - 10355 bytes
