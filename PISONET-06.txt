@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 1:29:23 PM, on 8/5/2017
+Scan saved at 3:50:41 PM, on 8/7/2017
 Platform: Windows 7 SP1 (WinNT 6.00.3505)
 MSIE: Internet Explorer v8.00 (8.00.7601.17514)
 
@@ -7,9 +7,9 @@ FIREFOX: 54.0.1 (x86 en-US)
 Boot mode: Normal
 
 Running processes:
+C:\Program Files (x86)\PC Remote\PC Remote\PCRemote.exe
 C:\Program Files (x86)\Intel\Intel(R) USB 3.0 3.1 eXtensible Host Controller Driver\Application\iusb3mon.exe
 C:\Program Files (x86)\TeamViewer\TeamViewer.exe
-C:\Windows\SysWOW64\DllHost.exe
 C:\Program Files (x86)\HijackThis.exe
 
 R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
@@ -28,6 +28,8 @@ O2 - BHO: AMD SteadyVideo BHO - {6C680BAE-655C-4E3D-8FC4-E6A520C3D928} - C:\Prog
 O2 - BHO: URLRedirectionBHO - {B4F3A835-0E21-4959-BA22-42B3008E02FF} - C:\PROGRA~2\MICROS~1\Office15\URLREDIR.DLL
 O4 - HKLM\..\Run: [USB3MON] "C:\Program Files (x86)\Intel\Intel(R) USB 3.0 3.1 eXtensible Host Controller Driver\Application\iusb3mon.exe"
 O4 - HKLM\..\Run: [StartCCC] "C:\Program Files (x86)\AMD\ATI.ACE\Core-Static\amd64\CLIStart.exe" MSRun
+O4 - HKCU\..\Run: [PC Remote Server] C:\Program Files (x86)\PC Remote\PC Remote\PCRemote.exe /silent
+O4 - HKCU\..\Run: [Airytec Switch Off] "C:\Program Files\Airytec\Switch Off\swoff.exe" -auto
 O4 - HKUS\S-1-5-19\..\Run: [Sidebar] %ProgramFiles%\Windows Sidebar\Sidebar.exe /autoRun (User 'LOCAL SERVICE')
 O4 - HKUS\S-1-5-19\..\RunOnce: [mctadmin] C:\Windows\System32\mctadmin.exe (User 'LOCAL SERVICE')
 O4 - HKUS\S-1-5-20\..\Run: [Sidebar] %ProgramFiles%\Windows Sidebar\Sidebar.exe /autoRun (User 'NETWORK SERVICE')
@@ -44,8 +46,6 @@ O15 - Trusted Zone: http://help.eset.com (HKLM)
 O15 - ESC Trusted Zone: http://help.eset.com (HKLM)
 O17 - HKLM\System\CCS\Services\Tcpip\..\{B15751E7-18C3-4B17-BF09-D134030E11F9}: NameServer = 8.8.8.8,8.8.4.4
 O17 - HKLM\System\CCS\Services\Tcpip\..\{F45CFAF3-A620-4EAF-A547-8DF0336112EF}: NameServer = 8.8.8.8,8.8.4.4
-O17 - HKLM\System\CS1\Services\Tcpip\..\{B15751E7-18C3-4B17-BF09-D134030E11F9}: NameServer = 8.8.8.8,8.8.4.4
-O17 - HKLM\System\CS3\Services\Tcpip\..\{B15751E7-18C3-4B17-BF09-D134030E11F9}: NameServer = 8.8.8.8,8.8.4.4
 O18 - Protocol: osf - {D924BDC6-C83A-4BD5-90D0-095128A113D1} - C:\Program Files (x86)\Microsoft Office\Office15\MSOSB.DLL
 O18 - Filter hijack: text/xml - {807583E5-5146-11D5-A672-00B0D022E945} - C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\MSOXMLMF.DLL
 O18 - Filter: video/mp4 - {20C75730-7C25-476B-95DC-C65810F9E489} - C:\Program Files (x86)\amd\SteadyVideo\VideoMIMEFilter.dll
@@ -56,7 +56,6 @@ O23 - Service: Acronis Nonstop Backup Service (afcdpsrv) - Unknown owner - C:\Pr
 O23 - Service: @%SystemRoot%\system32\Alg.exe,-112 (ALG) - Unknown owner - C:\Windows\System32\alg.exe (file missing)
 O23 - Service: AMD External Events Utility - Unknown owner - C:\Windows\system32\atiesrxx.exe (file missing)
 O23 - Service: AMD FUEL Service - Advanced Micro Devices, Inc. - C:\Program Files\AMD\ATI.ACE\Fuel\Fuel.Service.exe
-O23 - Service: ASP.NET State Service (aspnet_state) - Unknown owner - C:\Windows\Microsoft.NET\Framework\v2.0.50727\aspnet_state.exe (file missing)
 O23 - Service: Bonjour Service - Apple Inc. - C:\Program Files\Bonjour\mDNSResponder.exe
 O23 - Service: DFServ - Faronics Corporation - C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\DFServ.exe
 O23 - Service: @%SystemRoot%\system32\efssvc.dll,-100 (EFS) - Unknown owner - C:\Windows\System32\lsass.exe (file missing)
@@ -79,6 +78,8 @@ O23 - Service: Skype Updater (SkypeUpdate) - Skype Technologies - C:\Program Fil
 O23 - Service: @%SystemRoot%\system32\snmptrap.exe,-3 (SNMPTRAP) - Unknown owner - C:\Windows\System32\snmptrap.exe (file missing)
 O23 - Service: @%systemroot%\system32\spoolsv.exe,-1 (Spooler) - Unknown owner - C:\Windows\System32\spoolsv.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\sppsvc.exe,-101 (sppsvc) - Unknown owner - C:\Windows\system32\sppsvc.exe (file missing)
+O23 - Service: Airytec Switch Off - Task Scheduler (SwOffScheduler) - Airytec - C:\Program Files\Airytec\Switch Off\swoff.exe
+O23 - Service: Airytec Switch Off - Web Interface (SwOffWeb) - Airytec - C:\Program Files\Airytec\Switch Off\swoff.exe
 O23 - Service: Acronis Sync Agent Service (syncagentsrv) - Unknown owner - C:\Program Files (x86)\Common Files\Acronis\SyncAgent\syncagentsrv.exe
 O23 - Service: TeamViewer 12 (TeamViewer) - TeamViewer GmbH - C:\Program Files (x86)\TeamViewer\TeamViewer_Service.exe
 O23 - Service: TP AutoConnect Service (TPAutoConnSvc) - ThinPrint GmbH - C:\Program Files\VMware\VMware Tools\TPAutoConnSvc.exe
@@ -97,4 +98,4 @@ O23 - Service: @%systemroot%\system32\wbengine.exe,-104 (wbengine) - Unknown own
 O23 - Service: @%Systemroot%\system32\wbem\wmiapsrv.exe,-110 (wmiApSrv) - Unknown owner - C:\Windows\system32\wbem\WmiApSrv.exe (file missing)
 
 --
-End of file - 10355 bytes
+End of file - 10453 bytes
