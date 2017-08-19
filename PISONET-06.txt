@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 3:50:41 PM, on 8/7/2017
+Scan saved at 5:22:38 PM, on 8/19/2017
 Platform: Windows 7 SP1 (WinNT 6.00.3505)
 MSIE: Internet Explorer v8.00 (8.00.7601.17514)
 
@@ -10,7 +10,7 @@ Running processes:
 C:\Program Files (x86)\PC Remote\PC Remote\PCRemote.exe
 C:\Program Files (x86)\Intel\Intel(R) USB 3.0 3.1 eXtensible Host Controller Driver\Application\iusb3mon.exe
 C:\Program Files (x86)\TeamViewer\TeamViewer.exe
-C:\Program Files (x86)\HijackThis.exe
+D:\Programs\HijackThis.exe
 
 R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
 R0 - HKCU\Software\Microsoft\Internet Explorer\Main,Start Page = http://go.microsoft.com/fwlink/?LinkId=69157
@@ -40,8 +40,6 @@ O9 - Extra button: Send to OneNote - {2670000A-7350-4f3c-8081-5663EE0C6C49} - C:
 O9 - Extra 'Tools' menuitem: Se&nd to OneNote - {2670000A-7350-4f3c-8081-5663EE0C6C49} - C:\Program Files (x86)\Microsoft Office\Office15\ONBttnIE.dll
 O9 - Extra button: OneNote Lin&ked Notes - {789FE86F-6FC4-46A1-9849-EDE0DB0C95CA} - C:\Program Files (x86)\Microsoft Office\Office15\ONBttnIELinkedNotes.dll
 O9 - Extra 'Tools' menuitem: OneNote Lin&ked Notes - {789FE86F-6FC4-46A1-9849-EDE0DB0C95CA} - C:\Program Files (x86)\Microsoft Office\Office15\ONBttnIELinkedNotes.dll
-O10 - Unknown file in Winsock LSP: c:\windows\system32\vsocklib.dll
-O10 - Unknown file in Winsock LSP: c:\windows\system32\vsocklib.dll
 O15 - Trusted Zone: http://help.eset.com (HKLM)
 O15 - ESC Trusted Zone: http://help.eset.com (HKLM)
 O17 - HKLM\System\CCS\Services\Tcpip\..\{B15751E7-18C3-4B17-BF09-D134030E11F9}: NameServer = 8.8.8.8,8.8.4.4
@@ -82,20 +80,13 @@ O23 - Service: Airytec Switch Off - Task Scheduler (SwOffScheduler) - Airytec - 
 O23 - Service: Airytec Switch Off - Web Interface (SwOffWeb) - Airytec - C:\Program Files\Airytec\Switch Off\swoff.exe
 O23 - Service: Acronis Sync Agent Service (syncagentsrv) - Unknown owner - C:\Program Files (x86)\Common Files\Acronis\SyncAgent\syncagentsrv.exe
 O23 - Service: TeamViewer 12 (TeamViewer) - TeamViewer GmbH - C:\Program Files (x86)\TeamViewer\TeamViewer_Service.exe
-O23 - Service: TP AutoConnect Service (TPAutoConnSvc) - ThinPrint GmbH - C:\Program Files\VMware\VMware Tools\TPAutoConnSvc.exe
-O23 - Service: TP VC Gateway Service (TPVCGateway) - Cortado AG - C:\Program Files\VMware\VMware Tools\TPVCGateway.exe
 O23 - Service: @%SystemRoot%\system32\ui0detect.exe,-101 (UI0Detect) - Unknown owner - C:\Windows\system32\UI0Detect.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\vaultsvc.dll,-1003 (VaultSvc) - Unknown owner - C:\Windows\system32\lsass.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\vds.exe,-100 (vds) - Unknown owner - C:\Windows\System32\vds.exe (file missing)
-O23 - Service: VMware Alias Manager and Ticket Service (VGAuthService) - VMware, Inc. - C:\Program Files\VMware\VMware Tools\VMware VGAuth\VGAuthService.exe
-O23 - Service: VMware Tools (VMTools) - VMware, Inc. - C:\Program Files\VMware\VMware Tools\vmtoolsd.exe
-O23 - Service: VMware Physical Disk Helper Service - VMware, Inc. - C:\Program Files\VMware\VMware Tools\vmacthlp.exe
-O23 - Service: VMware CAF AMQP Communication Service (VMwareCAFCommAmqpListener) - Unknown owner - C:\Program Files\VMware\VMware Tools\VMware CAF\pme\bin\CommAmqpListener.exe
-O23 - Service: VMware CAF Management Agent Service (VMwareCAFManagementAgentHost) - Unknown owner - C:\Program Files\VMware\VMware Tools\VMware CAF\pme\bin\ManagementAgentHost.exe
 O23 - Service: VNC Server (vncserver) - RealVNC Ltd - C:\Program Files\RealVNC\VNC Server\vncserver.exe
 O23 - Service: @%systemroot%\system32\vssvc.exe,-102 (VSS) - Unknown owner - C:\Windows\system32\vssvc.exe (file missing)
 O23 - Service: @%systemroot%\system32\wbengine.exe,-104 (wbengine) - Unknown owner - C:\Windows\system32\wbengine.exe (file missing)
 O23 - Service: @%Systemroot%\system32\wbem\wmiapsrv.exe,-110 (wmiApSrv) - Unknown owner - C:\Windows\system32\wbem\WmiApSrv.exe (file missing)
 
 --
-End of file - 10453 bytes
+End of file - 9315 bytes
