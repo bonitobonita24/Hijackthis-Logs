@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 10:03:07 AM, on 8/1/2017
+Scan saved at 4:30:39 PM, on 9/3/2017
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.9600.18123)
 
@@ -8,7 +8,10 @@ Boot mode: Normal
 
 Running processes:
 C:\Program Files (x86)\TeamViewer\TeamViewer.exe
+C:\Program Files (x86)\Common Files\Acronis\Schedule2\schedhlp.exe
+C:\Program Files\AVAST Software\Avast\AvastUI.exe
 C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe
+D:\ProgramFiles\Intuit\QuickBooks 2016\qbw32.exe
 C:\Windows\SysWOW64\DllHost.exe
 D:\ProgramFiles\HijackThis.exe
 
@@ -30,6 +33,8 @@ O2 - BHO: Java(tm) Plug-In SSV Helper - {761497BB-D6F0-462C-B6EB-D4DAF1D92D43} -
 O2 - BHO: Evernote extension - {92EF2EAD-A7CE-4424-B0DB-499CF856608E} - C:\Program Files (x86)\Evernote\Evernote\EvernoteIE.dll
 O2 - BHO: Java(tm) Plug-In 2 SSV Helper - {DBC80044-A445-435b-BC74-9C25C1C588A9} - C:\Program Files (x86)\Java\jre1.8.0_131\bin\jp2ssv.dll
 O4 - HKLM\..\Run: [StartCCC] "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\amd64\CLIStart.exe" MSRun
+O4 - HKLM\..\Run: [AcronisTibMounterMonitor] C:\Program Files (x86)\Common Files\Acronis\TibMounter\TibMounterMonitor.exe
+O4 - HKLM\..\Run: [TrueImageMonitor.exe] C:\Program Files (x86)\Acronis\TrueImageHome\TrueImageMonitor.exe
 O4 - HKCU\..\Run: [EPLTarget\P0000000000000000] C:\Windows\system32\spool\DRIVERS\x64\3\E_YATII3E.EXE /EPT "EPLTarget\P0000000000000000" /M "L110 Series" /EF "HKCU"
 O4 - HKLM\..\Policies\Explorer\Run: [BtvStack] "C:\Program Files (x86)\Bluetooth Suite\BtvStack.exe"
 O8 - Extra context menu item: Clip bookmark - C:\Program Files (x86)\Evernote\Evernote\EvernoteIERes\Clip.html?clipAction=0
@@ -52,8 +57,6 @@ O9 - Extra 'Tools' menuitem: @C:\Program Files (x86)\Evernote\Evernote\OLIEResou
 O10 - Unknown file in Winsock LSP: c:\windows\system32\vsocklib.dll
 O10 - Unknown file in Winsock LSP: c:\windows\system32\vsocklib.dll
 O11 - Options group: [ACCELERATED_GRAPHICS] Accelerated graphics
-O15 - Trusted Zone: http://help.eset.com (HKLM)
-O15 - ESC Trusted Zone: http://help.eset.com (HKLM)
 O17 - HKLM\System\CCS\Services\Tcpip\..\{C9923004-85D1-4A88-AFF9-584D9760D4C2}: NameServer = 8.8.8.8,8.8.4.4
 O18 - Protocol: intu-help-qb9 - {C1252096-0E63-4C06-A38B-03DF9A16AA12} - D:\ProgramFiles\Intuit\QuickBooks 2016\HelpAsyncPluggableProtocol.dll
 O18 - Protocol: osf - {D924BDC6-C83A-4BD5-90D0-095128A113D1} - C:\Program Files (x86)\Microsoft Office\Office15\MSOSB.DLL
@@ -65,15 +68,18 @@ O23 - Service: Adobe Acrobat Update Service (AdobeARMservice) - Adobe Systems In
 O23 - Service: Acronis Nonstop Backup Service (afcdpsrv) - Unknown owner - C:\Program Files (x86)\Common Files\Acronis\CDP\afcdpsrv.exe
 O23 - Service: @%SystemRoot%\system32\Alg.exe,-112 (ALG) - Unknown owner - C:\Windows\System32\alg.exe (file missing)
 O23 - Service: AMD External Events Utility - Unknown owner - C:\Windows\system32\atiesrxx.exe (file missing)
+O23 - Service: aswbIDSAgent - AVAST Software s.r.o. - C:\Program Files\AVAST Software\Avast\x64\aswidsagenta.exe
 O23 - Service: AtherosSvc - Windows (R) Win 7 DDK provider - C:\Program Files (x86)\Bluetooth Suite\adminservice.exe
+O23 - Service: Avast Antivirus (avast! Antivirus) - AVAST Software - C:\Program Files\AVAST Software\Avast\AvastSvc.exe
 O23 - Service: Bonjour Service - Apple Inc. - C:\Program Files\Bonjour\mDNSResponder.exe
 O23 - Service: Intel(R) Content Protection HECI Service (cphs) - Intel Corporation - C:\Windows\SysWow64\IntelCpHeciSvc.exe
 O23 - Service: @C:\Windows\system32\CxAudMsg64.exe,-100 (CxAudMsg) - Unknown owner - C:\Windows\system32\CxAudMsg64.exe (file missing)
 O23 - Service: DFServ - Faronics Corporation - C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\DFServ.exe
+O23 - Service: EasyAntiCheat - EasyAntiCheat Ltd - C:\Windows\system32\EasyAntiCheat.exe
 O23 - Service: @%SystemRoot%\system32\efssvc.dll,-100 (EFS) - Unknown owner - C:\Windows\System32\lsass.exe (file missing)
-O23 - Service: ESET Service (ekrn) - ESET - C:\Program Files\ESET\ESET NOD32 Antivirus\ekrn.exe
 O23 - Service: Elan Service (ETDService) - ELAN Microelectronics Corp. - C:\Program Files\Elantech\ETDService.exe
 O23 - Service: @%systemroot%\system32\fxsresm.dll,-118 (Fax) - Unknown owner - C:\Windows\system32\fxssvc.exe (file missing)
+O23 - Service: GoodSync Server (GsServer) - Unknown owner - C:\Program Files\Siber Systems\GoodSync\gs-server.exe
 O23 - Service: Google Update Service (gupdate) (gupdate) - Google Inc. - C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
 O23 - Service: Google Update Service (gupdatem) (gupdatem) - Google Inc. - C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
 O23 - Service: Intel(R) Rapid Storage Technology (IAStorDataMgrSvc) - Intel Corporation - C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorDataMgrSvc.exe
@@ -125,4 +131,4 @@ O23 - Service: @%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe,-101 (WMPNetwor
 O23 - Service: ZAtheros Bt and Wlan Coex Agent - Atheros - C:\Program Files (x86)\Bluetooth Suite\Ath_CoexAgent.exe
 
 --
-End of file - 14516 bytes
+End of file - 15156 bytes
