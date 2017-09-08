@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 4:30:59 PM, on 9/3/2017
+Scan saved at 3:43:33 PM, on 9/8/2017
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.9600.18123)
 
@@ -11,8 +11,6 @@ C:\Program Files (x86)\TeamViewer\TeamViewer.exe
 C:\Program Files (x86)\Common Files\Acronis\Schedule2\schedhlp.exe
 C:\Program Files\AVAST Software\Avast\AvastUI.exe
 C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe
-D:\ProgramFiles\Intuit\QuickBooks 2016\qbw32.exe
-C:\Program Files (x86)\CMS\CMS.exe
 C:\Windows\SysWOW64\DllHost.exe
 D:\ProgramFiles\HijackThis.exe
 
@@ -58,7 +56,9 @@ O9 - Extra 'Tools' menuitem: @C:\Program Files (x86)\Evernote\Evernote\OLIEResou
 O10 - Unknown file in Winsock LSP: c:\windows\system32\vsocklib.dll
 O10 - Unknown file in Winsock LSP: c:\windows\system32\vsocklib.dll
 O11 - Options group: [ACCELERATED_GRAPHICS] Accelerated graphics
+O17 - HKLM\System\CCS\Services\Tcpip\..\{0B17878D-4828-4D1E-9492-E251F501BBD6}: NameServer = 8.8.8.8,8.8.4.4
 O17 - HKLM\System\CCS\Services\Tcpip\..\{C9923004-85D1-4A88-AFF9-584D9760D4C2}: NameServer = 8.8.8.8,8.8.4.4
+O17 - HKLM\System\CS1\Services\Tcpip\..\{0B17878D-4828-4D1E-9492-E251F501BBD6}: NameServer = 8.8.8.8,8.8.4.4
 O18 - Protocol: intu-help-qb9 - {C1252096-0E63-4C06-A38B-03DF9A16AA12} - D:\ProgramFiles\Intuit\QuickBooks 2016\HelpAsyncPluggableProtocol.dll
 O18 - Protocol: osf - {D924BDC6-C83A-4BD5-90D0-095128A113D1} - C:\Program Files (x86)\Microsoft Office\Office15\MSOSB.DLL
 O18 - Protocol: qbwc - {FC598A64-626C-4447-85B8-53150405FD57} - mscoree.dll (file missing)
@@ -132,4 +132,4 @@ O23 - Service: @%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe,-101 (WMPNetwor
 O23 - Service: ZAtheros Bt and Wlan Coex Agent - Atheros - C:\Program Files (x86)\Bluetooth Suite\Ath_CoexAgent.exe
 
 --
-End of file - 15192 bytes
+End of file - 15326 bytes
