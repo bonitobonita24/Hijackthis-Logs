@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 11:34:02 AM, on 4/9/2018
+Scan saved at 11:37:01 AM, on 4/9/2018
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.9600.18123)
 
@@ -13,6 +13,7 @@ C:\Program Files\AVAST Software\Avast\AvastUI.exe
 C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe
 C:\Program Files (x86)\Internet Download Manager\IDMan.exe
 C:\Program Files (x86)\Internet Download Manager\IEMonitor.exe
+C:\Windows\SysWOW64\DllHost.exe
 D:\ProgramFiles\HijackThis.exe
 
 R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
@@ -142,4 +143,4 @@ O23 - Service: XianzhiDeviceService - Fuzhou Xianzhi Ruishi Information Technolo
 O23 - Service: ZAtheros Bt and Wlan Coex Agent - Atheros - C:\Program Files (x86)\Bluetooth Suite\Ath_CoexAgent.exe
 
 --
-End of file - 16593 bytes
+End of file - 16626 bytes
