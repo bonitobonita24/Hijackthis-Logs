@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 11:37:01 AM, on 4/9/2018
+Scan saved at 10:49:06 AM, on 6/7/2018
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.9600.18123)
 
@@ -9,19 +9,15 @@ Boot mode: Normal
 Running processes:
 C:\Program Files (x86)\TeamViewer\TeamViewer.exe
 C:\Program Files (x86)\Common Files\Acronis\Schedule2\schedhlp.exe
-C:\Program Files\AVAST Software\Avast\AvastUI.exe
 C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe
-C:\Program Files (x86)\Internet Download Manager\IDMan.exe
 C:\Program Files (x86)\Internet Download Manager\IEMonitor.exe
-C:\Windows\SysWOW64\DllHost.exe
+D:\ProgramFiles\Intuit\QuickBooks 2016\qbw32.exe
 D:\ProgramFiles\HijackThis.exe
 
 R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
-R0 - HKCU\Software\Microsoft\Internet Explorer\Main,Start Page = https://www.google.com/
-R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Default_Page_URL = http://go.microsoft.com/fwlink/p/?LinkId=255141
-R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Default_Search_URL = http://go.microsoft.com/fwlink/?LinkId=54896
+R0 - HKCU\Software\Microsoft\Internet Explorer\Main,Start Page = about:blank
 R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
-R0 - HKLM\Software\Microsoft\Internet Explorer\Main,Start Page = http://go.microsoft.com/fwlink/p/?LinkId=255141
+R0 - HKLM\Software\Microsoft\Internet Explorer\Main,Start Page = about:blank
 R0 - HKLM\Software\Microsoft\Internet Explorer\Search,SearchAssistant = 
 R0 - HKLM\Software\Microsoft\Internet Explorer\Search,CustomizeSearch = 
 R0 - HKLM\Software\Microsoft\Internet Explorer\Main,Local Page = C:\Windows\SysWOW64\blank.htm
@@ -30,12 +26,14 @@ R0 - HKCU\Software\Microsoft\Internet Explorer\Toolbar,LinksFolderName =
 F2 - REG:system.ini: UserInit=userinit.exe
 O2 - BHO: IDM Helper - {0055C089-8582-441B-A0BF-17B458C2A3A8} - C:\Program Files (x86)\Internet Download Manager\IDMIECC.dll
 O2 - BHO: Skype for Business Click to Call BHO - {31D09BA0-12F5-4CCE-BE8A-2923E76605DA} - C:\Program Files (x86)\Microsoft Office\Office15\OCHelper.dll
-O2 - BHO: Java(tm) Plug-In SSV Helper - {761497BB-D6F0-462C-B6EB-D4DAF1D92D43} - C:\Program Files (x86)\Java\jre1.8.0_162\bin\ssv.dll
+O2 - BHO: Java(tm) Plug-In SSV Helper - {761497BB-D6F0-462C-B6EB-D4DAF1D92D43} - C:\Program Files (x86)\Java\jre1.8.0_171\bin\ssv.dll
 O2 - BHO: Evernote extension - {92EF2EAD-A7CE-4424-B0DB-499CF856608E} - C:\Program Files (x86)\Evernote\Evernote\EvernoteIE.dll
-O2 - BHO: Java(tm) Plug-In 2 SSV Helper - {DBC80044-A445-435b-BC74-9C25C1C588A9} - C:\Program Files (x86)\Java\jre1.8.0_162\bin\jp2ssv.dll
-O4 - HKLM\..\Run: [StartCCC] "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\amd64\CLIStart.exe" MSRun
+O2 - BHO: Java(tm) Plug-In 2 SSV Helper - {DBC80044-A445-435b-BC74-9C25C1C588A9} - C:\Program Files (x86)\Java\jre1.8.0_171\bin\jp2ssv.dll
 O4 - HKLM\..\Run: [AcronisTibMounterMonitor] C:\Program Files (x86)\Common Files\Acronis\TibMounter\TibMounterMonitor.exe
 O4 - HKLM\..\Run: [TrueImageMonitor.exe] C:\Program Files (x86)\Acronis\TrueImageHome\TrueImageMonitor.exe
+O4 - HKLM\..\Run: [ControlCenter4] C:\Program Files (x86)\ControlCenter4\BrCcBoot.exe /autorun
+O4 - HKLM\..\Run: [BrStsMon00] C:\Program Files (x86)\Browny02\Brother\BrStMonW.exe /AUTORUN
+O4 - HKLM\..\Run: [SunJavaUpdateSched] "C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe"
 O4 - HKCU\..\Run: [EPLTarget\P0000000000000000] C:\Windows\system32\spool\DRIVERS\x64\3\E_YATII3E.EXE /EPT "EPLTarget\P0000000000000000" /M "L110 Series"
 O4 - HKLM\..\Policies\Explorer\Run: [BtvStack] "C:\Program Files (x86)\Bluetooth Suite\BtvStack.exe"
 O8 - Extra context menu item: Clip bookmark - C:\Program Files (x86)\Evernote\Evernote\EvernoteIERes\Clip.html?clipAction=0
@@ -67,15 +65,14 @@ O18 - Protocol: qbwc - {FC598A64-626C-4447-85B8-53150405FD57} - mscoree.dll (fil
 O18 - Filter hijack: text/xml - {807583E5-5146-11D5-A672-00B0D022E945} - C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\MSOXMLMF.DLL
 O23 - Service: Acronis Scheduler2 Service (AcrSch2Svc) - Unknown owner - C:\Program Files (x86)\Common Files\Acronis\Schedule2\schedul2.exe
 O23 - Service: Adobe Active File Monitor V14 (AdobeActiveFileMonitor14.0) - Adobe Systems Incorporated - C:\Program Files\Adobe\Elements 14 Organizer\PhotoshopElementsFileAgent.exe
-O23 - Service: Adobe Acrobat Update Service (AdobeARMservice) - Adobe Systems Incorporated - C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe
 O23 - Service: Acronis Nonstop Backup Service (afcdpsrv) - Unknown owner - C:\Program Files (x86)\Common Files\Acronis\CDP\afcdpsrv.exe
 O23 - Service: @%SystemRoot%\system32\Alg.exe,-112 (ALG) - Unknown owner - C:\Windows\System32\alg.exe (file missing)
 O23 - Service: AMD External Events Utility - Unknown owner - C:\Windows\system32\atiesrxx.exe (file missing)
 O23 - Service: Apple Mobile Device Service - Apple Inc. - C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
 O23 - Service: AtherosSvc - Windows (R) Win 7 DDK provider - C:\Program Files (x86)\Bluetooth Suite\adminservice.exe
-O23 - Service: Avast Antivirus (avast! Antivirus) - AVAST Software - C:\Program Files\AVAST Software\Avast\AvastSvc.exe
 O23 - Service: BattlEye Service (BEService) - Unknown owner - C:\Program Files (x86)\Common Files\BattlEye\BEService.exe
 O23 - Service: Bonjour Service - Apple Inc. - C:\Program Files\Bonjour\mDNSResponder.exe
+O23 - Service: BrYNSvc - Brother Industries, Ltd. - C:\Program Files (x86)\Browny02\BrYNSvc.exe
 O23 - Service: Intel(R) Content Protection HECI Service (cphs) - Intel Corporation - C:\Windows\SysWow64\IntelCpHeciSvc.exe
 O23 - Service: @C:\Windows\system32\CxAudMsg64.exe,-100 (CxAudMsg) - Unknown owner - C:\Windows\system32\CxAudMsg64.exe (file missing)
 O23 - Service: DFServ - Faronics Corporation - C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\DFServ.exe
@@ -85,9 +82,8 @@ O23 - Service: Elan Service (ETDService) - ELAN Microelectronics Corp. - C:\Prog
 O23 - Service: @%systemroot%\system32\fxsresm.dll,-118 (Fax) - Unknown owner - C:\Windows\system32\fxssvc.exe (file missing)
 O23 - Service: Garena platform service (GarenaPlatform) - Garena Online                    - F:\Games\POG\Garena Plus\Garena\Garena\2.0.1803.2016\gxxsvc.exe
 O23 - Service: GoodSync Server (GsServer) - Unknown owner - C:\Program Files\Siber Systems\GoodSync\gs-server.exe
-O23 - Service: Google Update Service (gupdate) (gupdate) - Google Inc. - C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
-O23 - Service: Google Update Service (gupdatem) (gupdatem) - Google Inc. - C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
 O23 - Service: Intel(R) Rapid Storage Technology (IAStorDataMgrSvc) - Intel Corporation - C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorDataMgrSvc.exe
+O23 - Service: COMODO IceDragon Update Service (IceDragonUpdater) - Unknown owner - C:\Program Files (x86)\Comodo\IceDragon\icedragon_updater.exe
 O23 - Service: @%SystemRoot%\system32\ieetwcollectorres.dll,-1000 (IEEtwCollectorService) - Unknown owner - C:\Windows\system32\IEEtwCollector.exe (file missing)
 O23 - Service: Intel(R) HD Graphics Control Panel Service (igfxCUIService1.0.0.0) - Unknown owner - C:\Windows\system32\igfxCUIService.exe (file missing)
 O23 - Service: Intel(R) Capability Licensing Service Interface - Intel(R) Corporation - C:\Program Files\Intel\iCLS Client\HeciServer.exe
@@ -108,7 +104,6 @@ O23 - Service: Nalpeiron Licensing Service (nlsX86cc) - Nalpeiron Ltd. - C:\Wind
 O23 - Service: nProtect GameGuard Service (npggsvc) - Unknown owner - C:\Windows\system32\GameMon.des.exe (file missing)
 O23 - Service: PDAgent - Raxco Software, Inc. - C:\Program Files\Raxco\PerfectDisk\PDAgent.exe
 O23 - Service: PDEngine - Raxco Software, Inc. - C:\Program Files\Common Files\Raxco\Shared\PDEngine.exe
-O23 - Service: PnkBstrA - Unknown owner - C:\Windows\system32\PnkBstrA.exe
 O23 - Service: QBCFMonitorService - Intuit - C:\Program Files (x86)\Common Files\Intuit\QuickBooks\QBCFMonitorService.exe
 O23 - Service: Intuit QuickBooks FCS (QBFCService) - Intuit Inc. - C:\Program Files (x86)\Common Files\Intuit\QuickBooks\FCS\Intuit.QuickBooks.FCS.exe
 O23 - Service: QBIDPService (QBVSS) - Intuit Inc. - C:\Program Files (x86)\Common Files\Intuit\DataProtect\QBIDPService.exe
@@ -143,4 +138,4 @@ O23 - Service: XianzhiDeviceService - Fuzhou Xianzhi Ruishi Information Technolo
 O23 - Service: ZAtheros Bt and Wlan Coex Agent - Atheros - C:\Program Files (x86)\Bluetooth Suite\Ath_CoexAgent.exe
 
 --
-End of file - 16626 bytes
+End of file - 16059 bytes
