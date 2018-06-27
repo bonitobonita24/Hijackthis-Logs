@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 8:57:35 PM, on 27/06/2018
+Scan saved at 8:58:06 PM, on 27/06/2018
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.15063.0850)
 
@@ -10,6 +10,7 @@ Running processes:
 C:\Program Files (x86)\TeamViewer\TeamViewer.exe
 C:\Program Files (x86)\Common Files\Acronis\Schedule2\schedhlp.exe
 C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe
+C:\Windows\SysWOW64\DllHost.exe
 E:\ProgramFiles\HijackThis.exe
 
 R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
@@ -38,6 +39,8 @@ O4 - HKLM\..\Run: [ControlCenter4] C:\Program Files (x86)\ControlCenter4\BrCcBoo
 O4 - HKLM\..\Run: [BrStsMon00] C:\Program Files (x86)\Browny02\Brother\BrStMonW.exe /AUTORUN
 O4 - HKCU\..\Run: [EPLTarget\P0000000000000000] C:\Windows\system32\spool\DRIVERS\x64\3\E_YATILUE.EXE /EPT "EPLTarget\P0000000000000000" /M "L120 Series"
 O4 - HKCU\..\Run: [EPLTarget\P0000000000000001] C:\Windows\system32\spool\DRIVERS\x64\3\E_YATII3E.EXE /EPT "EPLTarget\P0000000000000001" /M "L110 Series"
+O4 - HKUS\S-1-5-19\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'LOCAL SERVICE')
+O4 - HKUS\S-1-5-20\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'NETWORK SERVICE')
 O8 - Extra context menu item: Clip bookmark - C:\Program Files (x86)\Evernote\Evernote\EvernoteIERes\Clip.html?clipAction=0
 O8 - Extra context menu item: Clip image - C:\Program Files (x86)\Evernote\Evernote\EvernoteIERes\Clip.html?clipAction=4
 O8 - Extra context menu item: Clip selection - C:\Program Files (x86)\Evernote\Evernote\EvernoteIERes\Clip.html?clipAction=3
@@ -125,4 +128,4 @@ O23 - Service: @%Systemroot%\system32\wbem\wmiapsrv.exe,-110 (wmiApSrv) - Unknow
 O23 - Service: @%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe,-101 (WMPNetworkSvc) - Unknown owner - C:\Program Files (x86)\Windows Media Player\wmpnetwk.exe (file missing)
 
 --
-End of file - 14771 bytes
+End of file - 15044 bytes
