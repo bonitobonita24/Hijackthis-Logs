@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 4:25:19 PM, on 7/27/2018
+Scan saved at 4:26:42 PM, on 7/27/2018
 Platform: Windows 7 SP1 (WinNT 6.00.3505)
 MSIE: Internet Explorer v8.00 (8.00.7601.17514)
 
@@ -26,6 +26,10 @@ O2 - BHO: Java(tm) Plug-In SSV Helper - {761497BB-D6F0-462C-B6EB-D4DAF1D92D43} -
 O2 - BHO: URLRedirectionBHO - {B4F3A835-0E21-4959-BA22-42B3008E02FF} - C:\PROGRA~2\MICROS~1\Office15\URLREDIR.DLL
 O2 - BHO: Java(tm) Plug-In 2 SSV Helper - {DBC80044-A445-435b-BC74-9C25C1C588A9} - C:\Program Files (x86)\Java\jre1.8.0_172\bin\jp2ssv.dll
 O4 - HKLM\..\Run: [StartCCC] "C:\Program Files (x86)\AMD\ATI.ACE\Core-Static\amd64\CLIStart.exe" MSRun
+O4 - HKUS\S-1-5-19\..\Run: [Sidebar] %ProgramFiles%\Windows Sidebar\Sidebar.exe /autoRun (User 'LOCAL SERVICE')
+O4 - HKUS\S-1-5-19\..\RunOnce: [mctadmin] C:\Windows\System32\mctadmin.exe (User 'LOCAL SERVICE')
+O4 - HKUS\S-1-5-20\..\Run: [Sidebar] %ProgramFiles%\Windows Sidebar\Sidebar.exe /autoRun (User 'NETWORK SERVICE')
+O4 - HKUS\S-1-5-20\..\RunOnce: [mctadmin] C:\Windows\System32\mctadmin.exe (User 'NETWORK SERVICE')
 O8 - Extra context menu item: E&xport to Microsoft Excel - res://C:\PROGRA~2\MICROS~1\Office15\EXCEL.EXE/3000
 O17 - HKLM\System\CCS\Services\Tcpip\..\{56B90B14-FCD4-4632-AA26-89A0B9680455}: NameServer = 8.8.8.8,8.8.4.4
 O18 - Protocol: osf - {D924BDC6-C83A-4BD5-90D0-095128A113D1} - C:\Program Files (x86)\Microsoft Office\Office15\MSOSB.DLL
@@ -62,4 +66,4 @@ O23 - Service: @%Systemroot%\system32\wbem\wmiapsrv.exe,-110 (wmiApSrv) - Unknow
 O23 - Service: @%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe,-101 (WMPNetworkSvc) - Unknown owner - C:\Program Files (x86)\Windows Media Player\wmpnetwk.exe (file missing)
 
 --
-End of file - 6276 bytes
+End of file - 6704 bytes
