@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 12:29:37 PM, on 10/07/2018
+Scan saved at 4:41:45 PM, on 28/08/2018
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.17134.0001)
 
@@ -7,8 +7,8 @@ MSIE: Internet Explorer v11.0 (11.00.17134.0001)
 Boot mode: Normal
 
 Running processes:
-C:\Program Files (x86)\TeamViewer\TeamViewer.exe
 C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe
+C:\Program Files (x86)\Common Files\Intuit\QuickBooks\QBUpdate\qbupdate.exe
 D:\ProgramFiles\HijackThis.exe
 
 R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
@@ -59,18 +59,18 @@ O18 - Filter hijack: text/xml - {807583E5-5146-11D5-A672-00B0D022E945} - C:\Prog
 O23 - Service: Adobe Active File Monitor V14 (AdobeActiveFileMonitor14.0) - Adobe Systems Incorporated - C:\Program Files\Adobe\Elements 14 Organizer\PhotoshopElementsFileAgent.exe
 O23 - Service: @%SystemRoot%\system32\Alg.exe,-112 (ALG) - Unknown owner - C:\WINDOWS\System32\alg.exe (file missing)
 O23 - Service: AMD External Events Utility - AMD - C:\WINDOWS\System32\DriverStore\FileRepository\c0328911.inf_amd64_a81756cbffedb936\B328940\atiesrxx.exe
-O23 - Service: BattlEye Service (BEService) - Unknown owner - C:\Program Files (x86)\Common Files\BattlEye\BEService.exe (file missing)
+O23 - Service: BattlEye Service (BEService) - Unknown owner - C:\Program Files (x86)\Common Files\BattlEye\BEService.exe
 O23 - Service: BrYNSvc - Brother Industries, Ltd. - C:\Program Files (x86)\Browny02\BrYNSvc.exe
 O23 - Service: Intel(R) Content Protection HECI Service (cphs) - Intel Corporation - C:\WINDOWS\SysWow64\IntelCpHeciSvc.exe
 O23 - Service: @C:\WINDOWS\system32\CxAudMsg64.exe,-100 (CxAudMsg) - Unknown owner - C:\WINDOWS\system32\CxAudMsg64.exe (file missing)
 O23 - Service: Developer Tools Service (DeveloperToolsService) - Unknown owner - C:\WINDOWS\System32\DeveloperToolsSvc.exe (file missing)
 O23 - Service: DFServ - Faronics Corporation - C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\DFServ.exe
 O23 - Service: @%SystemRoot%\system32\DiagSvcs\DiagnosticsHub.StandardCollector.ServiceRes.dll,-1000 (diagnosticshub.standardcollector.service) - Unknown owner - C:\WINDOWS\system32\DiagSvcs\DiagnosticsHub.StandardCollector.Service.exe (file missing)
-O23 - Service: EasyAntiCheat - EasyAntiCheat Ltd - C:\Program Files (x86)\EasyAntiCheat\EasyAntiCheat.exe
 O23 - Service: @%SystemRoot%\system32\efssvc.dll,-100 (EFS) - Unknown owner - C:\WINDOWS\System32\lsass.exe (file missing)
 O23 - Service: Intel(R) PROSet/Wireless Event Log (EvtEng) - Intel(R) Corporation - C:\Program Files\Intel\WiFi\bin\EvtEng.exe
 O23 - Service: @%systemroot%\system32\fxsresm.dll,-118 (Fax) - Unknown owner - C:\WINDOWS\system32\fxssvc.exe (file missing)
 O23 - Service: Garena platform service (GarenaPlatform) - Garena Online                    - D:\ProgramFiles\POG\Garena Plus\Garena\Garena\2.0.1806.2114\gxxsvc.exe
+O23 - Service: GoodSync Server (GsServer) - Unknown owner - C:\Program Files\Siber Systems\GoodSync\gs-server.exe
 O23 - Service: Intel(R) Rapid Storage Technology (IAStorDataMgrSvc) - Intel Corporation - C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorDataMgrSvc.exe
 O23 - Service: @oem0.inf,%SERVICE_NAME%;Intel Bluetooth Service (ibtsiva) - Unknown owner - C:\WINDOWS\system32\ibtsiva (file missing)
 O23 - Service: Intel(R) HD Graphics Control Panel Service (igfxCUIService2.0.0.0) - Unknown owner - C:\WINDOWS\system32\igfxCUIService.exe (file missing)
@@ -80,6 +80,9 @@ O23 - Service: MRAC Service (mracsvc) - Unknown owner - C:\WINDOWS\System32\mrac
 O23 - Service: @comres.dll,-2797 (MSDTC) - Unknown owner - C:\WINDOWS\System32\msdtc.exe (file missing)
 O23 - Service: Wireless PAN DHCP Server (MyWiFiDHCPDNS) - Unknown owner - C:\Program Files\Intel\WiFi\bin\PanDhcpDns.exe
 O23 - Service: @%SystemRoot%\System32\netlogon.dll,-102 (Netlogon) - Unknown owner - C:\WINDOWS\system32\lsass.exe (file missing)
+O23 - Service: nProtect GameGuard Service (npggsvc) - Unknown owner - C:\WINDOWS\system32\GameMon.des.exe (file missing)
+O23 - Service: PDAgent - Raxco Software, Inc. - C:\Program Files\Raxco\PerfectDisk\PDAgent.exe
+O23 - Service: PDEngine - Raxco Software, Inc. - C:\Program Files\Common Files\Raxco\Shared\PDEngine.exe
 O23 - Service: QBCFMonitorService - Intuit Inc. - C:\Program Files (x86)\Common Files\Intuit\QuickBooks\QBCFMonitorService.exe
 O23 - Service: Intuit QuickBooks FCS (QBFCService) - Intuit Inc. - C:\Program Files (x86)\Common Files\Intuit\QuickBooks\FCS\Intuit.QuickBooks.FCS.exe
 O23 - Service: QBIDPService (QBVSS) - Intuit Inc. - C:\Program Files (x86)\Common Files\Intuit\DataProtect\QBIDPService.exe
@@ -111,4 +114,4 @@ O23 - Service: @%systemroot%\system32\xbgmsvc.exe,-100 (xbgm) - Unknown owner - 
 O23 - Service: Intel(R) PROSet/Wireless Zero Configuration Service (ZeroConfigService) - Intel® Corporation - C:\Program Files\Intel\WiFi\bin\ZeroConfigService.exe
 
 --
-End of file - 12832 bytes
+End of file - 13175 bytes
