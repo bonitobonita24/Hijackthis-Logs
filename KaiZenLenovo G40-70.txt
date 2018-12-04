@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 9:20:20 PM, on 04/12/2018
+Scan saved at 9:20:41 PM, on 04/12/2018
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.17134.0001)
 
@@ -12,8 +12,8 @@ C:\Program Files (x86)\Common Files\Acronis\Schedule2\schedhlp.exe
 C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe
 C:\Program Files (x86)\Internet Download Manager\IDMan.exe
 C:\Program Files (x86)\Internet Download Manager\IEMonitor.exe
-D:\ProgramFiles\HijackThis.exe
 C:\WINDOWS\SysWOW64\DllHost.exe
+D:\ProgramFiles\HijackThis.exe
 
 R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
 R0 - HKCU\Software\Microsoft\Internet Explorer\Main,Start Page = https://www.google.com/
@@ -38,6 +38,12 @@ O4 - HKLM\..\Run: [AcronisTibMounterMonitor] C:\Program Files (x86)\Common Files
 O4 - HKLM\..\Run: [TrueImageMonitor.exe] C:\Program Files (x86)\Acronis\TrueImageHome\TrueImageMonitor.exe
 O4 - HKLM\..\Run: [vmware-tray.exe] "C:\Program Files (x86)\VMware\VMware Workstation\vmware-tray.exe"
 O4 - HKCU\..\Run: [EPLTarget\P0000000000000000] C:\WINDOWS\system32\spool\DRIVERS\x64\3\E_YATII3E.EXE /EPT "EPLTarget\P0000000000000000" /M "L110 Series"
+O4 - HKUS\S-1-5-19\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'LOCAL SERVICE')
+O4 - HKUS\S-1-5-19\..\RunOnce: [WAB Migrate] %ProgramFiles%\Windows Mail\wab.exe /Upgrade (User 'LOCAL SERVICE')
+O4 - HKUS\S-1-5-20\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'NETWORK SERVICE')
+O4 - HKUS\S-1-5-20\..\RunOnce: [WAB Migrate] %ProgramFiles%\Windows Mail\wab.exe /Upgrade (User 'NETWORK SERVICE')
+O4 - HKUS\S-1-5-21-2308054052-92880557-1131230313-1007\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'openpgsvc')
+O4 - HKUS\S-1-5-21-2308054052-92880557-1131230313-1007\..\RunOnce: [WAB Migrate] %ProgramFiles%\Windows Mail\wab.exe /Upgrade (User 'openpgsvc')
 O8 - Extra context menu item: Clip bookmark - D:\ProgramFiles\Evernote\EvernoteIERes\Clip.html?clipAction=0
 O8 - Extra context menu item: Clip image - D:\ProgramFiles\Evernote\EvernoteIERes\Clip.html?clipAction=4
 O8 - Extra context menu item: Clip selection - D:\ProgramFiles\Evernote\EvernoteIERes\Clip.html?clipAction=3
@@ -143,4 +149,4 @@ O23 - Service: @%systemroot%\system32\xbgmsvc.exe,-100 (xbgm) - Unknown owner - 
 O23 - Service: Intel(R) PROSet/Wireless Zero Configuration Service (ZeroConfigService) - Intel® Corporation - C:\Program Files\Intel\WiFi\bin\ZeroConfigService.exe
 
 --
-End of file - 16475 bytes
+End of file - 17242 bytes
