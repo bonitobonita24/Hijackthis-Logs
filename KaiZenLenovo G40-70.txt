@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 3:15:09 PM, on 22/11/2018
+Scan saved at 9:20:20 PM, on 04/12/2018
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.17134.0001)
 
@@ -7,10 +7,13 @@ MSIE: Internet Explorer v11.0 (11.00.17134.0001)
 Boot mode: Normal
 
 Running processes:
+C:\Program Files (x86)\TeamViewer\TeamViewer.exe
 C:\Program Files (x86)\Common Files\Acronis\Schedule2\schedhlp.exe
 C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe
-C:\WINDOWS\SysWOW64\DllHost.exe
+C:\Program Files (x86)\Internet Download Manager\IDMan.exe
+C:\Program Files (x86)\Internet Download Manager\IEMonitor.exe
 D:\ProgramFiles\HijackThis.exe
+C:\WINDOWS\SysWOW64\DllHost.exe
 
 R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
 R0 - HKCU\Software\Microsoft\Internet Explorer\Main,Start Page = https://www.google.com/
@@ -33,13 +36,8 @@ O4 - HKLM\..\Run: [ControlCenter4] C:\Program Files (x86)\ControlCenter4\BrCcBoo
 O4 - HKLM\..\Run: [BrStsMon00] C:\Program Files (x86)\Browny02\Brother\BrStMonW.exe /AUTORUN
 O4 - HKLM\..\Run: [AcronisTibMounterMonitor] C:\Program Files (x86)\Common Files\Acronis\TibMounter\TibMounterMonitor.exe
 O4 - HKLM\..\Run: [TrueImageMonitor.exe] C:\Program Files (x86)\Acronis\TrueImageHome\TrueImageMonitor.exe
+O4 - HKLM\..\Run: [vmware-tray.exe] "C:\Program Files (x86)\VMware\VMware Workstation\vmware-tray.exe"
 O4 - HKCU\..\Run: [EPLTarget\P0000000000000000] C:\WINDOWS\system32\spool\DRIVERS\x64\3\E_YATII3E.EXE /EPT "EPLTarget\P0000000000000000" /M "L110 Series"
-O4 - HKUS\S-1-5-19\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'LOCAL SERVICE')
-O4 - HKUS\S-1-5-19\..\RunOnce: [WAB Migrate] %ProgramFiles%\Windows Mail\wab.exe /Upgrade (User 'LOCAL SERVICE')
-O4 - HKUS\S-1-5-20\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'NETWORK SERVICE')
-O4 - HKUS\S-1-5-20\..\RunOnce: [WAB Migrate] %ProgramFiles%\Windows Mail\wab.exe /Upgrade (User 'NETWORK SERVICE')
-O4 - HKUS\S-1-5-21-2308054052-92880557-1131230313-1007\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'openpgsvc')
-O4 - HKUS\S-1-5-21-2308054052-92880557-1131230313-1007\..\RunOnce: [WAB Migrate] %ProgramFiles%\Windows Mail\wab.exe /Upgrade (User 'openpgsvc')
 O8 - Extra context menu item: Clip bookmark - D:\ProgramFiles\Evernote\EvernoteIERes\Clip.html?clipAction=0
 O8 - Extra context menu item: Clip image - D:\ProgramFiles\Evernote\EvernoteIERes\Clip.html?clipAction=4
 O8 - Extra context menu item: Clip selection - D:\ProgramFiles\Evernote\EvernoteIERes\Clip.html?clipAction=3
@@ -55,6 +53,8 @@ O9 - Extra button: OneNote Lin&ked Notes - {789FE86F-6FC4-46A1-9849-EDE0DB0C95CA
 O9 - Extra 'Tools' menuitem: OneNote Lin&ked Notes - {789FE86F-6FC4-46A1-9849-EDE0DB0C95CA} - C:\Program Files (x86)\Microsoft Office\Office15\ONBttnIELinkedNotes.dll
 O9 - Extra button: @D:\ProgramFiles\Evernote\OLIEResource.dll,-101 - {A95fe080-8f5d-11d2-a20b-00aa003c157a} - D:\ProgramFiles\Evernote\\EvernoteIERes\AddNote.html
 O9 - Extra 'Tools' menuitem: @D:\ProgramFiles\Evernote\OLIEResource.dll,-101 - {A95fe080-8f5d-11d2-a20b-00aa003c157a} - D:\ProgramFiles\Evernote\\EvernoteIERes\AddNote.html
+O10 - Unknown file in Winsock LSP: c:\windows\system32\vsocklib.dll
+O10 - Unknown file in Winsock LSP: c:\windows\system32\vsocklib.dll
 O11 - Options group: [ACCELERATED_GRAPHICS] Accelerated graphics
 O17 - HKLM\System\CCS\Services\Tcpip\..\{c43ba034-fdf4-4b00-a185-28466f6ca7fc}: NameServer = 8.8.8.8,8.8.4.4
 O17 - HKLM\System\CCS\Services\Tcpip\..\{fd0f85c6-46b8-4691-b669-b75bf79aab57}: NameServer = 8.8.8.8,8.8.4.4
@@ -128,6 +128,10 @@ O23 - Service: TeamViewer 13 (TeamViewer) - TeamViewer GmbH - C:\Program Files (
 O23 - Service: @%SystemRoot%\system32\TieringEngineService.exe,-702 (TieringEngineService) - Unknown owner - C:\WINDOWS\system32\TieringEngineService.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\vaultsvc.dll,-1003 (VaultSvc) - Unknown owner - C:\WINDOWS\system32\lsass.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\vds.exe,-100 (vds) - Unknown owner - C:\WINDOWS\System32\vds.exe (file missing)
+O23 - Service: VMware Authorization Service (VMAuthdService) - VMware, Inc. - C:\Program Files (x86)\VMware\VMware Workstation\vmware-authd.exe
+O23 - Service: VMware DHCP Service (VMnetDHCP) - VMware, Inc. - C:\WINDOWS\SysWOW64\vmnetdhcp.exe
+O23 - Service: VMware USB Arbitration Service (VMUSBArbService) - VMware, Inc. - C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe
+O23 - Service: VMware NAT Service - VMware, Inc. - C:\WINDOWS\SysWOW64\vmnat.exe
 O23 - Service: @%systemroot%\system32\vssvc.exe,-102 (VSS) - Unknown owner - C:\WINDOWS\system32\vssvc.exe (file missing)
 O23 - Service: wampapache64 - Apache Software Foundation - D:\ProgramFiles\wamp\bin\apache\apache2.4.33\bin\httpd.exe
 O23 - Service: wampmariadb64 - Unknown owner - D:\ProgramFiles\wamp\bin\mariadb\mariadb10.2.14\bin\mysqld.exe
@@ -139,4 +143,4 @@ O23 - Service: @%systemroot%\system32\xbgmsvc.exe,-100 (xbgm) - Unknown owner - 
 O23 - Service: Intel(R) PROSet/Wireless Zero Configuration Service (ZeroConfigService) - Intel® Corporation - C:\Program Files\Intel\WiFi\bin\ZeroConfigService.exe
 
 --
-End of file - 16344 bytes
+End of file - 16475 bytes
