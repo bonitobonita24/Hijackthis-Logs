@@ -1,0 +1,75 @@
+Logfile of Trend Micro HijackThis v2.0.5
+Scan saved at 3:02:42 PM, on 12/17/2018
+Platform: Unknown Windows (WinNT 6.02.1008)
+MSIE: Internet Explorer v11.0 (11.00.9600.18817)
+
+
+Boot mode: Normal
+
+Running processes:
+C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe
+G:\HijackThis.exe
+
+R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Default_Page_URL = res://iesetup.dll/HardAdmin.htm
+R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
+R0 - HKCU\Software\Microsoft\Internet Explorer\Main,Start Page = https://www.google.com/
+R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Default_Page_URL = http://go.microsoft.com/fwlink/p/?LinkId=255141
+R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Default_Search_URL = http://go.microsoft.com/fwlink/?LinkId=54896
+R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
+R0 - HKLM\Software\Microsoft\Internet Explorer\Main,Start Page = http://go.microsoft.com/fwlink/p/?LinkId=255141
+R0 - HKLM\Software\Microsoft\Internet Explorer\Search,SearchAssistant = 
+R0 - HKLM\Software\Microsoft\Internet Explorer\Search,CustomizeSearch = 
+R0 - HKLM\Software\Microsoft\Internet Explorer\Main,Local Page = C:\Windows\SysWOW64\blank.htm
+R0 - HKCU\Software\Microsoft\Internet Explorer\Toolbar,LinksFolderName = 
+F2 - REG:system.ini: UserInit=userinit.exe
+O4 - HKCU\..\Run: [CCBoot] "D:\CCBoot\CCBoot.exe" -mini
+O11 - Options group: [ACCELERATED_GRAPHICS] Accelerated graphics
+O15 - ESC Trusted Zone: http://launchercur.cabal.com.ph
+O15 - ESC Trusted Zone: http://launcherold.cabal.com.ph
+O15 - ESC Trusted Zone: http://sea.dragonnest.com
+O15 - ESC Trusted Zone: http://static-sea.dragonnest.com
+O15 - ESC Trusted Zone: http://cf.gameclub.ph
+O15 - ESC Trusted Zone: http://static.gameclub.ph
+O15 - ESC Trusted Zone: http://gd.geobytes.com
+O15 - ESC Trusted Zone: http://www.google-analytics.com
+O15 - ESC Trusted Zone: http://code.jquery.com
+O15 - ESC Trusted Zone: http://runonce.msn.com
+O15 - ESC Trusted Zone: http://sf2.playpark.com
+O15 - ESC Trusted Zone: http://*.windowsupdate.com
+O17 - HKLM\System\CCS\Services\Tcpip\..\{479F1B83-38F9-428F-8C9E-BB6A6719A878}: NameServer = 8.8.8.8,8.8.4.4
+O23 - Service: @%SystemRoot%\system32\Alg.exe,-112 (ALG) - Unknown owner - C:\Windows\System32\alg.exe (file missing)
+O23 - Service: CCBoot - Youngzsoft - D:\CCBoot\CCBoot.exe
+O23 - Service: Intel(R) Content Protection HECI Service (cphs) - Intel Corporation - C:\Windows\SysWow64\IntelCpHeciSvc.exe
+O23 - Service: EasyAntiCheat - EasyAntiCheat Ltd - C:\Program Files (x86)\EasyAntiCheat\EasyAntiCheat.exe
+O23 - Service: @%SystemRoot%\system32\efssvc.dll,-100 (EFS) - Unknown owner - C:\Windows\System32\lsass.exe (file missing)
+O23 - Service: Garena platform service (GarenaPlatform) - Garena Online                    - G:\Garena Plus\Garena\Garena\2.0.1811.2302\gxxsvc.exe
+O23 - Service: Intel(R) Rapid Storage Technology (IAStorDataMgrSvc) - Intel Corporation - C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorDataMgrSvc.exe
+O23 - Service: @%SystemRoot%\system32\ieetwcollectorres.dll,-1000 (IEEtwCollectorService) - Unknown owner - C:\Windows\system32\IEEtwCollector.exe (file missing)
+O23 - Service: Intel(R) HD Graphics Control Panel Service (igfxCUIService1.0.0.0) - Unknown owner - C:\Windows\system32\igfxCUIService.exe (file missing)
+O23 - Service: Intel(R) Capability Licensing Service Interface - Intel(R) Corporation - C:\Program Files\Intel\iCLS Client\HeciServer.exe
+O23 - Service: Intel(R) Capability Licensing Service TCP IP Interface - Intel(R) Corporation - C:\Program Files\Intel\iCLS Client\SocketHeciServer.exe
+O23 - Service: Intel(R) ME Service - Intel Corporation - C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\FWService\IntelMeFWService.exe
+O23 - Service: Intel(R) Dynamic Application Loader Host Interface Service (jhi_service) - Intel Corporation - C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL\jhi_service.exe
+O23 - Service: @keyiso.dll,-100 (KeyIso) - Unknown owner - C:\Windows\system32\lsass.exe (file missing)
+O23 - Service: Intel(R) Management and Security Application Local Management Service (LMS) - Intel Corporation - C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\LMS\LMS.exe
+O23 - Service: MRAC Service (mracsvc) - Unknown owner - C:\Windows\System32\mracsvc.exe (file missing)
+O23 - Service: @comres.dll,-2797 (MSDTC) - Unknown owner - C:\Windows\System32\msdtc.exe (file missing)
+O23 - Service: @%SystemRoot%\System32\netlogon.dll,-102 (Netlogon) - Unknown owner - C:\Windows\system32\lsass.exe (file missing)
+O23 - Service: nProtect GameGuard Service (npggsvc) - Unknown owner - C:\Windows\system32\GameMon.des.exe (file missing)
+O23 - Service: QMEmulatorService - Unknown owner - G:\TxGameAssistant\AppMarket\QMEmulatorService.exe (file missing)
+O23 - Service: @%systemroot%\system32\Locator.exe,-2 (RpcLocator) - Unknown owner - C:\Windows\system32\locator.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\samsrv.dll,-1 (SamSs) - Unknown owner - C:\Windows\system32\lsass.exe (file missing)
+O23 - Service: Service KMSELDI - @ByELDI - C:\Program Files\KMSpico\Service_KMS.exe
+O23 - Service: @%SystemRoot%\system32\snmptrap.exe,-3 (SNMPTRAP) - Unknown owner - C:\Windows\System32\snmptrap.exe (file missing)
+O23 - Service: @%systemroot%\system32\spoolsv.exe,-1 (Spooler) - Unknown owner - C:\Windows\System32\spoolsv.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\sppsvc.exe,-101 (sppsvc) - Unknown owner - C:\Windows\system32\sppsvc.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\TieringEngineService.exe,-702 (TieringEngineService) - Unknown owner - C:\Windows\system32\TieringEngineService.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\ui0detect.exe,-101 (UI0Detect) - Unknown owner - C:\Windows\system32\UI0Detect.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\vaultsvc.dll,-1003 (VaultSvc) - Unknown owner - C:\Windows\system32\lsass.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\vds.exe,-100 (vds) - Unknown owner - C:\Windows\System32\vds.exe (file missing)
+O23 - Service: VNC Server (vncserver) - RealVNC Ltd - C:\Program Files\RealVNC\VNC Server\vncserver.exe
+O23 - Service: @%systemroot%\system32\vssvc.exe,-102 (VSS) - Unknown owner - C:\Windows\system32\vssvc.exe (file missing)
+O23 - Service: @%Systemroot%\system32\wbem\wmiapsrv.exe,-110 (wmiApSrv) - Unknown owner - C:\Windows\system32\wbem\WmiApSrv.exe (file missing)
+
+--
+End of file - 6690 bytes
