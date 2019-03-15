@@ -1,7 +1,7 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 10:57:53 PM, on 20/01/2019
+Scan saved at 3:48:21 PM, on 15/03/2019
 Platform: Unknown Windows (WinNT 6.02.1008)
-MSIE: Internet Explorer v11.0 (11.00.17134.0001)
+MSIE: Internet Explorer v11.0 (11.00.17763.0001)
 
 
 Boot mode: Normal
@@ -10,12 +10,11 @@ Running processes:
 C:\Program Files (x86)\TeamViewer\TeamViewer.exe
 C:\Program Files (x86)\Common Files\Acronis\Schedule2\schedhlp.exe
 C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe
-C:\Program Files (x86)\VMware\VMware Workstation\vmware-tray.exe
-C:\WINDOWS\SysWOW64\DllHost.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\IPC\AdobeIPCBroker.exe
 D:\ProgramFiles\HijackThis.exe
 
 R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
-R0 - HKCU\Software\Microsoft\Internet Explorer\Main,Start Page = https://www.google.com/
+R0 - HKCU\Software\Microsoft\Internet Explorer\Main,Start Page = http://go.microsoft.com/fwlink/p/?LinkId=255141
 R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Default_Page_URL = http://go.microsoft.com/fwlink/p/?LinkId=255141
 R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Default_Search_URL = http://go.microsoft.com/fwlink/?LinkId=54896
 R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
@@ -28,80 +27,66 @@ R1 - HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings,ProxyOverr
 R0 - HKCU\Software\Microsoft\Internet Explorer\Toolbar,LinksFolderName = 
 F2 - REG:system.ini: UserInit=
 O2 - BHO: IDM Helper - {0055C089-8582-441B-A0BF-17B458C2A3A8} - C:\Program Files (x86)\Internet Download Manager\IDMIECC.dll
-O2 - BHO: Java(tm) Plug-In SSV Helper - {761497BB-D6F0-462C-B6EB-D4DAF1D92D43} - C:\Program Files (x86)\Java\jre1.8.0_191\bin\ssv.dll
-O2 - BHO: Evernote extension - {92EF2EAD-A7CE-4424-B0DB-499CF856608E} - D:\ProgramFiles\Evernote\EvernoteIE.dll
-O2 - BHO: Java(tm) Plug-In 2 SSV Helper - {DBC80044-A445-435b-BC74-9C25C1C588A9} - C:\Program Files (x86)\Java\jre1.8.0_191\bin\jp2ssv.dll
+O2 - BHO: Lync Click to Call BHO - {31D09BA0-12F5-4CCE-BE8A-2923E76605DA} - C:\Program Files\Microsoft Office\root\VFS\ProgramFilesX86\Microsoft Office\Office16\OCHelper.dll
+O2 - BHO: Java(tm) Plug-In SSV Helper - {761497BB-D6F0-462C-B6EB-D4DAF1D92D43} - C:\Program Files (x86)\Java\jre1.8.0_201\bin\ssv.dll
+O2 - BHO: Java(tm) Plug-In 2 SSV Helper - {DBC80044-A445-435b-BC74-9C25C1C588A9} - C:\Program Files (x86)\Java\jre1.8.0_201\bin\jp2ssv.dll
 O4 - HKLM\..\Run: [ControlCenter4] C:\Program Files (x86)\ControlCenter4\BrCcBoot.exe /autorun
 O4 - HKLM\..\Run: [BrStsMon00] C:\Program Files (x86)\Browny02\Brother\BrStMonW.exe /AUTORUN
 O4 - HKLM\..\Run: [AcronisTibMounterMonitor] C:\Program Files (x86)\Common Files\Acronis\TibMounter\TibMounterMonitor.exe
 O4 - HKLM\..\Run: [TrueImageMonitor.exe] C:\Program Files (x86)\Acronis\TrueImageHome\TrueImageMonitor.exe
-O4 - HKLM\..\Run: [vmware-tray.exe] "C:\Program Files (x86)\VMware\VMware Workstation\vmware-tray.exe"
-O4 - HKCU\..\Run: [EPLTarget\P0000000000000000] C:\WINDOWS\system32\spool\DRIVERS\x64\3\E_YATII3E.EXE /EPT "EPLTarget\P0000000000000000" /M "L110 Series"
-O4 - HKUS\S-1-5-19\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'LOCAL SERVICE')
-O4 - HKUS\S-1-5-19\..\RunOnce: [WAB Migrate] %ProgramFiles%\Windows Mail\wab.exe /Upgrade (User 'LOCAL SERVICE')
-O4 - HKUS\S-1-5-20\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'NETWORK SERVICE')
-O4 - HKUS\S-1-5-20\..\RunOnce: [WAB Migrate] %ProgramFiles%\Windows Mail\wab.exe /Upgrade (User 'NETWORK SERVICE')
-O8 - Extra context menu item: Clip bookmark - D:\ProgramFiles\Evernote\EvernoteIERes\Clip.html?clipAction=0
-O8 - Extra context menu item: Clip image - D:\ProgramFiles\Evernote\EvernoteIERes\Clip.html?clipAction=4
-O8 - Extra context menu item: Clip selection - D:\ProgramFiles\Evernote\EvernoteIERes\Clip.html?clipAction=3
-O8 - Extra context menu item: Clip this page - D:\ProgramFiles\Evernote\EvernoteIERes\Clip.html?clipAction=1
+O4 - HKCU\..\Run: [EPLTarget\P0000000000000000] C:\Windows\system32\spool\DRIVERS\x64\3\E_YATII3E.EXE /EPT "EPLTarget\P0000000000000000" /M "L110 Series"
 O8 - Extra context menu item: Download all links with IDM - C:\Program Files (x86)\Internet Download Manager\IEGetAll.htm
 O8 - Extra context menu item: Download with IDM - C:\Program Files (x86)\Internet Download Manager\IEExt.htm
-O8 - Extra context menu item: E&xport to Microsoft Excel - res://C:\PROGRA~2\MICROS~1\Office15\EXCEL.EXE/3000
-O8 - Extra context menu item: New note - D:\ProgramFiles\Evernote\EvernoteIERes\NewNote.html
-O8 - Extra context menu item: Se&nd to OneNote - res://C:\PROGRA~2\MICROS~1\Office15\ONBttnIE.dll/105
-O9 - Extra button: Send to OneNote - {2670000A-7350-4f3c-8081-5663EE0C6C49} - C:\Program Files (x86)\Microsoft Office\Office15\ONBttnIE.dll
-O9 - Extra 'Tools' menuitem: Se&nd to OneNote - {2670000A-7350-4f3c-8081-5663EE0C6C49} - C:\Program Files (x86)\Microsoft Office\Office15\ONBttnIE.dll
-O9 - Extra button: OneNote Lin&ked Notes - {789FE86F-6FC4-46A1-9849-EDE0DB0C95CA} - C:\Program Files (x86)\Microsoft Office\Office15\ONBttnIELinkedNotes.dll
-O9 - Extra 'Tools' menuitem: OneNote Lin&ked Notes - {789FE86F-6FC4-46A1-9849-EDE0DB0C95CA} - C:\Program Files (x86)\Microsoft Office\Office15\ONBttnIELinkedNotes.dll
-O9 - Extra button: @D:\ProgramFiles\Evernote\OLIEResource.dll,-101 - {A95fe080-8f5d-11d2-a20b-00aa003c157a} - D:\ProgramFiles\Evernote\\EvernoteIERes\AddNote.html
-O9 - Extra 'Tools' menuitem: @D:\ProgramFiles\Evernote\OLIEResource.dll,-101 - {A95fe080-8f5d-11d2-a20b-00aa003c157a} - D:\ProgramFiles\Evernote\\EvernoteIERes\AddNote.html
-O10 - Unknown file in Winsock LSP: c:\windows\system32\vsocklib.dll
-O10 - Unknown file in Winsock LSP: c:\windows\system32\vsocklib.dll
+O8 - Extra context menu item: E&xport to Microsoft Excel - res://C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE/3000
+O8 - Extra context menu item: Se&nd to OneNote - res://C:\Program Files\Microsoft Office\Root\Office16\ONBttnIE.dll/105
+O9 - Extra button: Send to OneNote - {2670000A-7350-4f3c-8081-5663EE0C6C49} - C:\Program Files\Microsoft Office\root\VFS\ProgramFilesX86\Microsoft Office\Office16\ONBttnIE.dll
+O9 - Extra 'Tools' menuitem: Se&nd to OneNote - {2670000A-7350-4f3c-8081-5663EE0C6C49} - C:\Program Files\Microsoft Office\root\VFS\ProgramFilesX86\Microsoft Office\Office16\ONBttnIE.dll
+O9 - Extra button: Lync Click to Call - {31D09BA0-12F5-4CCE-BE8A-2923E76605DA} - C:\Program Files\Microsoft Office\root\VFS\ProgramFilesX86\Microsoft Office\Office16\OCHelper.dll
+O9 - Extra 'Tools' menuitem: Lync Click to Call - {31D09BA0-12F5-4CCE-BE8A-2923E76605DA} - C:\Program Files\Microsoft Office\root\VFS\ProgramFilesX86\Microsoft Office\Office16\OCHelper.dll
+O9 - Extra button: OneNote Lin&ked Notes - {789FE86F-6FC4-46A1-9849-EDE0DB0C95CA} - C:\Program Files\Microsoft Office\root\VFS\ProgramFilesX86\Microsoft Office\Office16\ONBttnIELinkedNotes.dll
+O9 - Extra 'Tools' menuitem: OneNote Lin&ked Notes - {789FE86F-6FC4-46A1-9849-EDE0DB0C95CA} - C:\Program Files\Microsoft Office\root\VFS\ProgramFilesX86\Microsoft Office\Office16\ONBttnIELinkedNotes.dll
 O11 - Options group: [ACCELERATED_GRAPHICS] Accelerated graphics
-O17 - HKLM\System\CCS\Services\Tcpip\..\{1d694f8a-3891-410b-96e1-440e5cb51ae3}: NameServer = 8.8.8.8,8.8.4.4
-O17 - HKLM\System\CCS\Services\Tcpip\..\{c43ba034-fdf4-4b00-a185-28466f6ca7fc}: NameServer = 8.8.8.8,8.8.4.4
-O18 - Protocol: intu-help-qb11 - {5AFDE6E8-AD0F-450B-818F-21D1CDC2E3EE} - D:\ProgramFiles\QuickBooks Enterprise Solutions Accountant Edition 18.0\HelpAsyncPluggableProtocol.dll
-O18 - Protocol: osf - {D924BDC6-C83A-4BD5-90D0-095128A113D1} - C:\Program Files (x86)\Microsoft Office\Office15\MSOSB.DLL
+O17 - HKLM\System\CCS\Services\Tcpip\..\{0c2cc023-7b63-4fad-8b3d-7fe0cb122788}: NameServer = 8.8.8.8,8.8.4.4
+O17 - HKLM\System\CCS\Services\Tcpip\..\{28d481ca-ffce-425f-92a3-5a90fb4425e3}: NameServer = 8.8.8.8,8.8.4.4
+O17 - HKLM\System\CS1\Services\Tcpip\..\{0c2cc023-7b63-4fad-8b3d-7fe0cb122788}: NameServer = 8.8.8.8,8.8.4.4
+O18 - Protocol: intu-help-qb11 - {5AFDE6E8-AD0F-450B-818F-21D1CDC2E3EE} - C:\Program Files (x86)\Intuit\QuickBooks Enterprise Solutions 18.0\HelpAsyncPluggableProtocol.dll
+O18 - Protocol: mso-minsb-roaming.16 - {83C25742-A9F7-49FB-9138-434302C88D07} - C:\Program Files\Microsoft Office\root\VFS\ProgramFilesX86\Microsoft Office\Office16\MSOSB.DLL
+O18 - Protocol: mso-minsb.16 - {42089D2D-912D-4018-9087-2B87803E93FB} - C:\Program Files\Microsoft Office\root\VFS\ProgramFilesX86\Microsoft Office\Office16\MSOSB.DLL
+O18 - Protocol: osf-roaming.16 - {42089D2D-912D-4018-9087-2B87803E93FB} - C:\Program Files\Microsoft Office\root\VFS\ProgramFilesX86\Microsoft Office\Office16\MSOSB.DLL
+O18 - Protocol: osf.16 - {5504BE45-A83B-4808-900A-3A5C36E7F77A} - C:\Program Files\Microsoft Office\root\VFS\ProgramFilesX86\Microsoft Office\Office16\MSOSB.DLL
 O18 - Protocol: qbwc - {FC598A64-626C-4447-85B8-53150405FD57} - mscoree.dll (file missing)
 O18 - Protocol: tbauth - {14654CA6-5711-491D-B89A-58E571679951} - C:\Windows\SysWOW64\tbauth.dll
 O18 - Protocol: windows.tbauth - {14654CA6-5711-491D-B89A-58E571679951} - C:\Windows\SysWOW64\tbauth.dll
-O18 - Filter hijack: text/xml - {807583E5-5146-11D5-A672-00B0D022E945} - C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\MSOXMLMF.DLL
+O18 - Filter hijack: text/xml - {807583E5-5146-11D5-A672-00B0D022E945} - C:\Program Files\Microsoft Office\root\VFS\ProgramFilesCommonX86\Microsoft Shared\Office16\MSOXMLMF.DLL
 O23 - Service: Acronis Scheduler2 Service (AcrSch2Svc) - Unknown owner - C:\Program Files (x86)\Common Files\Acronis\Schedule2\schedul2.exe
-O23 - Service: Adobe Active File Monitor V14 (AdobeActiveFileMonitor14.0) - Adobe Systems Incorporated - C:\Program Files\Adobe\Elements 14 Organizer\PhotoshopElementsFileAgent.exe
+O23 - Service: AdaptiveSleepService - Unknown owner - C:\Program Files\ATI Technologies\ATI.ACE\A4\AdaptiveSleepService.exe
 O23 - Service: Adobe Acrobat Update Service (AdobeARMservice) - Adobe Systems Incorporated - C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe
 O23 - Service: Acronis Nonstop Backup Service (afcdpsrv) - Unknown owner - C:\Program Files (x86)\Common Files\Acronis\CDP\afcdpsrv.exe
 O23 - Service: @%SystemRoot%\system32\Alg.exe,-112 (ALG) - Unknown owner - C:\WINDOWS\System32\alg.exe (file missing)
-O23 - Service: AMD External Events Utility - AMD - C:\WINDOWS\System32\DriverStore\FileRepository\c0328911.inf_amd64_a81756cbffedb936\B328940\atiesrxx.exe
-O23 - Service: Apple Mobile Device Service - Apple Inc. - C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
-O23 - Service: BattlEye Service (BEService) - Unknown owner - C:\Program Files (x86)\Common Files\BattlEye\BEService.exe (file missing)
+O23 - Service: AMD External Events Utility - AMD - C:\WINDOWS\System32\DriverStore\FileRepository\c0338124.inf_amd64_923c69fb6002c3cc\B337967\atiesrxx.exe
 O23 - Service: Bonjour Service - Apple Inc. - C:\Program Files\Bonjour\mDNSResponder.exe
 O23 - Service: BrYNSvc - Brother Industries, Ltd. - C:\Program Files (x86)\Browny02\BrYNSvc.exe
+O23 - Service: CCSDK - Lenovo - C:\Program Files (x86)\Lenovo\CCSDK\CCSDK.exe
 O23 - Service: Intel(R) Content Protection HECI Service (cphs) - Intel Corporation - C:\WINDOWS\SysWow64\IntelCpHeciSvc.exe
 O23 - Service: @C:\WINDOWS\system32\CxAudMsg64.exe,-100 (CxAudMsg) - Unknown owner - C:\WINDOWS\system32\CxAudMsg64.exe (file missing)
-O23 - Service: Developer Tools Service (DeveloperToolsService) - Unknown owner - C:\WINDOWS\System32\DeveloperToolsSvc.exe (file missing)
 O23 - Service: DFServ - Faronics Corporation - C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\DFServ.exe
+O23 - Service: @%SystemRoot%\system32\DiagSvcs\DiagnosticsHub.StandardCollector.ServiceRes.dll,-1000 (diagnosticshub.standardcollector.service) - Unknown owner - C:\WINDOWS\system32\DiagSvcs\DiagnosticsHub.StandardCollector.Service.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\efssvc.dll,-100 (EFS) - Unknown owner - C:\WINDOWS\System32\lsass.exe (file missing)
 O23 - Service: Intel(R) PROSet/Wireless Event Log (EvtEng) - Intel(R) Corporation - C:\Program Files\Intel\WiFi\bin\EvtEng.exe
-O23 - Service: GoodSync Server (GsServer) - Unknown owner - C:\Program Files\Siber Systems\GoodSync\gs-server.exe
+O23 - Service: @%systemroot%\system32\fxsresm.dll,-118 (Fax) - Unknown owner - C:\WINDOWS\system32\fxssvc.exe (file missing)
 O23 - Service: Intel(R) Rapid Storage Technology (IAStorDataMgrSvc) - Intel Corporation - C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorDataMgrSvc.exe
-O23 - Service: @oem0.inf,%SERVICE_NAME%;Intel Bluetooth Service (ibtsiva) - Unknown owner - C:\WINDOWS\system32\ibtsiva (file missing)
+O23 - Service: @oem2.inf,%SERVICE_NAME%;Intel Bluetooth Service (ibtsiva) - Unknown owner - C:\WINDOWS\system32\ibtsiva (file missing)
 O23 - Service: Intel(R) HD Graphics Control Panel Service (igfxCUIService2.0.0.0) - Unknown owner - C:\WINDOWS\system32\igfxCUIService.exe (file missing)
-O23 - Service: iPod Service - Apple Inc. - C:\Program Files\iPod\bin\iPodService.exe
 O23 - Service: @keyiso.dll,-100 (KeyIso) - Unknown owner - C:\WINDOWS\system32\lsass.exe (file missing)
 O23 - Service: Acronis Mobile Backup Server (mobile_backup_server) - Acronis International GmbH - C:\Program Files (x86)\Common Files\Acronis\MobileBackupServer\mobile_backup_server.exe
 O23 - Service: Acronis Mobile Backup Status Server (mobile_backup_status_server) - Unknown owner - C:\Program Files (x86)\Acronis\TrueImageHome\mobile_backup_status_server.exe
 O23 - Service: Mozilla Maintenance Service (MozillaMaintenance) - Mozilla Foundation - C:\Program Files (x86)\Mozilla Maintenance Service\maintenanceservice.exe
-O23 - Service: MRAC Service (mracsvc) - Unknown owner - C:\WINDOWS\System32\mracsvc.exe (file missing)
 O23 - Service: @comres.dll,-2797 (MSDTC) - Unknown owner - C:\WINDOWS\System32\msdtc.exe (file missing)
 O23 - Service: Wireless PAN DHCP Server (MyWiFiDHCPDNS) - Unknown owner - C:\Program Files\Intel\WiFi\bin\PanDhcpDns.exe
 O23 - Service: @%SystemRoot%\System32\netlogon.dll,-102 (Netlogon) - Unknown owner - C:\WINDOWS\system32\lsass.exe (file missing)
-O23 - Service: NitroPDFDriverCreatorReadSpool10 (NitroDriverReadSpool10) - Nitro PDF Software - C:\Program Files\Nitro\Pro 10\NitroPDFDriverService10x64.exe
-O23 - Service: NitroUpdateService - Unknown owner - C:\Program Files\Nitro\Pro 10\Nitro_UpdateService.exe
-O23 - Service: Nalpeiron Licensing Service (nlsX86cc) - Nalpeiron Ltd. - C:\WINDOWS\SysWOW64\NLSSRV32.EXE
-O23 - Service: nProtect GameGuard Service (npggsvc) - Unknown owner - C:\WINDOWS\system32\GameMon.des.exe (file missing)
 O23 - Service: PDAgent - Raxco Software, Inc. - C:\Program Files\Raxco\PerfectDisk\PDAgent.exe
 O23 - Service: PDEngine - Raxco Software, Inc. - C:\Program Files\Common Files\Raxco\Shared\PDEngine.exe
+O23 - Service: @%systemroot%\system32\PerceptionSimulation\PerceptionSimulationService.exe,-101 (perceptionsimulation) - Unknown owner - C:\WINDOWS\system32\PerceptionSimulation\PerceptionSimulationService.exe (file missing)
 O23 - Service: QBCFMonitorService - Intuit Inc. - C:\Program Files (x86)\Common Files\Intuit\QuickBooks\QBCFMonitorService.exe
 O23 - Service: Intuit QuickBooks FCS (QBFCService) - Intuit Inc. - C:\Program Files (x86)\Common Files\Intuit\QuickBooks\FCS\Intuit.QuickBooks.FCS.exe
 O23 - Service: QBIDPService (QBVSS) - Intuit Inc. - C:\Program Files (x86)\Common Files\Intuit\DataProtect\QBIDPService.exe
@@ -112,14 +97,11 @@ O23 - Service: Conexant SmartAudio service (SAService) - Conexant Systems, Inc. 
 O23 - Service: @%systemroot%\system32\SecurityHealthAgent.dll,-1002 (SecurityHealthService) - Unknown owner - C:\WINDOWS\system32\SecurityHealthService.exe (file missing)
 O23 - Service: @%ProgramFiles%\Windows Defender Advanced Threat Protection\MsSense.exe,-1001 (Sense) - Unknown owner - C:\Program Files (x86)\Windows Defender Advanced Threat Protection\MsSense.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\SensorDataService.exe,-101 (SensorDataService) - Unknown owner - C:\WINDOWS\System32\SensorDataService.exe (file missing)
-O23 - Service: Service KMSELDI - @ByELDI - C:\Program Files\KMSpico\Service_KMS.exe
 O23 - Service: @%SystemRoot%\System32\SgrmBroker.exe,-100 (SgrmBroker) - Unknown owner - C:\WINDOWS\system32\SgrmBroker.exe (file missing)
-O23 - Service: @%SystemRoot%\system32\snmptrap.exe,-3 (SNMPTRAP) - Unknown owner - C:\WINDOWS\System32\snmptrap.exe (file missing)
+O23 - Service: @firewallapi.dll,-50323 (SNMPTRAP) - Unknown owner - C:\WINDOWS\System32\snmptrap.exe (file missing)
 O23 - Service: @%systemroot%\system32\spectrum.exe,-101 (spectrum) - Unknown owner - C:\WINDOWS\system32\spectrum.exe (file missing)
 O23 - Service: @%systemroot%\system32\spoolsv.exe,-1 (Spooler) - Unknown owner - C:\WINDOWS\System32\spoolsv.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\sppsvc.exe,-101 (sppsvc) - Unknown owner - C:\WINDOWS\system32\sppsvc.exe (file missing)
-O23 - Service: OpenSSH SSH Server (sshd) - Unknown owner - C:\WINDOWS\System32\OpenSSH\sshd.exe (file missing)
-O23 - Service: Steam Client Service - Unknown owner - C:\Program Files (x86)\Common Files\Steam\SteamService.exe (file missing)
 O23 - Service: Acronis Sync Agent Service (syncagentsrv) - Unknown owner - C:\Program Files (x86)\Common Files\Acronis\SyncAgent\syncagentsrv.exe
 O23 - Service: SynTPEnh Caller Service (SynTPEnhService) - Synaptics Incorporated - C:\Program Files\Synaptics\SynTP\SynTPEnhService.exe
 O23 - Service: TeamViewer 14 (TeamViewer) - TeamViewer GmbH - C:\Program Files (x86)\TeamViewer\TeamViewer_Service.exe
@@ -127,16 +109,13 @@ O23 - Service: @%SystemRoot%\system32\TieringEngineService.exe,-702 (TieringEngi
 O23 - Service: @%SystemRoot%\system32\vaultsvc.dll,-1003 (VaultSvc) - Unknown owner - C:\WINDOWS\system32\lsass.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\vds.exe,-100 (vds) - Unknown owner - C:\WINDOWS\System32\vds.exe (file missing)
 O23 - Service: VMware Authorization Service (VMAuthdService) - VMware, Inc. - C:\Program Files (x86)\VMware\VMware Workstation\vmware-authd.exe
-O23 - Service: VMware DHCP Service (VMnetDHCP) - VMware, Inc. - C:\WINDOWS\SysWOW64\vmnetdhcp.exe
+O23 - Service: VMware DHCP Service (VMnetDHCP) - VMware, Inc. - C:\Windows\SysWOW64\vmnetdhcp.exe
 O23 - Service: VMware USB Arbitration Service (VMUSBArbService) - VMware, Inc. - C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe
-O23 - Service: VMware NAT Service - VMware, Inc. - C:\WINDOWS\SysWOW64\vmnat.exe
+O23 - Service: VMware NAT Service - VMware, Inc. - C:\Windows\SysWOW64\vmnat.exe
 O23 - Service: @%systemroot%\system32\vssvc.exe,-102 (VSS) - Unknown owner - C:\WINDOWS\system32\vssvc.exe (file missing)
-O23 - Service: wampapache64 - Apache Software Foundation - D:\ProgramFiles\wamp\bin\apache\apache2.4.33\bin\httpd.exe
-O23 - Service: wampmariadb64 - Unknown owner - D:\ProgramFiles\wamp\bin\mariadb\mariadb10.2.14\bin\mysqld.exe
-O23 - Service: wampmysqld64 - Unknown owner - D:\ProgramFiles\wamp\bin\mysql\mysql5.7.21\bin\mysqld.exe
 O23 - Service: @%systemroot%\system32\wbengine.exe,-104 (wbengine) - Unknown owner - C:\WINDOWS\system32\wbengine.exe (file missing)
 O23 - Service: @%Systemroot%\system32\wbem\wmiapsrv.exe,-110 (wmiApSrv) - Unknown owner - C:\WINDOWS\system32\wbem\WmiApSrv.exe (file missing)
 O23 - Service: Intel(R) PROSet/Wireless Zero Configuration Service (ZeroConfigService) - Intel® Corporation - C:\Program Files\Intel\WiFi\bin\ZeroConfigService.exe
 
 --
-End of file - 15792 bytes
+End of file - 14242 bytes
