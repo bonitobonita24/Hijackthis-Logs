@@ -95,7 +95,7 @@ O23 - Service: wampmariadb64 - Unknown owner - D:\ProgramFiles\wamp\bin\mariadb\
 O23 - Service: wampmysqld64 - Unknown owner - D:\ProgramFiles\wamp\bin\mysql\mysql5.7.26\bin\mysqld.exe
 O23 - Service: @%systemroot%\system32\wbengine.exe,-104 (wbengine) - Unknown owner - C:\WINDOWS\system32\wbengine.exe (file missing)
 O23 - Service: @%Systemroot%\system32\wbem\wmiapsrv.exe,-110 (wmiApSrv) - Unknown owner - C:\WINDOWS\system32\wbem\WmiApSrv.exe (file missing)
-O23 - Service: Intel(R) PROSet/Wireless Zero Configuration Service (ZeroConfigService) - Intel® Corporation - C:\Program Files\Intel\WiFi\bin\ZeroConfigService.exe
+O23 - Service: Intel(R) PROSet/Wireless Zero Configuration Service (ZeroConfigService) - IntelÂ® Corporation - C:\Program Files\Intel\WiFi\bin\ZeroConfigService.exe
 
 --
 End of file - 11893 bytes
