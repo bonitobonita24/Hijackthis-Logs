@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 12:13:44 PM, on 22/03/2020
+Scan saved at 12:14:32 PM, on 22/03/2020
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.18362.0001)
 
@@ -28,6 +28,8 @@ O1 - Hosts: 194.168.1.253 host.docker.internal
 O1 - Hosts: 194.168.1.253 gateway.docker.internal
 O2 - BHO: IDM Helper - {0055C089-8582-441B-A0BF-17B458C2A3A8} - C:\Program Files (x86)\Internet Download Manager\IDMIECC.dll
 O2 - BHO: Microsoft OneDrive for Business Browser Helper - {D0498E0A-45B7-42AE-A9AA-ABA463DBD3BF} - C:\PROGRA~2\MICROS~1\Office16\GROOVEEX.DLL
+O4 - HKUS\S-1-5-19\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'LOCAL SERVICE')
+O4 - HKUS\S-1-5-20\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'NETWORK SERVICE')
 O8 - Extra context menu item: Download all links with IDM - C:\Program Files (x86)\Internet Download Manager\IEGetAll.htm
 O8 - Extra context menu item: Download with IDM - C:\Program Files (x86)\Internet Download Manager\IEExt.htm
 O8 - Extra context menu item: E&xport to Microsoft Excel - res://C:\PROGRA~1\MICROS~1\Office16\EXCEL.EXE/3000
@@ -102,4 +104,4 @@ O23 - Service: @%systemroot%\system32\wbengine.exe,-104 (wbengine) - Unknown own
 O23 - Service: @%Systemroot%\system32\wbem\wmiapsrv.exe,-110 (wmiApSrv) - Unknown owner - C:\WINDOWS\system32\wbem\WmiApSrv.exe (file missing)
 
 --
-End of file - 12191 bytes
+End of file - 12431 bytes
