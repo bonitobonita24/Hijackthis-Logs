@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 12:14:32 PM, on 22/03/2020
+Scan saved at 11:48:09 AM, on 08/04/2020
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.18362.0001)
 
@@ -7,8 +7,10 @@ MSIE: Internet Explorer v11.0 (11.00.18362.0001)
 Boot mode: Normal
 
 Running processes:
-C:\Program Files (x86)\Internet Download Manager\IEMonitor.exe
+C:\Program Files (x86)\TeamViewer\TeamViewer.exe
+C:\Program Files (x86)\Common Files\Acronis\Schedule2\schedhlp.exe
 D:\ProgramFiles\HijackThis.exe
+C:\WINDOWS\SysWOW64\DllHost.exe
 
 R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
 R0 - HKCU\Software\Microsoft\Internet Explorer\Main,Start Page = http://go.microsoft.com/fwlink/p/?LinkId=255141
@@ -20,65 +22,71 @@ R0 - HKLM\Software\Microsoft\Internet Explorer\Search,SearchAssistant =
 R0 - HKLM\Software\Microsoft\Internet Explorer\Search,CustomizeSearch = 
 R0 - HKCU\Software\Microsoft\Internet Explorer\Main,Local Page = %11%\blank.htm
 R0 - HKLM\Software\Microsoft\Internet Explorer\Main,Local Page = C:\Windows\SysWOW64\blank.htm
+R1 - HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings,ProxyOverride = *.local
 R0 - HKCU\Software\Microsoft\Internet Explorer\Toolbar,LinksFolderName = 
 F2 - REG:system.ini: UserInit=
-O1 - Hosts: ﻿#
 O1 - Hosts: ::1 localhost
-O1 - Hosts: 194.168.1.253 host.docker.internal
-O1 - Hosts: 194.168.1.253 gateway.docker.internal
 O2 - BHO: IDM Helper - {0055C089-8582-441B-A0BF-17B458C2A3A8} - C:\Program Files (x86)\Internet Download Manager\IDMIECC.dll
 O2 - BHO: Microsoft OneDrive for Business Browser Helper - {D0498E0A-45B7-42AE-A9AA-ABA463DBD3BF} - C:\PROGRA~2\MICROS~1\Office16\GROOVEEX.DLL
-O4 - HKUS\S-1-5-19\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'LOCAL SERVICE')
-O4 - HKUS\S-1-5-20\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'NETWORK SERVICE')
+O4 - HKLM\..\Run: [Wondershare Helper Compact.exe] C:\Program Files (x86)\Common Files\Wondershare\Wondershare Helper Compact\WSHelper.exe
+O4 - HKLM\..\Run: [vmware-tray.exe] "D:\ProgramFiles\VMwareWorkstation\vmware-tray.exe"
 O8 - Extra context menu item: Download all links with IDM - C:\Program Files (x86)\Internet Download Manager\IEGetAll.htm
 O8 - Extra context menu item: Download with IDM - C:\Program Files (x86)\Internet Download Manager\IEExt.htm
 O8 - Extra context menu item: E&xport to Microsoft Excel - res://C:\PROGRA~1\MICROS~1\Office16\EXCEL.EXE/3000
+O10 - Unknown file in Winsock LSP: c:\windows\system32\vsocklib.dll
+O10 - Unknown file in Winsock LSP: c:\windows\system32\vsocklib.dll
 O11 - Options group: [ACCELERATED_GRAPHICS] Accelerated graphics
-O17 - HKLM\System\CCS\Services\Tcpip\..\{0993d7dc-c41d-4b77-901a-d96239829076}: NameServer = 8.8.8.8,8.8.4.4
-O17 - HKLM\System\CCS\Services\Tcpip\..\{707fa7f7-602f-48f0-bc36-eba94b5136e9}: NameServer = 8.8.8.8,8.8.4.4
+O17 - HKLM\System\CCS\Services\Tcpip\..\{ab2e3a0f-59d0-410b-b1ab-b8803812748d}: NameServer = 8.8.8.8,8.8.4.4
 O18 - Protocol: mso-minsb.16 - {3459B272-CC19-4448-86C9-DDC3B4B2FAD3} - C:\Program Files (x86)\Microsoft Office\Office16\MSOSB.DLL
 O18 - Protocol: osf.16 - {5504BE45-A83B-4808-900A-3A5C36E7F77A} - C:\Program Files (x86)\Microsoft Office\Office16\MSOSB.DLL
 O18 - Protocol: tbauth - {14654CA6-5711-491D-B89A-58E571679951} - C:\Windows\SysWOW64\tbauth.dll
 O18 - Protocol: windows.tbauth - {14654CA6-5711-491D-B89A-58E571679951} - C:\Windows\SysWOW64\tbauth.dll
 O18 - Filter hijack: text/xml - {807583E5-5146-11D5-A672-00B0D022E945} - C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE16\MSOXMLMF.DLL
+O23 - Service: Acronis Scheduler2 Service (AcrSch2Svc) - Acronis International GmbH - C:\Program Files (x86)\Common Files\Acronis\Schedule2\schedul2.exe
 O23 - Service: Adobe Acrobat Update Service (AdobeARMservice) - Adobe Systems - C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe
+O23 - Service: Acronis Nonstop Backup Service (afcdpsrv) - Unknown owner - C:\Program Files (x86)\Common Files\Acronis\CDP\afcdpsrv.exe
 O23 - Service: Adobe Genuine Software Integrity Service (AGSService) - Adobe Systems, Incorporated - C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\AGSService.exe
 O23 - Service: @%SystemRoot%\system32\Alg.exe,-112 (ALG) - Unknown owner - C:\WINDOWS\System32\alg.exe (file missing)
 O23 - Service: AtherosSvc - Unknown owner - C:\WINDOWS\System32\drivers\AdminService.exe (file missing)
+O23 - Service: BattlEye Service (BEService) - Unknown owner - C:\Program Files (x86)\Common Files\BattlEye\BEService.exe
+O23 - Service: Bonjour Service - Apple Inc. - C:\Program Files\Bonjour\mDNSResponder.exe
 O23 - Service: Intel(R) Content Protection HECI Service (cphs) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_ea63d1eddd5853b5\IntelCpHeciSvc.exe
 O23 - Service: Intel(R) Content Protection HDCP Service (cplspcon) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_ea63d1eddd5853b5\IntelCpHDCPSvc.exe
 O23 - Service: @%SystemRoot%\system32\CredentialEnrollmentManager.exe,-100 (CredentialEnrollmentManagerUserSvc) - Unknown owner - C:\WINDOWS\system32\CredentialEnrollmentManager.exe (file missing)
-O23 - Service: CredentialEnrollmentManagerUserSvc_2f0ac - Unknown owner - C:\WINDOWS\system32\CredentialEnrollmentManager.exe (file missing)
+O23 - Service: CredentialEnrollmentManagerUserSvc_2e7f5 - Unknown owner - C:\WINDOWS\system32\CredentialEnrollmentManager.exe (file missing)
 O23 - Service: DFServ - Faronics Corporation - C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\DFServ.exe
-O23 - Service: EasyAntiCheat - Epic Games, Inc - C:\Program Files (x86)\EasyAntiCheat\EasyAntiCheat.exe
+O23 - Service: EasyAntiCheat - EasyAntiCheat Ltd - C:\Program Files (x86)\EasyAntiCheat\EasyAntiCheat.exe
 O23 - Service: @%SystemRoot%\system32\efssvc.dll,-100 (EFS) - Unknown owner - C:\WINDOWS\System32\lsass.exe (file missing)
+O23 - Service: Energy Server Service queencreek (ESRV_SVC_QUEENCREEK) - Unknown owner - C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv_svc.exe
 O23 - Service: @%systemroot%\system32\fxsresm.dll,-118 (Fax) - Unknown owner - C:\WINDOWS\system32\fxssvc.exe (file missing)
 O23 - Service: Garena platform service (GarenaPlatform) - Unknown owner - F:\Games\ONLINE GAMES TO SYNC\Garena Plus\Garena\Garena\2.0.1909.2618\gxxsvc.exe (file missing)
-O23 - Service: Google Chrome Elevation Service (GoogleChromeElevationService) - Google LLC - C:\Program Files (x86)\Google\Chrome\Application\80.0.3987.132\elevation_service.exe
+O23 - Service: Google Chrome Elevation Service (GoogleChromeElevationService) - Google LLC - C:\Program Files (x86)\Google\Chrome\Application\80.0.3987.149\elevation_service.exe
 O23 - Service: Google Update Service (gupdate) (gupdate) - Google LLC - C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
 O23 - Service: Google Update Service (gupdatem) (gupdatem) - Google LLC - C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
-O23 - Service: @oem29.inf,%iaStorAfsWindowsService.Name%;Intel(R) Optane(TM) Memory Service (iaStorAfsService) - Unknown owner - C:\WINDOWS\System32\iaStorAfsService.exe (file missing)
+O23 - Service: Intel(R) Rapid Storage Technology (IAStorDataMgrSvc) - Intel Corporation - C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorDataMgrSvc.exe
+O23 - Service: InstallDriver Table Manager (IDriverT) - Macrovision Corporation - C:\Program Files (x86)\Common Files\InstallShield\Driver\11\Intel 32\IDriverT.exe
 O23 - Service: Intel(R) HD Graphics Control Panel Service (igfxCUIService2.0.0.0) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\cui_dch.inf_amd64_92cf9d9d84f1d3db\igfxCUIService.exe
-O23 - Service: @oem12.inf,%SocketHECIServiceName%;Intel(R) Capability Licensing Service TCP IP Interface (Intel(R) Capability Licensing Service TCP IP Interface) - Intel(R) Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\iclsclient.inf_amd64_7e148e9c120d86df\lib\SocketHeciServer.exe
-O23 - Service: @oem12.inf,%TPMProvisioningServiceName%;Intel(R) TPM Provisioning Service (Intel(R) TPM Provisioning Service) - Intel(R) Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\iclsclient.inf_amd64_7e148e9c120d86df\lib\TPMProvisioningService.exe
+O23 - Service: @oem20.inf,%SocketHECIServiceName%;Intel(R) Capability Licensing Service TCP IP Interface (Intel(R) Capability Licensing Service TCP IP Interface) - Intel(R) Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\iclsclient.inf_amd64_7e148e9c120d86df\lib\SocketHeciServer.exe
+O23 - Service: Intel(R) SUR QC Software Asset Manager (Intel(R) SUR QC SAM) - Intel Corporation - C:\Program Files\Intel\SUR\QUEENCREEK\Updater\bin\IntelSoftwareAssetManagerService.exe
+O23 - Service: @oem20.inf,%TPMProvisioningServiceName%;Intel(R) TPM Provisioning Service (Intel(R) TPM Provisioning Service) - Intel(R) Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\iclsclient.inf_amd64_7e148e9c120d86df\lib\TPMProvisioningService.exe
 O23 - Service: Intel(R) Audio Service (IntelAudioService) - Unknown owner - C:\WINDOWS\system32\cAVS\Intel(R) Audio Service\IntelAudioService.exe (file missing)
 O23 - Service: Intel(R) Dynamic Application Loader Host Interface Service (jhi_service) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\dal.inf_amd64_31a8dbbf39dcdc3b\jhi_service.exe
 O23 - Service: @keyiso.dll,-100 (KeyIso) - Unknown owner - C:\WINDOWS\system32\lsass.exe (file missing)
-O23 - Service: Intel(R) Management and Security Application Local Management Service (LMS) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\lms.inf_amd64_aeaa930912e71213\LMS.exe
-O23 - Service: MRAC Service (mracsvc) - Unknown owner - C:\WINDOWS\System32\mracsvc.exe (file missing)
+O23 - Service: Acronis Managed Machine Service Mini (mmsminisrv) - Acronis International GmbH - C:\Program Files (x86)\Common Files\Acronis\Infrastructure\mms_mini.exe
+O23 - Service: Acronis Mobile Backup Server (mobile_backup_server) - Acronis International GmbH - C:\Program Files (x86)\Common Files\Acronis\MobileBackupServer\mobile_backup_server.exe
+O23 - Service: Acronis Mobile Backup Status Server (mobile_backup_status_server) - Unknown owner - C:\Program Files (x86)\Acronis\TrueImageHome\mobile_backup_status_server.exe
 O23 - Service: @comres.dll,-2797 (MSDTC) - Unknown owner - C:\WINDOWS\System32\msdtc.exe (file missing)
+O23 - Service: @C:\Program Files (x86)\Nero\Update\NASvc.exe,-200 (NAUpdate) - Nero AG - C:\Program Files (x86)\Nero\Update\NASvc.exe
 O23 - Service: @%SystemRoot%\System32\netlogon.dll,-102 (Netlogon) - Unknown owner - C:\WINDOWS\system32\lsass.exe (file missing)
-O23 - Service: NVIDIA Display Container LS (NVDisplay.ContainerLocalSystem) - NVIDIA Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\nvaci.inf_amd64_2f4d5d28fa0f8b9c\Display.NvContainer\NVDisplay.Container.exe
-O23 - Service: Origin Client Service - Unknown owner - F:\Games\ONLINE GAMES TO SYNC\Origin\OriginClientService.exe (file missing)
-O23 - Service: Origin Web Helper Service - Unknown owner - F:\Games\ONLINE GAMES TO SYNC\Origin\OriginWebHelperService.exe (file missing)
+O23 - Service: NVIDIA Display Container LS (NVDisplay.ContainerLocalSystem) - NVIDIA Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\nvaci.inf_amd64_f010cc3692c89680\Display.NvContainer\NVDisplay.Container.exe
 O23 - Service: PDAgent - Raxco Software, Inc. - C:\Program Files\Raxco\PerfectDisk\PDAgent.exe
 O23 - Service: PDEngine - Raxco Software, Inc. - C:\Program Files\Common Files\Raxco\Shared\PDEngine.exe
 O23 - Service: @%systemroot%\system32\PerceptionSimulation\PerceptionSimulationService.exe,-101 (perceptionsimulation) - Unknown owner - C:\WINDOWS\system32\PerceptionSimulation\PerceptionSimulationService.exe (file missing)
 O23 - Service: Quick Access Local Service (QALSvc) - Acer Incorporated - C:\Program Files\Acer\Quick Access Service\QALSvc.exe
 O23 - Service: Quick Access Service (QASvc) - Acer Incorporated - C:\Program Files\Acer\Quick Access Service\QASvc.exe
 O23 - Service: Qualcomm Atheros WLAN Driver Service (QcomWlanSrv) - Unknown owner - C:\WINDOWS\System32\drivers\QcomWlanSrvx64.exe (file missing)
+O23 - Service: QMEmulatorService - Tencent - D:\ProgramFiles\TxGameAssistant\AppMarket\QMEmulatorService.exe
 O23 - Service: @%systemroot%\system32\Locator.exe,-2 (RpcLocator) - Unknown owner - C:\WINDOWS\system32\locator.exe (file missing)
-O23 - Service: @oem29.inf,%RstMwService.Name%;Intel(R) Storage Middleware Service (RstMwService) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\iastorac.inf_amd64_eea3cf789013ad4f\RstMwService.exe
 O23 - Service: Realtek Audio Universal Service (RtkAudioUniversalService) - Unknown owner - C:\WINDOWS\System32\RtkAudUService64.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\samsrv.dll,-1 (SamSs) - Unknown owner - C:\WINDOWS\system32\lsass.exe (file missing)
 O23 - Service: @%systemroot%\system32\SecurityHealthAgent.dll,-1002 (SecurityHealthService) - Unknown owner - C:\WINDOWS\system32\SecurityHealthService.exe (file missing)
@@ -91,11 +99,21 @@ O23 - Service: @%systemroot%\system32\spectrum.exe,-101 (spectrum) - Unknown own
 O23 - Service: @%systemroot%\system32\spoolsv.exe,-1 (Spooler) - Unknown owner - C:\WINDOWS\System32\spoolsv.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\sppsvc.exe,-101 (sppsvc) - Unknown owner - C:\WINDOWS\system32\sppsvc.exe (file missing)
 O23 - Service: Steam Client Service - Valve Corporation - C:\Program Files (x86)\Common Files\Steam\SteamService.exe
+O23 - Service: Acronis Sync Agent Service (syncagentsrv) - Unknown owner - C:\Program Files (x86)\Common Files\Acronis\SyncAgent\syncagentsrv.exe
+O23 - Service: Intel(R) System Usage Report Service SystemUsageReportSvc_QUEENCREEK (SystemUsageReportSvc_QUEENCREEK) - Unknown owner - C:\Program Files\Intel\SUR\QUEENCREEK\SurSvc.exe
+O23 - Service: TeamViewer - TeamViewer Germany GmbH - C:\Program Files (x86)\TeamViewer\TeamViewer_Service.exe
+O23 - Service: Tib Mounter Service - Acronis International GmbH - C:\Program Files (x86)\Common Files\Acronis\TibMounter64\tib_mounter_service.exe
 O23 - Service: @%SystemRoot%\system32\TieringEngineService.exe,-702 (TieringEngineService) - Unknown owner - C:\WINDOWS\system32\TieringEngineService.exe (file missing)
+O23 - Service: User Energy Server Service queencreek (USER_ESRV_SVC_QUEENCREEK) - Unknown owner - C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv_svc.exe
+O23 - Service: SHAREit Hotspot Service (uSHAREitSvc) - SHAREit Technologies Co.Ltd - C:\Program Files (x86)\SHAREit Technologies\SHAREit\SHAREit.Service.exe
 O23 - Service: @%SystemRoot%\system32\vaultsvc.dll,-1003 (VaultSvc) - Unknown owner - C:\WINDOWS\system32\lsass.exe (file missing)
 O23 - Service: VirtualBox system service (VBoxSDS) - Oracle Corporation - D:\ProgramFiles\Oracle\VirtualBox\VBoxSDS.exe
 O23 - Service: @%SystemRoot%\system32\vds.exe,-100 (vds) - Unknown owner - C:\WINDOWS\System32\vds.exe (file missing)
-O23 - Service: @%systemroot%\system32\vmcompute.exe,-100 (vmcompute) - Unknown owner - C:\WINDOWS\system32\vmcompute.exe (file missing)
+O23 - Service: VMware Authorization Service (VMAuthdService) - VMware, Inc. - D:\ProgramFiles\VMwareWorkstation\vmware-authd.exe
+O23 - Service: VMware DHCP Service (VMnetDHCP) - VMware, Inc. - C:\WINDOWS\SysWOW64\vmnetdhcp.exe
+O23 - Service: VMware USB Arbitration Service (VMUSBArbService) - VMware, Inc. - C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe
+O23 - Service: VMware NAT Service - VMware, Inc. - C:\WINDOWS\SysWOW64\vmnat.exe
+O23 - Service: VMware Workstation Server (VMwareHostd) - Unknown owner - D:\ProgramFiles\VMwareWorkstation\vmware-hostd.exe
 O23 - Service: @%systemroot%\system32\vssvc.exe,-102 (VSS) - Unknown owner - C:\WINDOWS\system32\vssvc.exe (file missing)
 O23 - Service: wampapache64 - Apache Software Foundation - D:\ProgramFiles\wamp\bin\apache\apache2.4.41\bin\httpd.exe
 O23 - Service: wampmariadb64 - Unknown owner - D:\ProgramFiles\wamp\bin\mariadb\mariadb10.4.10\bin\mysqld.exe
@@ -104,4 +122,4 @@ O23 - Service: @%systemroot%\system32\wbengine.exe,-104 (wbengine) - Unknown own
 O23 - Service: @%Systemroot%\system32\wbem\wmiapsrv.exe,-110 (wmiApSrv) - Unknown owner - C:\WINDOWS\system32\wbem\WmiApSrv.exe (file missing)
 
 --
-End of file - 12431 bytes
+End of file - 14839 bytes
