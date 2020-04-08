@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 11:48:09 AM, on 08/04/2020
+Scan saved at 11:48:35 AM, on 08/04/2020
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.18362.0001)
 
@@ -9,8 +9,8 @@ Boot mode: Normal
 Running processes:
 C:\Program Files (x86)\TeamViewer\TeamViewer.exe
 C:\Program Files (x86)\Common Files\Acronis\Schedule2\schedhlp.exe
-D:\ProgramFiles\HijackThis.exe
 C:\WINDOWS\SysWOW64\DllHost.exe
+D:\ProgramFiles\HijackThis.exe
 
 R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
 R0 - HKCU\Software\Microsoft\Internet Explorer\Main,Start Page = http://go.microsoft.com/fwlink/p/?LinkId=255141
@@ -30,6 +30,8 @@ O2 - BHO: IDM Helper - {0055C089-8582-441B-A0BF-17B458C2A3A8} - C:\Program Files
 O2 - BHO: Microsoft OneDrive for Business Browser Helper - {D0498E0A-45B7-42AE-A9AA-ABA463DBD3BF} - C:\PROGRA~2\MICROS~1\Office16\GROOVEEX.DLL
 O4 - HKLM\..\Run: [Wondershare Helper Compact.exe] C:\Program Files (x86)\Common Files\Wondershare\Wondershare Helper Compact\WSHelper.exe
 O4 - HKLM\..\Run: [vmware-tray.exe] "D:\ProgramFiles\VMwareWorkstation\vmware-tray.exe"
+O4 - HKUS\S-1-5-19\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'LOCAL SERVICE')
+O4 - HKUS\S-1-5-20\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'NETWORK SERVICE')
 O8 - Extra context menu item: Download all links with IDM - C:\Program Files (x86)\Internet Download Manager\IEGetAll.htm
 O8 - Extra context menu item: Download with IDM - C:\Program Files (x86)\Internet Download Manager\IEExt.htm
 O8 - Extra context menu item: E&xport to Microsoft Excel - res://C:\PROGRA~1\MICROS~1\Office16\EXCEL.EXE/3000
@@ -122,4 +124,4 @@ O23 - Service: @%systemroot%\system32\wbengine.exe,-104 (wbengine) - Unknown own
 O23 - Service: @%Systemroot%\system32\wbem\wmiapsrv.exe,-110 (wmiApSrv) - Unknown owner - C:\WINDOWS\system32\wbem\WmiApSrv.exe (file missing)
 
 --
-End of file - 14839 bytes
+End of file - 15079 bytes
