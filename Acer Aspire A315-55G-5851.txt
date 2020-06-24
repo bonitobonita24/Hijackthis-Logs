@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 1:19:05 PM, on 24/06/2020
+Scan saved at 1:20:40 PM, on 24/06/2020
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.19041.0001)
 
@@ -34,6 +34,10 @@ O4 - HKLM\..\Run: [Wondershare Helper Compact.exe] C:\Program Files (x86)\Common
 O4 - HKLM\..\Run: [SunJavaUpdateSched] "C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe"
 O4 - HKLM\..\Run: [ControlCenter4] "C:\Program Files (x86)\ControlCenter4\BrCcBoot.exe" /autorun
 O4 - HKCU\..\Run: [Docker Desktop] C:\Program Files\Docker\Docker\Docker Desktop.exe
+O4 - HKUS\S-1-5-19\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'LOCAL SERVICE')
+O4 - HKUS\S-1-5-19\..\RunOnce: [WAB Migrate] %ProgramFiles%\Windows Mail\wab.exe /Upgrade (User 'LOCAL SERVICE')
+O4 - HKUS\S-1-5-20\..\Run: [OneDriveSetup] C:\Windows\SysWOW64\OneDriveSetup.exe /thfirstsetup (User 'NETWORK SERVICE')
+O4 - HKUS\S-1-5-20\..\RunOnce: [WAB Migrate] %ProgramFiles%\Windows Mail\wab.exe /Upgrade (User 'NETWORK SERVICE')
 O4 - Startup: EvernoteClipper.lnk = D:\ProgramFiles\Evernote\Evernote\EvernoteClipper.exe
 O8 - Extra context menu item: Clip bookmark - D:\ProgramFiles\Evernote\Evernote\EvernoteIERes\Clip.html?clipAction=0
 O8 - Extra context menu item: Clip image - D:\ProgramFiles\Evernote\Evernote\EvernoteIERes\Clip.html?clipAction=4
@@ -133,4 +137,4 @@ O23 - Service: @%systemroot%\system32\wbengine.exe,-104 (wbengine) - Unknown own
 O23 - Service: @%Systemroot%\system32\wbem\wmiapsrv.exe,-110 (wmiApSrv) - Unknown owner - C:\WINDOWS\system32\wbem\WmiApSrv.exe (file missing)
 
 --
-End of file - 16240 bytes
+End of file - 16710 bytes
