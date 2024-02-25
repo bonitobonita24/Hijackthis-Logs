@@ -1,0 +1,143 @@
+Logfile of Trend Micro HijackThis v2.0.5
+Scan saved at 5:17:13 pm, on 25/02/2024
+Platform: Unknown Windows (WinNT 6.02.1008)
+MSIE: Internet Explorer v11.0 (11.00.22621.0001)
+
+
+Boot mode: Normal
+
+Running processes:
+C:\Program Files (x86)\ASUS\ASUS_FRQ_Control\ASUS_FRQ_Control.exe
+C:\Program Files (x86)\ASUS\ArmouryDevice\dll\AcPowerNotification\AcPowerNotification.exe
+C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+C:\Program Files (x86)\NVIDIA Corporation\NvNode\NVIDIA Web Helper.exe
+C:\Program Files\Windhawk\windhawk.exe
+C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+C:\Program Files (x86)\ASUS\ArmouryDevice\dll\SwAgent\ArmourySwAgent.exe
+C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+C:\Windows\SysWOW64\UMonit64.exe
+C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_f2eed2fae3b45a67\ASUSOptimization\AsusOSD.exe
+D:\ProgramFiles\HijackThis.exe
+
+R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
+R0 - HKCU\Software\Microsoft\Internet Explorer\Main,Start Page = http://go.microsoft.com/fwlink/p/?LinkId=255141
+R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Default_Page_URL = http://go.microsoft.com/fwlink/p/?LinkId=255141
+R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Default_Search_URL = http://go.microsoft.com/fwlink/?LinkId=54896
+R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
+R0 - HKLM\Software\Microsoft\Internet Explorer\Main,Start Page = http://go.microsoft.com/fwlink/p/?LinkId=255141
+R0 - HKLM\Software\Microsoft\Internet Explorer\Search,SearchAssistant = 
+R0 - HKLM\Software\Microsoft\Internet Explorer\Search,CustomizeSearch = 
+R0 - HKCU\Software\Microsoft\Internet Explorer\Main,Local Page = %11%\blank.htm
+R0 - HKLM\Software\Microsoft\Internet Explorer\Main,Local Page = C:\Windows\SysWOW64\blank.htm
+R0 - HKCU\Software\Microsoft\Internet Explorer\Toolbar,LinksFolderName = 
+F2 - REG:system.ini: UserInit=
+O2 - BHO: IEToEdge BHO - {1FD49718-1D00-4B19-AF5F-070AF6D5D54C} - C:\Program Files (x86)\Microsoft\Edge\Application\122.0.2365.52\BHO\ie_to_edge_bho.dll
+O2 - BHO: Lync Click to Call BHO - {31D09BA0-12F5-4CCE-BE8A-2923E76605DA} - C:\Program Files (x86)\Microsoft Office\root\Office16\OCHelper.dll
+O4 - HKLM\..\Run: [vmware-tray.exe] "D:\ProgramFiles\VMWare Workstation Pro\vmware-tray.exe"
+O4 - HKCU\..\Run: [GoogleDriveFS] "C:\Program Files\Google\Drive File Stream\87.0.2.0\GoogleDriveFS.exe" --startup_mode
+O4 - HKCU\..\Run: [CanvaAutoLaunchAvailabilityCheckAgent] "C:\Users\HP Laptop\AppData\Local\Programs\Canva\Canva.exe" --start-availability-check-agent
+O4 - HKUS\S-1-5-19\..\Run: [OneDriveSetup] C:\Windows\System32\OneDriveSetup.exe /thfirstsetup (User 'LOCAL SERVICE')
+O4 - HKUS\S-1-5-19\..\Run: [GoogleDriveFS] C:\Program Files\Google\Drive File Stream\87.0.2.0\GoogleDriveFS.exe --startup_mode (User 'LOCAL SERVICE')
+O4 - HKUS\S-1-5-19\..\RunOnce: [WAB Migrate] %ProgramFiles%\Windows Mail\wab.exe /Upgrade (User 'LOCAL SERVICE')
+O4 - HKUS\S-1-5-20\..\Run: [OneDriveSetup] C:\Windows\System32\OneDriveSetup.exe /thfirstsetup (User 'NETWORK SERVICE')
+O4 - HKUS\S-1-5-20\..\RunOnce: [WAB Migrate] %ProgramFiles%\Windows Mail\wab.exe /Upgrade (User 'NETWORK SERVICE')
+O4 - HKUS\S-1-5-18\..\Run: [GoogleDriveFS] C:\Program Files\Google\Drive File Stream\87.0.2.0\GoogleDriveFS.exe --startup_mode (User 'SYSTEM')
+O4 - HKUS\.DEFAULT\..\Run: [GoogleDriveFS] C:\Program Files\Google\Drive File Stream\87.0.2.0\GoogleDriveFS.exe --startup_mode (User 'Default user')
+O8 - Extra context menu item: E&xport to Microsoft Excel - res://C:\Program Files (x86)\Microsoft Office\Root\Office16\EXCEL.EXE/3000
+O8 - Extra context menu item: Se&nd to OneNote - res://C:\Program Files (x86)\Microsoft Office\Root\Office16\ONBttnIE.dll/105
+O9 - Extra button: Lync Click to Call - {31D09BA0-12F5-4CCE-BE8A-2923E76605DA} - C:\Program Files (x86)\Microsoft Office\root\Office16\OCHelper.dll
+O9 - Extra 'Tools' menuitem: Lync Click to Call - {31D09BA0-12F5-4CCE-BE8A-2923E76605DA} - C:\Program Files (x86)\Microsoft Office\root\Office16\OCHelper.dll
+O10 - Unknown file in Winsock LSP: c:\windows\system32\nlansp_c.dll
+O10 - Unknown file in Winsock LSP: c:\windows\system32\vsocklib.dll
+O10 - Unknown file in Winsock LSP: c:\windows\system32\vsocklib.dll
+O11 - Options group: [ACCELERATED_GRAPHICS] Accelerated graphics
+O17 - HKLM\System\CCS\Services\Tcpip\..\{3d3d4718-247d-4daa-b1c4-2dd7e2f07034}: NameServer = 8.8.8.8
+O18 - Protocol: mso-minsb-roaming.16 - {83C25742-A9F7-49FB-9138-434302C88D07} - C:\Program Files (x86)\Microsoft Office\root\Office16\MSOSB.DLL
+O18 - Protocol: mso-minsb.16 - {42089D2D-912D-4018-9087-2B87803E93FB} - C:\Program Files (x86)\Microsoft Office\root\Office16\MSOSB.DLL
+O18 - Protocol: osf-roaming.16 - {42089D2D-912D-4018-9087-2B87803E93FB} - C:\Program Files (x86)\Microsoft Office\root\Office16\MSOSB.DLL
+O18 - Protocol: osf.16 - {5504BE45-A83B-4808-900A-3A5C36E7F77A} - C:\Program Files (x86)\Microsoft Office\root\Office16\MSOSB.DLL
+O18 - Protocol: tbauth - {14654CA6-5711-491D-B89A-58E571679951} - C:\Windows\SysWOW64\tbauth.dll
+O18 - Protocol: windows.tbauth - {14654CA6-5711-491D-B89A-58E571679951} - C:\Windows\SysWOW64\tbauth.dll
+O18 - Filter hijack: text/xml - {807583E5-5146-11D5-A672-00B0D022E945} - C:\Program Files (x86)\Microsoft Office\root\VFS\ProgramFilesCommonX86\Microsoft Shared\Office16\MSOXMLMF.DLL
+O23 - Service: Adobe Acrobat Update Service (AdobeARMservice) - Adobe Inc. - C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe
+O23 - Service: @%SystemRoot%\system32\Alg.exe,-112 (ALG) - Unknown owner - C:\WINDOWS\System32\alg.exe (file missing)
+O23 - Service: @oem28.inf,%ServiceDisplayName%;Armoury Crate Control Interface (ArmouryCrateControlInterface) - Unknown owner - C:\WINDOWS\System32\ASUSACCI\ArmouryCrateControlInterface.exe (file missing)
+O23 - Service: Armoury Crate Download Tool (ArmouryCrateDownloadTool) - ASUSTeK Computer Inc. - C:\WINDOWS\System32\DriverStore\FileRepository\rogms.inf_amd64_ba08c6e398c95874\ArmouryLiveUpdate.exe
+O23 - Service: ARMOURY CRATE Service (ArmouryCrateService) - ASUSTeK COMPUTER INC. - C:\Program Files\ASUS\ARMOURY CRATE Service\ArmouryCrate.Service.exe
+O23 - Service: ASUS Update Service (asus) (asus) - ASUSTeK Computer Inc. - C:\Program Files (x86)\ASUS\Update\AsusUpdate.exe
+O23 - Service: ASUS App Service (AsusAppService) - ASUSTeK COMPUTER INC. - C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_f2eed2fae3b45a67\AsusAppService\AsusAppService.exe
+O23 - Service: Asus Certificate Service (AsusCertService) - Asustek Computer Inc. - C:\Program Files (x86)\ASUS\AsusCertService\AsusCertService.exe
+O23 - Service: ASUS Update Service (asusm) (asusm) - ASUSTeK Computer Inc. - C:\Program Files (x86)\ASUS\Update\AsusUpdate.exe
+O23 - Service: ASUS MultiAntenna Service (AsusMultiAntennaSvc) - ASUSTeK COMPUTER INC. - C:\Program Files\ASUS\ASUS MultiAntenna Service\AsusMultiAntennaSvc.exe
+O23 - Service: ASUS Optimization (ASUSOptimization) - ASUSTeK COMPUTER INC. - C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_f2eed2fae3b45a67\ASUSOptimization\AsusOptimization.exe
+O23 - Service: AsusPTPService - ASUSTek COMPUTER INC. - C:\WINDOWS\System32\DriverStore\FileRepository\asusdigifilter.inf_amd64_d30fda191e4f14bc\AsusPTPService.exe
+O23 - Service: ASUS Software Manager (ASUSSoftwareManager) - ASUSTeK COMPUTER INC. - C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_f2eed2fae3b45a67\ASUSSoftwareManager\AsusSoftwareManager.exe
+O23 - Service: ASUS Switch (ASUSSwitch) - ASUSTeK COMPUTER INC. - C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_f2eed2fae3b45a67\ASUSSwitch\AsusSwitch.exe
+O23 - Service: ASUS System Analysis (ASUSSystemAnalysis) - ASUSTeK COMPUTER INC. - C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_f2eed2fae3b45a67\ASUSSystemAnalysis\AsusSystemAnalysis.exe
+O23 - Service: ASUS System Diagnosis (ASUSSystemDiagnosis) - ASUSTek COMPUTER INC. - C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_f2eed2fae3b45a67\ASUSSystemDiagnosis\AsusSystemDiagnosis.exe
+O23 - Service: Intel(R) Content Protection HECI Service (cphs) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_2ce3ffa204f4b311\IntelCpHeciSvc.exe
+O23 - Service: Intel(R) Content Protection HDCP Service (cplspcon) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_2ce3ffa204f4b311\IntelCpHDCPSvc.exe
+O23 - Service: @%SystemRoot%\system32\CredentialEnrollmentManager.exe,-100 (CredentialEnrollmentManagerUserSvc) - Unknown owner - C:\WINDOWS\system32\CredentialEnrollmentManager.exe (file missing)
+O23 - Service: CredentialEnrollmentManagerUserSvc_72c2d - Unknown owner - C:\WINDOWS\system32\CredentialEnrollmentManager.exe (file missing)
+O23 - Service: DFServ - Faronics Corporation - C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\DFServ.exe
+O23 - Service: @%SystemRoot%\system32\DiagSvcs\DiagnosticsHub.StandardCollector.ServiceRes.dll,-1000 (diagnosticshub.standardcollector.service) - Unknown owner - C:\WINDOWS\system32\DiagSvcs\DiagnosticsHub.StandardCollector.Service.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\efssvc.dll,-100 (EFS) - Unknown owner - C:\WINDOWS\System32\lsass.exe (file missing)
+O23 - Service: @oem54.inf,%ServiceDisplayName%;Intel(R) Dynamic Tuning service (esifsvc) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\dptf_cpu.inf_amd64_82b77f8c4618e2d0\esif_uf.exe
+O23 - Service: @%systemroot%\system32\fxsresm.dll,-118 (Fax) - Unknown owner - C:\WINDOWS\system32\fxssvc.exe (file missing)
+O23 - Service: @%systemroot%\system32\GameInputSvc.exe,-101 (GameInputSvc) - Unknown owner - C:\WINDOWS\System32\GameInputSvc.exe (file missing)
+O23 - Service: GameSDK Service - ASUS Inc. - C:\Program Files (x86)\ASUS\GameSDK Service\GameSDK.exe
+O23 - Service: Google Chrome Elevation Service (GoogleChromeElevationService) (GoogleChromeElevationService) - Google LLC - C:\Program Files\Google\Chrome\Application\121.0.6167.189\elevation_service.exe
+O23 - Service: Google Update Service (gupdate) (gupdate) - Google LLC - C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+O23 - Service: Google Update Service (gupdatem) (gupdatem) - Google LLC - C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+O23 - Service: @oem94.inf,%iaStorAfsService.ServiceName%;Intel(R) Optane(TM) Memory Service (iaStorAfsService) - Unknown owner - C:\WINDOWS\System32\iaStorAfsService.exe (file missing)
+O23 - Service: Intel(R) Graphics Command Center Service (igccservice) - Unknown owner - C:\WINDOWS\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_577475639d32bfed\OneApp.IGCC.WinService.exe
+O23 - Service: Intel(R) HD Graphics Control Panel Service (igfxCUIService2.0.0.0) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\cui_dch.inf_amd64_d70b02a5a438df3c\igfxCUIService.exe
+O23 - Service: @oem17.inf,%SocketHECIServiceName%;Intel(R) Capability Licensing Service TCP IP Interface (Intel(R) Capability Licensing Service TCP IP Interface) - Intel(R) Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\iclsclient.inf_amd64_3004658ee4d7fe24\lib\SocketHeciServer.exe
+O23 - Service: @oem17.inf,%TPMProvisioningServiceName%;Intel(R) TPM Provisioning Service (Intel(R) TPM Provisioning Service) - Intel(R) Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\iclsclient.inf_amd64_3004658ee4d7fe24\lib\TPMProvisioningService.exe
+O23 - Service: Intel(R) Audio Service (IntelAudioService) - Unknown owner - C:\WINDOWS\system32\cAVS\IAS\IntelAudioService.exe (file missing)
+O23 - Service: Intel(R) Dynamic Application Loader Host Interface Service (jhi_service) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\dal.inf_amd64_d52c63e0e1c02c96\jhi_service.exe
+O23 - Service: @keyiso.dll,-100 (KeyIso) - Unknown owner - C:\WINDOWS\system32\lsass.exe (file missing)
+O23 - Service: ASUS AURA SYNC lighting service (LightingService) - ASUSTek Computer Inc. - C:\Program Files (x86)\LightingService\LightingService.exe
+O23 - Service: Intel(R) Management and Security Application Local Management Service (LMS) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\lms.inf_amd64_fddb643595e0b8d0\LMS.exe
+O23 - Service: Mozilla Maintenance Service (MozillaMaintenance) - Mozilla Foundation - C:\Program Files (x86)\Mozilla Maintenance Service\maintenanceservice.exe
+O23 - Service: @comres.dll,-2797 (MSDTC) - Unknown owner - C:\WINDOWS\System32\msdtc.exe (file missing)
+O23 - Service: @oem20.inf,%SERVICE_FRIENDLY_NAME%;Nahimic service (NahimicService) - Unknown owner - C:\WINDOWS\system32\NahimicService.exe (file missing)
+O23 - Service: @%SystemRoot%\System32\netlogon.dll,-102 (Netlogon) - Unknown owner - C:\WINDOWS\system32\lsass.exe (file missing)
+O23 - Service: NVIDIA LocalSystem Container (NvContainerLocalSystem) - NVIDIA Corporation - C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+O23 - Service: NVIDIA NetworkService Container (NvContainerNetworkService) - NVIDIA Corporation - C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+O23 - Service: NVIDIA Display Container LS (NVDisplay.ContainerLocalSystem) - NVIDIA Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\nvami.inf_amd64_049df092253811a4\Display.NvContainer\NVDisplay.Container.exe
+O23 - Service: @%systemroot%\system32\PerceptionSimulation\PerceptionSimulationService.exe,-101 (perceptionsimulation) - Unknown owner - C:\WINDOWS\system32\PerceptionSimulation\PerceptionSimulationService.exe (file missing)
+O23 - Service: Intel  PROSet/Wireless Service (PIEServiceNew) - Intel Corporation - C:\Windows\System32\DriverStore\FileRepository\piecomponent.inf_amd64_3623bab62426ba87\Intel_PIE_Service.exe
+O23 - Service: RefreshRateService - ASUSTek Computer Inc. - C:\Program Files (x86)\ASUSTeK COMPUTER INC\RefreshRateService\RefreshRateService.exe
+O23 - Service: ROG Live Service - ASUSTek COMPUTER INC. - C:\Program Files\ASUS\ROG Live Service\ROGLiveService.exe
+O23 - Service: @%systemroot%\system32\Locator.exe,-2 (RpcLocator) - Unknown owner - C:\WINDOWS\system32\locator.exe (file missing)
+O23 - Service: @oem94.inf,%RstMwService.ServiceName%;Intel(R) Storage Middleware Service (RstMwService) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\iastorac.inf_amd64_ba273d0ffb93e225\RstMwService.exe
+O23 - Service: Realtek Audio Universal Service (RtkAudioUniversalService) - Unknown owner - C:\WINDOWS\System32\RtkAudUService64.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\samsrv.dll,-1 (SamSs) - Unknown owner - C:\WINDOWS\system32\lsass.exe (file missing)
+O23 - Service: @%systemroot%\system32\SecurityHealthAgent.dll,-1002 (SecurityHealthService) - Unknown owner - C:\WINDOWS\system32\SecurityHealthService.exe (file missing)
+O23 - Service: @%ProgramFiles%\Windows Defender Advanced Threat Protection\MsSense.exe,-1001 (Sense) - Unknown owner - C:\Program Files (x86)\Windows Defender Advanced Threat Protection\MsSense.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\SensorDataService.exe,-101 (SensorDataService) - Unknown owner - C:\WINDOWS\System32\SensorDataService.exe (file missing)
+O23 - Service: @firewallapi.dll,-50323 (SNMPTrap) - Unknown owner - C:\WINDOWS\System32\snmptrap.exe (file missing)
+O23 - Service: @%systemroot%\system32\spectrum.exe,-101 (spectrum) - Unknown owner - C:\WINDOWS\system32\spectrum.exe (file missing)
+O23 - Service: @%systemroot%\system32\spoolsv.exe,-1 (Spooler) - Unknown owner - C:\WINDOWS\System32\spoolsv.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\sppsvc.exe,-101 (sppsvc) - Unknown owner - C:\WINDOWS\system32\sppsvc.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\TieringEngineService.exe,-702 (TieringEngineService) - Unknown owner - C:\WINDOWS\system32\TieringEngineService.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\vaultsvc.dll,-1003 (VaultSvc) - Unknown owner - C:\WINDOWS\system32\lsass.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\vds.exe,-100 (vds) - Unknown owner - C:\WINDOWS\System32\vds.exe (file missing)
+O23 - Service: VMware Authorization Service (VMAuthdService) - VMware, Inc. - D:\ProgramFiles\VMWare Workstation Pro\vmware-authd.exe
+O23 - Service: VMware DHCP Service (VMnetDHCP) - VMware, Inc. - C:\WINDOWS\SysWOW64\vmnetdhcp.exe
+O23 - Service: VMware USB Arbitration Service (VMUSBArbService) - VMware, Inc. - C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe
+O23 - Service: VMware NAT Service - VMware, Inc. - C:\WINDOWS\SysWOW64\vmnat.exe
+O23 - Service: VMware Autostart Service (VmwareAutostartService) - Unknown owner - D:\ProgramFiles\VMWare Workstation Pro\vmware-autostart.exe
+O23 - Service: @%systemroot%\system32\vssvc.exe,-102 (VSS) - Unknown owner - C:\WINDOWS\system32\vssvc.exe (file missing)
+O23 - Service: @%systemroot%\system32\wbengine.exe,-104 (wbengine) - Unknown owner - C:\WINDOWS\system32\wbengine.exe (file missing)
+O23 - Service: Windhawk - Ramen Software - C:\Program Files\Windhawk\windhawk.exe
+O23 - Service: @%Systemroot%\system32\wbem\wmiapsrv.exe,-110 (wmiApSrv) - Unknown owner - C:\WINDOWS\system32\wbem\WmiApSrv.exe (file missing)
+O23 - Service: @%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe,-101 (WMPNetworkSvc) - Unknown owner - C:\Program Files (x86)\Windows Media Player\wmpnetwk.exe (file missing)
+O23 - Service: @oem13.inf,%OCServiceName%;XTUOCDriverService (XTU3SERVICE) - Intel(R) Corporation - C:\WINDOWS\SysWOW64\XtuService.exe
+
+--
+End of file - 18007 bytes
