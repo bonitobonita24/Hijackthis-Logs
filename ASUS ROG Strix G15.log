@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 5:17:13 pm, on 25/02/2024
+Scan saved at 8:44:57 am, on 26/02/2024
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.22621.0001)
 
@@ -17,9 +17,9 @@ C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
 C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
 C:\Program Files (x86)\ASUS\ArmouryDevice\dll\SwAgent\ArmourySwAgent.exe
 C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
-C:\Windows\SysWOW64\UMonit64.exe
 C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
 C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_f2eed2fae3b45a67\ASUSOptimization\AsusOSD.exe
+C:\Windows\SysWOW64\UMonit64.exe
 D:\ProgramFiles\HijackThis.exe
 
 R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
@@ -81,7 +81,7 @@ O23 - Service: ASUS System Diagnosis (ASUSSystemDiagnosis) - ASUSTek COMPUTER IN
 O23 - Service: Intel(R) Content Protection HECI Service (cphs) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_2ce3ffa204f4b311\IntelCpHeciSvc.exe
 O23 - Service: Intel(R) Content Protection HDCP Service (cplspcon) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_2ce3ffa204f4b311\IntelCpHDCPSvc.exe
 O23 - Service: @%SystemRoot%\system32\CredentialEnrollmentManager.exe,-100 (CredentialEnrollmentManagerUserSvc) - Unknown owner - C:\WINDOWS\system32\CredentialEnrollmentManager.exe (file missing)
-O23 - Service: CredentialEnrollmentManagerUserSvc_72c2d - Unknown owner - C:\WINDOWS\system32\CredentialEnrollmentManager.exe (file missing)
+O23 - Service: CredentialEnrollmentManagerUserSvc_7ba0e - Unknown owner - C:\WINDOWS\system32\CredentialEnrollmentManager.exe (file missing)
 O23 - Service: DFServ - Faronics Corporation - C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\DFServ.exe
 O23 - Service: @%SystemRoot%\system32\DiagSvcs\DiagnosticsHub.StandardCollector.ServiceRes.dll,-1000 (diagnosticshub.standardcollector.service) - Unknown owner - C:\WINDOWS\system32\DiagSvcs\DiagnosticsHub.StandardCollector.Service.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\efssvc.dll,-100 (EFS) - Unknown owner - C:\WINDOWS\System32\lsass.exe (file missing)
@@ -89,7 +89,7 @@ O23 - Service: @oem54.inf,%ServiceDisplayName%;Intel(R) Dynamic Tuning service (
 O23 - Service: @%systemroot%\system32\fxsresm.dll,-118 (Fax) - Unknown owner - C:\WINDOWS\system32\fxssvc.exe (file missing)
 O23 - Service: @%systemroot%\system32\GameInputSvc.exe,-101 (GameInputSvc) - Unknown owner - C:\WINDOWS\System32\GameInputSvc.exe (file missing)
 O23 - Service: GameSDK Service - ASUS Inc. - C:\Program Files (x86)\ASUS\GameSDK Service\GameSDK.exe
-O23 - Service: Google Chrome Elevation Service (GoogleChromeElevationService) (GoogleChromeElevationService) - Google LLC - C:\Program Files\Google\Chrome\Application\121.0.6167.189\elevation_service.exe
+O23 - Service: Google Chrome Elevation Service (GoogleChromeElevationService) (GoogleChromeElevationService) - Google LLC - C:\Program Files\Google\Chrome\Application\122.0.6261.70\elevation_service.exe
 O23 - Service: Google Update Service (gupdate) (gupdate) - Google LLC - C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
 O23 - Service: Google Update Service (gupdatem) (gupdatem) - Google LLC - C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
 O23 - Service: @oem94.inf,%iaStorAfsService.ServiceName%;Intel(R) Optane(TM) Memory Service (iaStorAfsService) - Unknown owner - C:\WINDOWS\System32\iaStorAfsService.exe (file missing)
@@ -140,4 +140,4 @@ O23 - Service: @%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe,-101 (WMPNetwor
 O23 - Service: @oem13.inf,%OCServiceName%;XTUOCDriverService (XTU3SERVICE) - Intel(R) Corporation - C:\WINDOWS\SysWOW64\XtuService.exe
 
 --
-End of file - 18007 bytes
+End of file - 18006 bytes
