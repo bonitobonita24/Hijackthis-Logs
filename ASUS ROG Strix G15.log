@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 11:24:10 am, on 03/03/2024
+Scan saved at 10:19:20 pm, on 04/03/2024
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.22621.0001)
 
@@ -18,8 +18,10 @@ C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
 C:\Program Files (x86)\ASUS\ArmouryDevice\dll\SwAgent\ArmourySwAgent.exe
 C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
 C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
-C:\Windows\SysWOW64\UMonit64.exe
 C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_f2eed2fae3b45a67\ASUSOptimization\AsusOSD.exe
+C:\Windows\SysWOW64\UMonit64.exe
+C:\Program Files (x86)\Internet Download Manager\IDMan.exe
+C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\IPCBox\AdobeIPCBroker.exe
 C:\Program Files (x86)\Microsoft Office\Root\Office16\SDXHelper.exe
 D:\ProgramFiles\HijackThis.exe
 
@@ -86,7 +88,7 @@ O23 - Service: ASUS System Diagnosis (ASUSSystemDiagnosis) - ASUSTek COMPUTER IN
 O23 - Service: Intel(R) Content Protection HECI Service (cphs) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_2ce3ffa204f4b311\IntelCpHeciSvc.exe
 O23 - Service: Intel(R) Content Protection HDCP Service (cplspcon) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_2ce3ffa204f4b311\IntelCpHDCPSvc.exe
 O23 - Service: @%SystemRoot%\system32\CredentialEnrollmentManager.exe,-100 (CredentialEnrollmentManagerUserSvc) - Unknown owner - C:\WINDOWS\system32\CredentialEnrollmentManager.exe (file missing)
-O23 - Service: CredentialEnrollmentManagerUserSvc_7c88c - Unknown owner - C:\WINDOWS\system32\CredentialEnrollmentManager.exe (file missing)
+O23 - Service: CredentialEnrollmentManagerUserSvc_76263 - Unknown owner - C:\WINDOWS\system32\CredentialEnrollmentManager.exe (file missing)
 O23 - Service: DFServ - Faronics Corporation - C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\DFServ.exe
 O23 - Service: @%SystemRoot%\system32\DiagSvcs\DiagnosticsHub.StandardCollector.ServiceRes.dll,-1000 (diagnosticshub.standardcollector.service) - Unknown owner - C:\WINDOWS\system32\DiagSvcs\DiagnosticsHub.StandardCollector.Service.exe (file missing)
 O23 - Service: EasyAntiCheat - EasyAntiCheat Ltd - C:\Program Files (x86)\EasyAntiCheat\EasyAntiCheat.exe
@@ -146,4 +148,4 @@ O23 - Service: @%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe,-101 (WMPNetwor
 O23 - Service: @oem13.inf,%OCServiceName%;XTUOCDriverService (XTU3SERVICE) - Intel(R) Corporation - C:\WINDOWS\SysWOW64\XtuService.exe
 
 --
-End of file - 18703 bytes
+End of file - 18853 bytes
