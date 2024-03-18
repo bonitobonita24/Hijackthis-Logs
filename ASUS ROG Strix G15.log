@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 7:38:24 pm, on 12/03/2024
+Scan saved at 5:36:53 pm, on 18/03/2024
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.22621.0001)
 
@@ -7,21 +7,20 @@ MSIE: Internet Explorer v11.0 (11.00.22621.0001)
 Boot mode: Normal
 
 Running processes:
+C:\Program Files\Windhawk\windhawk.exe
 C:\Program Files (x86)\ASUS\ArmouryDevice\dll\AcPowerNotification\AcPowerNotification.exe
 C:\Program Files (x86)\ASUS\ASUS_FRQ_Control\ASUS_FRQ_Control.exe
 C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
 C:\Program Files (x86)\NVIDIA Corporation\NvNode\NVIDIA Web Helper.exe
-C:\Program Files\Windhawk\windhawk.exe
 C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
 C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
 C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
 C:\Program Files (x86)\ASUS\ArmouryDevice\dll\SwAgent\ArmourySwAgent.exe
 C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
 C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
-C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
-C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
 C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_f2eed2fae3b45a67\ASUSOptimization\AsusOSD.exe
 C:\Windows\SysWOW64\UMonit64.exe
+C:\Program Files (x86)\Microsoft Office\Root\Office16\SDXHelper.exe
 D:\ProgramFiles\HijackThis.exe
 
 R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
@@ -37,7 +36,7 @@ R0 - HKLM\Software\Microsoft\Internet Explorer\Main,Local Page = C:\Windows\SysW
 R0 - HKCU\Software\Microsoft\Internet Explorer\Toolbar,LinksFolderName = 
 F2 - REG:system.ini: UserInit=
 O2 - BHO: IDM Helper - {0055C089-8582-441B-A0BF-17B458C2A3A8} - C:\Program Files (x86)\Internet Download Manager\IDMIECC.dll
-O2 - BHO: IEToEdge BHO - {1FD49718-1D00-4B19-AF5F-070AF6D5D54C} - C:\Program Files (x86)\Microsoft\Edge\Application\122.0.2365.80\BHO\ie_to_edge_bho.dll
+O2 - BHO: IEToEdge BHO - {1FD49718-1D00-4B19-AF5F-070AF6D5D54C} - C:\Program Files (x86)\Microsoft\Edge\Application\122.0.2365.92\BHO\ie_to_edge_bho.dll
 O2 - BHO: Lync Click to Call BHO - {31D09BA0-12F5-4CCE-BE8A-2923E76605DA} - C:\Program Files (x86)\Microsoft Office\root\Office16\OCHelper.dll
 O4 - HKLM\..\Run: [vmware-tray.exe] "D:\ProgramFiles\VMWare Workstation Pro\vmware-tray.exe"
 O4 - HKCU\..\Run: [GoogleDriveFS] "C:\Program Files\Google\Drive File Stream\88.0.0.0\GoogleDriveFS.exe" --startup_mode
@@ -46,8 +45,8 @@ O4 - HKCU\..\Run: [EPLTarget\P0000000000000000] C:\WINDOWS\system32\spool\DRIVER
 O4 - HKCU\..\Run: [EPLTarget\P0000000000000001] C:\WINDOWS\system32\spool\DRIVERS\x64\3\E_YATIUPE.EXE /EPT "EPLTarget\P0000000000000001" /M "L3110 Series"
 O4 - HKCU\..\Run: [EPLTarget\P0000000000000002] C:\WINDOWS\system32\spool\DRIVERS\x64\3\E_YATILUE.EXE /EPT "EPLTarget\P0000000000000002" /M "L120 Series"
 O4 - HKCU\..\Run: [EPLTarget\P0000000000000003] C:\WINDOWS\system32\spool\DRIVERS\x64\3\E_YATILUE.EXE /EPT "EPLTarget\P0000000000000003" /M "L120 Series"
-O4 - HKCU\..\Run: [CanvaAutoLaunchAvailabilityCheckAgent] "C:\Users\HP Laptop\AppData\Local\Programs\Canva\Canva.exe" --start-availability-check-agent
 O4 - HKCU\..\Run: [Spotify] C:\Users\HP Laptop\AppData\Roaming\Spotify\Spotify.exe --autostart --minimized
+O4 - HKCU\..\Run: [CanvaAutoLaunchAvailabilityCheckAgent] "C:\Users\HP Laptop\AppData\Local\Programs\Canva\Canva.exe" --start-availability-check-agent
 O4 - HKUS\S-1-5-19\..\Run: [OneDriveSetup] C:\Windows\System32\OneDriveSetup.exe /thfirstsetup (User 'LOCAL SERVICE')
 O4 - HKUS\S-1-5-19\..\Run: [GoogleDriveFS] C:\Program Files\Google\Drive File Stream\88.0.0.0\GoogleDriveFS.exe --startup_mode (User 'LOCAL SERVICE')
 O4 - HKUS\S-1-5-19\..\RunOnce: [WAB Migrate] %ProgramFiles%\Windows Mail\wab.exe /Upgrade (User 'LOCAL SERVICE')
@@ -65,7 +64,7 @@ O10 - Unknown file in Winsock LSP: c:\windows\system32\nlansp_c.dll
 O10 - Unknown file in Winsock LSP: c:\windows\system32\vsocklib.dll
 O10 - Unknown file in Winsock LSP: c:\windows\system32\vsocklib.dll
 O11 - Options group: [ACCELERATED_GRAPHICS] Accelerated graphics
-O17 - HKLM\System\CCS\Services\Tcpip\..\{3d3d4718-247d-4daa-b1c4-2dd7e2f07034}: NameServer = 8.8.8.8
+O17 - HKLM\System\CCS\Services\Tcpip\..\{3d3d4718-247d-4daa-b1c4-2dd7e2f07034}: NameServer = 8.8.8.8,8.8.4.4
 O18 - Protocol: mso-minsb-roaming.16 - {83C25742-A9F7-49FB-9138-434302C88D07} - C:\Program Files (x86)\Microsoft Office\root\Office16\MSOSB.DLL
 O18 - Protocol: mso-minsb.16 - {42089D2D-912D-4018-9087-2B87803E93FB} - C:\Program Files (x86)\Microsoft Office\root\Office16\MSOSB.DLL
 O18 - Protocol: osf-roaming.16 - {42089D2D-912D-4018-9087-2B87803E93FB} - C:\Program Files (x86)\Microsoft Office\root\Office16\MSOSB.DLL
@@ -93,7 +92,7 @@ O23 - Service: ASUS System Diagnosis (ASUSSystemDiagnosis) - ASUSTek COMPUTER IN
 O23 - Service: Intel(R) Content Protection HECI Service (cphs) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_2ce3ffa204f4b311\IntelCpHeciSvc.exe
 O23 - Service: Intel(R) Content Protection HDCP Service (cplspcon) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_2ce3ffa204f4b311\IntelCpHDCPSvc.exe
 O23 - Service: @%SystemRoot%\system32\CredentialEnrollmentManager.exe,-100 (CredentialEnrollmentManagerUserSvc) - Unknown owner - C:\WINDOWS\system32\CredentialEnrollmentManager.exe (file missing)
-O23 - Service: CredentialEnrollmentManagerUserSvc_815a8 - Unknown owner - C:\WINDOWS\system32\CredentialEnrollmentManager.exe (file missing)
+O23 - Service: CredentialEnrollmentManagerUserSvc_5d0a5 - Unknown owner - C:\WINDOWS\system32\CredentialEnrollmentManager.exe (file missing)
 O23 - Service: DFServ - Faronics Corporation - C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\DFServ.exe
 O23 - Service: @%SystemRoot%\system32\DiagSvcs\DiagnosticsHub.StandardCollector.ServiceRes.dll,-1000 (diagnosticshub.standardcollector.service) - Unknown owner - C:\WINDOWS\system32\DiagSvcs\DiagnosticsHub.StandardCollector.Service.exe (file missing)
 O23 - Service: EasyAntiCheat - EasyAntiCheat Ltd - C:\Program Files (x86)\EasyAntiCheat\EasyAntiCheat.exe
@@ -102,7 +101,7 @@ O23 - Service: @oem54.inf,%ServiceDisplayName%;Intel(R) Dynamic Tuning service (
 O23 - Service: @%systemroot%\system32\fxsresm.dll,-118 (Fax) - Unknown owner - C:\WINDOWS\system32\fxssvc.exe (file missing)
 O23 - Service: @%systemroot%\system32\GameInputSvc.exe,-101 (GameInputSvc) - Unknown owner - C:\WINDOWS\System32\GameInputSvc.exe (file missing)
 O23 - Service: GameSDK Service - ASUS Inc. - C:\Program Files (x86)\ASUS\GameSDK Service\GameSDK.exe
-O23 - Service: Google Chrome Elevation Service (GoogleChromeElevationService) (GoogleChromeElevationService) - Google LLC - C:\Program Files\Google\Chrome\Application\122.0.6261.112\elevation_service.exe
+O23 - Service: Google Chrome Elevation Service (GoogleChromeElevationService) (GoogleChromeElevationService) - Google LLC - C:\Program Files\Google\Chrome\Application\122.0.6261.129\elevation_service.exe
 O23 - Service: Google Update Service (gupdate) (gupdate) - Google LLC - C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
 O23 - Service: Google Update Service (gupdatem) (gupdatem) - Google LLC - C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
 O23 - Service: @oem94.inf,%iaStorAfsService.ServiceName%;Intel(R) Optane(TM) Memory Service (iaStorAfsService) - Unknown owner - C:\WINDOWS\System32\iaStorAfsService.exe (file missing)
@@ -153,4 +152,4 @@ O23 - Service: @%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe,-101 (WMPNetwor
 O23 - Service: @oem13.inf,%OCServiceName%;XTUOCDriverService (XTU3SERVICE) - Intel(R) Corporation - C:\WINDOWS\SysWOW64\XtuService.exe
 
 --
-End of file - 19640 bytes
+End of file - 19593 bytes
