@@ -1,5 +1,5 @@
 Logfile of Trend Micro HijackThis v2.0.5
-Scan saved at 5:36:53 pm, on 18/03/2024
+Scan saved at 10:34:01 pm, on 24/03/2024
 Platform: Unknown Windows (WinNT 6.02.1008)
 MSIE: Internet Explorer v11.0 (11.00.22621.0001)
 
@@ -18,9 +18,13 @@ C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
 C:\Program Files (x86)\ASUS\ArmouryDevice\dll\SwAgent\ArmourySwAgent.exe
 C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
 C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
-C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_f2eed2fae3b45a67\ASUSOptimization\AsusOSD.exe
+C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_c2532b63de827d3d\ASUSOptimization\AsusOSD.exe
 C:\Windows\SysWOW64\UMonit64.exe
 C:\Program Files (x86)\Microsoft Office\Root\Office16\SDXHelper.exe
+C:\Program Files (x86)\Microsoft Office\Root\Office16\EXCEL.EXE
+C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\IPCBox\AdobeIPCBroker.exe
 D:\ProgramFiles\HijackThis.exe
 
 R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
@@ -47,6 +51,7 @@ O4 - HKCU\..\Run: [EPLTarget\P0000000000000002] C:\WINDOWS\system32\spool\DRIVER
 O4 - HKCU\..\Run: [EPLTarget\P0000000000000003] C:\WINDOWS\system32\spool\DRIVERS\x64\3\E_YATILUE.EXE /EPT "EPLTarget\P0000000000000003" /M "L120 Series"
 O4 - HKCU\..\Run: [Spotify] C:\Users\HP Laptop\AppData\Roaming\Spotify\Spotify.exe --autostart --minimized
 O4 - HKCU\..\Run: [CanvaAutoLaunchAvailabilityCheckAgent] "C:\Users\HP Laptop\AppData\Local\Programs\Canva\Canva.exe" --start-availability-check-agent
+O4 - HKCU\..\Run: [IDMan] C:\Program Files (x86)\Internet Download Manager\IDMan.exe /onboot
 O4 - HKUS\S-1-5-19\..\Run: [OneDriveSetup] C:\Windows\System32\OneDriveSetup.exe /thfirstsetup (User 'LOCAL SERVICE')
 O4 - HKUS\S-1-5-19\..\Run: [GoogleDriveFS] C:\Program Files\Google\Drive File Stream\88.0.0.0\GoogleDriveFS.exe --startup_mode (User 'LOCAL SERVICE')
 O4 - HKUS\S-1-5-19\..\RunOnce: [WAB Migrate] %ProgramFiles%\Windows Mail\wab.exe /Upgrade (User 'LOCAL SERVICE')
@@ -54,7 +59,7 @@ O4 - HKUS\S-1-5-20\..\Run: [OneDriveSetup] C:\Windows\System32\OneDriveSetup.exe
 O4 - HKUS\S-1-5-20\..\RunOnce: [WAB Migrate] %ProgramFiles%\Windows Mail\wab.exe /Upgrade (User 'NETWORK SERVICE')
 O4 - HKUS\S-1-5-18\..\Run: [GoogleDriveFS] C:\Program Files\Google\Drive File Stream\88.0.0.0\GoogleDriveFS.exe --startup_mode (User 'SYSTEM')
 O4 - HKUS\.DEFAULT\..\Run: [GoogleDriveFS] C:\Program Files\Google\Drive File Stream\88.0.0.0\GoogleDriveFS.exe --startup_mode (User 'Default user')
-O8 - Extra context menu item: Download all links with IDM - C:\Program Files (x86)\Internet Download Manager\IEGetAll.htm
+O4 - Global Startup: SoftEther VPN Client Manager Startup.lnk = D:\ProgramFiles\SoftEther VPN Client\vpncmgr_x64.exe
 O8 - Extra context menu item: Download with IDM - C:\Program Files (x86)\Internet Download Manager\IEExt.htm
 O8 - Extra context menu item: E&xport to Microsoft Excel - res://C:\Program Files (x86)\Microsoft Office\Root\Office16\EXCEL.EXE/3000
 O8 - Extra context menu item: Se&nd to OneNote - res://C:\Program Files (x86)\Microsoft Office\Root\Office16\ONBttnIE.dll/105
@@ -78,21 +83,21 @@ O23 - Service: @oem28.inf,%ServiceDisplayName%;Armoury Crate Control Interface (
 O23 - Service: Armoury Crate Download Tool (ArmouryCrateDownloadTool) - ASUSTeK Computer Inc. - C:\WINDOWS\System32\DriverStore\FileRepository\rogms.inf_amd64_ba08c6e398c95874\ArmouryLiveUpdate.exe
 O23 - Service: ARMOURY CRATE Service (ArmouryCrateService) - ASUSTeK COMPUTER INC. - C:\Program Files\ASUS\ARMOURY CRATE Service\ArmouryCrate.Service.exe
 O23 - Service: ASUS Update Service (asus) (asus) - ASUSTeK Computer Inc. - C:\Program Files (x86)\ASUS\Update\AsusUpdate.exe
-O23 - Service: ASUS App Service (AsusAppService) - ASUSTeK COMPUTER INC. - C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_f2eed2fae3b45a67\AsusAppService\AsusAppService.exe
+O23 - Service: ASUS App Service (AsusAppService) - ASUSTeK COMPUTER INC. - C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_c2532b63de827d3d\AsusAppService\AsusAppService.exe
 O23 - Service: Asus Certificate Service (AsusCertService) - Asustek Computer Inc. - C:\Program Files (x86)\ASUS\AsusCertService\AsusCertService.exe
 O23 - Service: ASUS Update Service (asusm) (asusm) - ASUSTeK Computer Inc. - C:\Program Files (x86)\ASUS\Update\AsusUpdate.exe
 O23 - Service: ASUS MultiAntenna Service (AsusMultiAntennaSvc) - ASUSTeK COMPUTER INC. - C:\Program Files\ASUS\ASUS MultiAntenna Service\AsusMultiAntennaSvc.exe
-O23 - Service: ASUS Optimization (ASUSOptimization) - ASUSTeK COMPUTER INC. - C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_f2eed2fae3b45a67\ASUSOptimization\AsusOptimization.exe
+O23 - Service: ASUS Optimization (ASUSOptimization) - ASUSTeK COMPUTER INC. - C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_c2532b63de827d3d\ASUSOptimization\AsusOptimization.exe
 O23 - Service: AsusPTPService - ASUSTek COMPUTER INC. - C:\WINDOWS\System32\DriverStore\FileRepository\asusdigifilter.inf_amd64_d30fda191e4f14bc\AsusPTPService.exe
-O23 - Service: AsusROGLSLService Download ROGLSLoader (AsusROGLSLService) - ASUS - C:\Program Files (x86)\ASUS\AsusROGLSLService\AsusROGLSLService.exe
-O23 - Service: ASUS Software Manager (ASUSSoftwareManager) - ASUSTeK COMPUTER INC. - C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_f2eed2fae3b45a67\ASUSSoftwareManager\AsusSoftwareManager.exe
-O23 - Service: ASUS Switch (ASUSSwitch) - ASUSTeK COMPUTER INC. - C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_f2eed2fae3b45a67\ASUSSwitch\AsusSwitch.exe
-O23 - Service: ASUS System Analysis (ASUSSystemAnalysis) - ASUSTeK COMPUTER INC. - C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_f2eed2fae3b45a67\ASUSSystemAnalysis\AsusSystemAnalysis.exe
-O23 - Service: ASUS System Diagnosis (ASUSSystemDiagnosis) - ASUSTek COMPUTER INC. - C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_f2eed2fae3b45a67\ASUSSystemDiagnosis\AsusSystemDiagnosis.exe
+O23 - Service: ASUS Software Manager (ASUSSoftwareManager) - ASUSTeK COMPUTER INC. - C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_c2532b63de827d3d\ASUSSoftwareManager\AsusSoftwareManager.exe
+O23 - Service: ASUS Switch (ASUSSwitch) - ASUSTeK COMPUTER INC. - C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_c2532b63de827d3d\ASUSSwitch\AsusSwitch.exe
+O23 - Service: ASUS System Analysis (ASUSSystemAnalysis) - ASUSTeK COMPUTER INC. - C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_c2532b63de827d3d\ASUSSystemAnalysis\AsusSystemAnalysis.exe
+O23 - Service: ASUS System Diagnosis (ASUSSystemDiagnosis) - ASUSTek COMPUTER INC. - C:\WINDOWS\System32\DriverStore\FileRepository\asussci2.inf_amd64_c2532b63de827d3d\ASUSSystemDiagnosis\AsusSystemDiagnosis.exe
+O23 - Service: CCleaner Performance Optimizer Service (CCleanerPerformanceOptimizerService) - Piriform Software Ltd - C:\Program Files\CCleaner\CCleanerPerformanceOptimizerService.exe
 O23 - Service: Intel(R) Content Protection HECI Service (cphs) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_2ce3ffa204f4b311\IntelCpHeciSvc.exe
 O23 - Service: Intel(R) Content Protection HDCP Service (cplspcon) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_2ce3ffa204f4b311\IntelCpHDCPSvc.exe
 O23 - Service: @%SystemRoot%\system32\CredentialEnrollmentManager.exe,-100 (CredentialEnrollmentManagerUserSvc) - Unknown owner - C:\WINDOWS\system32\CredentialEnrollmentManager.exe (file missing)
-O23 - Service: CredentialEnrollmentManagerUserSvc_5d0a5 - Unknown owner - C:\WINDOWS\system32\CredentialEnrollmentManager.exe (file missing)
+O23 - Service: CredentialEnrollmentManagerUserSvc_8aff1 - Unknown owner - C:\WINDOWS\system32\CredentialEnrollmentManager.exe (file missing)
 O23 - Service: DFServ - Faronics Corporation - C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\DFServ.exe
 O23 - Service: @%SystemRoot%\system32\DiagSvcs\DiagnosticsHub.StandardCollector.ServiceRes.dll,-1000 (diagnosticshub.standardcollector.service) - Unknown owner - C:\WINDOWS\system32\DiagSvcs\DiagnosticsHub.StandardCollector.Service.exe (file missing)
 O23 - Service: EasyAntiCheat - EasyAntiCheat Ltd - C:\Program Files (x86)\EasyAntiCheat\EasyAntiCheat.exe
@@ -101,7 +106,7 @@ O23 - Service: @oem54.inf,%ServiceDisplayName%;Intel(R) Dynamic Tuning service (
 O23 - Service: @%systemroot%\system32\fxsresm.dll,-118 (Fax) - Unknown owner - C:\WINDOWS\system32\fxssvc.exe (file missing)
 O23 - Service: @%systemroot%\system32\GameInputSvc.exe,-101 (GameInputSvc) - Unknown owner - C:\WINDOWS\System32\GameInputSvc.exe (file missing)
 O23 - Service: GameSDK Service - ASUS Inc. - C:\Program Files (x86)\ASUS\GameSDK Service\GameSDK.exe
-O23 - Service: Google Chrome Elevation Service (GoogleChromeElevationService) (GoogleChromeElevationService) - Google LLC - C:\Program Files\Google\Chrome\Application\122.0.6261.129\elevation_service.exe
+O23 - Service: Google Chrome Elevation Service (GoogleChromeElevationService) (GoogleChromeElevationService) - Google LLC - C:\Program Files\Google\Chrome\Application\123.0.6312.59\elevation_service.exe
 O23 - Service: Google Update Service (gupdate) (gupdate) - Google LLC - C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
 O23 - Service: Google Update Service (gupdatem) (gupdatem) - Google LLC - C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
 O23 - Service: @oem94.inf,%iaStorAfsService.ServiceName%;Intel(R) Optane(TM) Memory Service (iaStorAfsService) - Unknown owner - C:\WINDOWS\System32\iaStorAfsService.exe (file missing)
@@ -120,7 +125,7 @@ O23 - Service: @oem20.inf,%SERVICE_FRIENDLY_NAME%;Nahimic service (NahimicServic
 O23 - Service: @%SystemRoot%\System32\netlogon.dll,-102 (Netlogon) - Unknown owner - C:\WINDOWS\system32\lsass.exe (file missing)
 O23 - Service: NVIDIA LocalSystem Container (NvContainerLocalSystem) - NVIDIA Corporation - C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
 O23 - Service: NVIDIA NetworkService Container (NvContainerNetworkService) - NVIDIA Corporation - C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
-O23 - Service: NVIDIA Display Container LS (NVDisplay.ContainerLocalSystem) - NVIDIA Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\nvami.inf_amd64_ed81ad204162c085\Display.NvContainer\NVDisplay.Container.exe
+O23 - Service: NVIDIA Display Container LS (NVDisplay.ContainerLocalSystem) - NVIDIA Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\nvami.inf_amd64_72a8482547fd21bc\Display.NvContainer\NVDisplay.Container.exe
 O23 - Service: @%systemroot%\system32\PerceptionSimulation\PerceptionSimulationService.exe,-101 (perceptionsimulation) - Unknown owner - C:\WINDOWS\system32\PerceptionSimulation\PerceptionSimulationService.exe (file missing)
 O23 - Service: Intel  PROSet/Wireless Service (PIEServiceNew) - Intel Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\piecomponent.inf_amd64_6c1db4160fc7f113\Intel_PIE_Service.exe
 O23 - Service: RefreshRateService - ASUSTek Computer Inc. - C:\Program Files (x86)\ASUSTeK COMPUTER INC\RefreshRateService\RefreshRateService.exe
@@ -132,6 +137,7 @@ O23 - Service: @%SystemRoot%\system32\samsrv.dll,-1 (SamSs) - Unknown owner - C:
 O23 - Service: @%systemroot%\system32\SecurityHealthAgent.dll,-1002 (SecurityHealthService) - Unknown owner - C:\WINDOWS\system32\SecurityHealthService.exe (file missing)
 O23 - Service: @%ProgramFiles%\Windows Defender Advanced Threat Protection\MsSense.exe,-1001 (Sense) - Unknown owner - C:\Program Files (x86)\Windows Defender Advanced Threat Protection\MsSense.exe (file missing)
 O23 - Service: @%SystemRoot%\system32\SensorDataService.exe,-101 (SensorDataService) - Unknown owner - C:\WINDOWS\System32\SensorDataService.exe (file missing)
+O23 - Service: SoftEther VPN Client (SEVPNCLIENT) - SoftEther VPN Project at University of Tsukuba, Japan. - D:\ProgramFiles\SoftEther VPN Client\vpnclient_x64.exe
 O23 - Service: @firewallapi.dll,-50323 (SNMPTrap) - Unknown owner - C:\WINDOWS\System32\snmptrap.exe (file missing)
 O23 - Service: @%systemroot%\system32\spectrum.exe,-101 (spectrum) - Unknown owner - C:\WINDOWS\system32\spectrum.exe (file missing)
 O23 - Service: @%systemroot%\system32\spoolsv.exe,-1 (Spooler) - Unknown owner - C:\WINDOWS\System32\spoolsv.exe (file missing)
@@ -152,4 +158,4 @@ O23 - Service: @%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe,-101 (WMPNetwor
 O23 - Service: @oem13.inf,%OCServiceName%;XTUOCDriverService (XTU3SERVICE) - Intel(R) Corporation - C:\WINDOWS\SysWOW64\XtuService.exe
 
 --
-End of file - 19593 bytes
+End of file - 20159 bytes
